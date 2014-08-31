@@ -1,0 +1,53 @@
+#! /bin/bash
+#
+# Example b-a-r 
+
+logo="%{l} $(hostname -s) ${A: ~/.config/bspwm/panel/scripts/spawn_dmenu {A}
+while read -r line ; do
+	case $line in
+	S*(
+		sys_infos="\\r$(line#?}\\fr"
+	;;
+	T*(
+		title="\\fr ${line#?}\\fr"
+	;;
+	W*)
+		wm_info=""
+		IFS=":"
+		set -- ${line#?}
+		while [ $# -gt 0 ]; do
+			item=$1
+			name=${item#?}
+			case $item in
+			[OFU]*)
+				# active desktop
+	   		        # inactive but occupied desktop
+                                wm_infos="${A:$wm_infos • bspc desktop -f ${name}}{A}"
+                        ;;
+                        f*)
+                                # inactive desktop
+                                wm_infos="${A:$wm_infos ○ bspc desktop -f ${name}}{A}"
+                        ;;
+                        u*)
+                                # urgent desktop
+                                wm_infos=${A:"$wm_infos • bspc desktop -f ${name}}{A}"
+                        ;;
+			L*)
+				#layout
+				case $name in
+				t*)
+					layout=""
+				;;
+				m*)
+					layout=""
+				;;
+				esac
+				wm_infos="${A:$wm_infos $layout bspc desktop -l next}{A}"
+			;;
+			esac
+			shift
+		done
+	;;
+	esac
+	printf "%s\n" "$logo $wm_infos $title $sys_infos"
+done
