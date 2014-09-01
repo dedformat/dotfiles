@@ -17,17 +17,17 @@ workspace(){
 	echo $WORKSPACE
 }
 
-chg(){
-	echo  $(acpi --battery | awk '{gsub(/,/, "");} {print $4}')
-}
+#chg(){
+#	echo  $(acpi --battery | awk '{gsub(/,/, "");} {print $4}')
+#}
 
 #rem(){
 #	echo  $(acpi --battery | awk '/Discharging/ {print $6}')
 #}
 
-bat(){ 
-	echo  $(acpi -a | if grep -q "on-line"; then echo ""; else echo "⭫ $(chg)"; fi)
-}
+#bat(){ 
+#	echo  $(acpi -a | if grep -q "on-line"; then echo ""; else echo "⭫ $(chg)"; fi)
+#}
 
 ram(){
 	echo  $(free -m | awk '/-/ {print $3}')
@@ -42,23 +42,23 @@ vol(){
 }
 
 mus(){
-	echo  $(test -z "$(mpc current)" || mpc current)
+	echo  $(test -z "$(ncmpcpp --now-playing)" || ncmpcpp --now-playing)
 }
 
 pause(){
 	echo  $(mpc | if grep -q "paused"; then echo "(paused)"; fi)
 }
 
-cpu(){
-	echo  $(mpstat 2 1 | awk '$3 ~ /CPU/ { for(i=1;i<=NF;i++) { if ($i ~ /%idle/) field=i } } $3 ~ /all/ {printf"%d",100 - $field}')
-}
+#cpu(){
+#	echo  $(mpstat 2 1 | awk '$3 ~ /CPU/ { for(i=1;i<=NF;i++) { if ($i ~ /%idle/) field=i } } $3 ~ /all/ {printf"%d",100 - $field}')
+#}
 
 
-int(){
-	echo $(iwconfig wlp7s0 | awk '/Quality/ {print $2}' | sed 's/Quality//g;s/=//g;s/\///g;s/70//g')%
-}
+#int(){
+#	echo $(iwconfig wlp7s0 | awk '/Quality/ {print $2}' | sed 's/Quality//g;s/=//g;s/\///g;s/70//g')%
+#}
 
 while :; do
-	echo  "^pa(0)^ca(1, bspc desktop -f next)$(workspace)^ca() ^pa(1100)$(bat) ram $(ram) int $(int)^ca() vol $(vol) $(dat)"
+	echo  "^pa(0)^ca(1, bspc desktop -f next)$(workspace)^ca() ram $(ram) ^ca() vol $(vol) $(dat)"
 sleep 0
 done

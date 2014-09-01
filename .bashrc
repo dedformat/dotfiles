@@ -31,6 +31,9 @@ alias egrep='egrep --color'
 alias ping='ping -c 5'
 alias dmesg='dmesg -HL'
 alias pacman='sudo pacman'
+alias archey='archey3'
+alias sf='screenfetch'
+alias alsi='alsi -a -u'
 
 # New commands
 #cd and ls in one
