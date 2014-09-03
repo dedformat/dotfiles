@@ -1,0 +1,1 @@
+echo -e "\uE0A0 \uE0A1 \uE0A2 \uE0B0 \uE0B1 \uE0B2 \uE0B3"

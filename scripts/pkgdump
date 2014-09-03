@@ -7,7 +7,7 @@
 #
 #
 ########################################
-dotfilesdir=~/dotfiles # change this to your dotfiles directory
+dotfilesdir=~/.pkg # change this to your dotfiles directory
 if [[ ! -d $dotfilesdir/.git ]];then
     echo "You must set up a git repo first. I'd recommend taking a look at this quide http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/"
     exit 1
