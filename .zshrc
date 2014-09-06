@@ -15,6 +15,16 @@ setopt appendhistory notify
 bindkey -e
 # End of lines configured by zsh-newuser-install
 
+# keybinds
+export WORDCHARS=''
+
+bindkey "^[Od" backward-word 
+bindkey "^[Oc" forward-word
+bindkey "^[[7~" beginning-of-line
+bindkey "^[[8~" end-of-line
+bindkey "^[[3~" delete-char
+
+# powerline
 powerline-daemon -q
 
 # Powerline integration
