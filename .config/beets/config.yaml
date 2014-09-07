@@ -1,0 +1,7 @@
+directory: ~/music
+library: ~/.local/share/musiclibrary.blb
+
+import:
+    copy: no
+    
+plugins: web

@@ -1,6 +1,7 @@
 help
 mkdir test
 
-delete
 open_with 
 h
+delete
+search Music

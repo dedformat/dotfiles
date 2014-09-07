@@ -1,500 +1,500 @@
-./hell_world.sh
-chmod +x hell_world.sh
+cd powerline/
 ls
-mv hell_world.sh hello_world.sh
+cd themes/
 ls
-hello_world.sh 
-yaourt libnotify
-hello_world.sh 
-clear
-dunst --version
-grep -q amizer
-grep -q amixer
-man grep
-grep amixer
-amixer Master
-amixer -h
-amixer
-exit
-vim .config/bspwm/panel/barScript.sh 
-exit
-ncmpcpp --now-playing
-ncmpcpp --now-playing -f
-ncmpcpp --now-playing -f %title%
-ncmpcpp --now-playing
-exit
-vim .config/bspwm/panel/barScript.sh 
-exit
-amixer get Master | egrep -o "[0-9]+%"
-exit
-vim .config/bspwm/panel/barScript.sh 
-exit
-amixer get Master
-amixer get Mic
-amixer get Line
-amixer | grep Line "off"
-amixer | grep Line
-amixer | grep Line [off]
-amixer | grep Line "[off]"
-amixer | grep "Line"
-exit
-vim .config/bspwm/panel/barScript.sh 
-exit
-vim .config/bspwm/panel/barScript.sh 
-exit
-vim .config/bspwm/panel/barScript.sh 
-cd downloads/git/bspwm_naughtsee/
+cd shell/
 ls
-vim barScript.sh 
-vim ~/.config/bspwm/panel/barScript.sh 
-exit
-vim ~/.config/bspwm/panel/barScript.sh 
-exit
-vim ~/.config/bspwm/panel/barScript.sh 
-exit
-vim ~/.config/bspwm/panel/barScript.sh 
-amixer Master
-vim ~/.config/bspwm/panel/barScript.sh 
-amixer -h
-amixer list
-amixer show
-amixer get Master
-clear
-vim .config/bspwm/panel/barScript.sh 
-exit
-ping google.com
-htop
-exit
-cd .config/bspw
-cd .config/bspwm/
-ls
-vim bspwmrc
-vim bspwmrc_bak 
-vim ~/.xinitrc
-vim bspwmrc
-exit
-vim .config/bspwm/panel/barScript.sh 
-exit
-echo "amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$6:$5}'
-
-echo "amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$6:$4}'
-echo "amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$6:$5}'
-
-echo "amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$6:$4}'"
-
-clear
-exit
-cd scripts/
-ls
-exit
-exit
-exit
-exit
-exit
-vim .config/bspwm/panel/barScript.sh 
-vim .config/bspwm/bspwmrc
-exit
-cd scripts/
-ls
-vim amixer_vol.sh
-chmod +x amixer_vol.sh 
-ls
-amixer_vol.sh 
-vim amixer_vol.sh 
-amixer_vol.sh 
-vim ~/.config/bspwm/panel/barScript.sh 
-amixer_vol.sh 
-vim ~/.config/bspwm/panel/barScript.sh 
-exit
-scripts/amixer_vol.sh 
-exit
-vim .config/sxhkd/sxhkdrc 
-exit
-.config/
-ls
-cd .config
-ls
-mkdir autostart
-cd autostart/
-vim mpd.desktop
-cd /etc/systemd/
-ls
-cd system
-ls
-cd sockets.target.wants/
-ls
+vim continuation.json 
 cd ..
-cd multi-user.target.wants/
-ls
-cd ..
-cd getty
-cd getty.target.wants/
-ls
-cd ..
-clear
-ls
-ls -A
-clear
-ls
-ls /usr/lib/systemd/system
-vim /usr/lib/systemd/system/mpd.service 
-vim /usr/lib/systemd/user/mpd.service 
-sudo systemctl start mpd
-clear
-sudo systemctl enable mpd
-journalctl mpd
-journalctl
-clear
-journalctl mpd.service
-journalctl --help
-systemctl status mpd
-sudo systemctl stop mpd
-sudo systemctl disable mpd
-vim ~/.config/mpd/mpd.conf 
-mpd
-sudo systemctl start mpd
-sudo systemctl enable mpd
-exit
-vim .config/mpd/mpd.conf 
-exit
-aplay
-aplay --list-devices
-exit
-cd .config/autostart/
-ls
-mv mpd.desktop mpd.desktop_bak
-ls
-exit
-systemctl status mpd
-sudo systemctl stop mpd
-mpd
-sudo systemctl disable mpd
-cd .config/autostart/
-ls
-mv mpd.desktop_bak mpd.desktop
-ls
-exit
-vim .config/mpd/mpd.conf 
-exit
-cd /etc
-ls
-cd X11
-ls
-cd xinit
-ls
-cd ..
-cd /usr/share
-ls
-cd xsessions/
-ls
-cd ..
-cd X11
-ls
-cd locale
-ls
-cd ..
-cd app-defaults/
-ls
-cd ..
-cd xorg.conf.d/
-ls
-cd ..
-clear
-ls
-cd ..
-ls
-cd include/
-ls
-cd mpd
-ls
-cd ..
-ls
-cd local
-ls
-cd etc
-ls
-cd ..
-cd share
-ls
-cd ..
-cd src
-ls
-cd ..
-cd games
-ls
-cd ..
-clear
-ls
-cd share
-ls
-cd dunst
-ls
-vim dunstrc 
-cd w3m
-cd w2m
-cd w3m
-w3m
-clear
-ls
-cd ..
-cd ~
-ls
-cd .config/
-ls
-cd autostart/
-ls
-vim mpd.desktop 
-cd /etc/
-ls
-cd default/
 ls
 ls -a
+vim powerline.json 
 cd ..
 ls
-vim mpd.conf 
-vim profile
-cd ~
-ls -a
-vim .profile 
-cd /etc/xdg/
+cd ..
 ls
 ls -a
-cd autostart/
+rm Mon_Sep__1_05\:26\:25_2014.jpg 
 ls
-cd ~
-ls -a
-vim .bash_profile 
-vim .profile 
-cd .config/
+clear
+vim .archey3.cfg 
+archey
+vim .archey3.cfg 
+archey
+archey --help
+archey c red
+archey -c red
+archey -c black
+archey -c magenta
+archey -c cyan
+archey -c white
+clear
+archey
+screenfetch
+screenfetch --help
+clear
+vim .bashrc
+sf
+exit
+sf
+screen
+scrf
+clear
+sf
+sf -m
+sf -s -m
+~/pictures
 ls
-rm -r autostart
+rm screenFetch-2014-09-01_05-49-05.png 
 clear
 ls
-cd pulse
+sf
+archey
+alsi
+alsi -u
+alsi -u -a
+cd .config/alsi/
 ls
+vim alsi.conf 
+vim alsi.logo 
 cd ..
-cd mnue
-cd menus
-ls
-cd applications-merged/
-ls
-cd ..
-exit
+clear
+alsi
+clear
 vim .bashrc
 exit
-cd .config/mpd/mpd.conf 
-vim .config/mpd/mpd.conf 
-sudo cp .config/mpd/mpd.conf /etc/mpd.conf 
-vim /etc/mdadm.conf 
-vim /etc/mpd.conf 
-sudo systemctl enable mpd
-exit
-vim .config/bspwm/panel/barScript.sh 
-exit
-vim .profile 
-vim .bash_profile 
-vim .basrc
-vim .bashrc
-systemctl status mpd
-vim .config/bspwm/panel/barScript.sh 
-amixer get Master | awk '/Master/ {print $6=="[off]"?$6:$4'
-amixer get Master | awk '/Master/ {print $6=="[off]"?$6:$4}'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$6:$4}'
-amixer get Master | awk '/Master.+/ {print $6=="[off]"?$6:$4}'
-amixer get Mono
-amixer get Master
-amixer get Master | awk '/Master.+/ {print $6=="[off]"?$6:$4}'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$6:$4}'
-amixer get Master | awk '/Mono.+/ {print $5=="[off]"?$5:$4}'
-amixer get Master | awk '/Mono.+/ {print $5=="[off]"?$6:$5}'
-amixer get Master | awk '/Mono.+/ {print $5=="[off]"?$4:$5}'
-amixer get Master | awk '/Mono.+/ {print $5=="[off]"?$4:$6}'
-amixer get Master | awk '/Mono.+/ {print $4=="[off]"?$4:$6}'
-amixer get Master | awk '/Mono.+/ {print $5=="[off]"?$4:$6}'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$4:$6}'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$4:$4}'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$5:$4}'
-amixer get Master | awk '/Mono.+/ {print $4=="[off]"?$5:$4}'
+ls
+rm 2014-09-01-060915_1920x1080_scrot.png 
 clear
-amixer get Master | awk '/Mono.+/ {print $4=="[off]"?$5:$4}'
-amixer get Master | awk '/Mono.+/ {print $4=="[off]"?$7:$5}'
-amixer get Master | awk '/Mono.+/ {print $4=="[off]"?$6:$5}'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$6:$5}'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$4:$5}'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$5:$4}'
-amixer -h
-amixer scontrols
-amixer scontents
-amixer pvolume
-amixer volume
-amixer -h
-clear
-amixer scontrols
-amixer scontrols Master
-amixer -h
-amixer cget cID Master
-amixer cget Master
-amixer cget volume
-vim .config/sxhkd/sxhkdrc 
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$6:$5}'
-amixer get Master | awk '/Mono.+/ {print $4=="[off]"?$6:$5}'
-amixer get Master | awk '/Mono.+/ {print $4=="[off]"?$6:$4}'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$5:$4}'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$5:$6}'
 exit
-vim .config/bspwm/panel/barScript.sh 
-exit
-vim .config/bspwm/panel/barScript.sh 
-exit
-amixer get Master | awk '/Mono.+/ $6=="[off]"?$6:$5'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$6:$5}'
-amixer get Master | awk '/Mono.+/ {print $6=="[off]"?$6:$4}'
-amixer get Master | awk '/Mono.+/ {print $4=="[off]"?$6:$4}'
-amixer get Master | awk '/Mono.+/ {print $4=="[off]"?$5:$4}'
-exit
-vim .config/sxhkd/sxhkdrc 
-cd .config/bspwm/
-ls
-vim bspwmrc
-pkill bar-aint-recursive
-vim .config/sxhkd/sxhkdrc 
-vim .config/mpd/mpd.conf 
-alsamixer
-vim .config/mpd/mpd.conf 
-sudo systemctl restart mpd
-exit
-ls
+alsi
+sf
+which sf
+which screenfetch
 ls -a
-vim .Xresources 
-exit
+cd .pki
 ls
-pacman -S xfontsel
-yaourt xfontsel
-xfontsel
-cp .Xresources .Xresources_bak
+cd nssdb/
 ls
-vim .Xresources
-xrdb ~/.Xresources
-exit
+cd ..
+cd .gnome/
 ls
-urxvt
+cd apps/
 ls
-vim .Xresources
-cp .Xresources_bak .Xresources
-xrdb ~/.Xresources
-exit
-ls
-vim .Xresources
-exit
-urxvt
-fc-cache -vf
-urxvt
-vim .xinitrc
-xrdb -h
-urxvtc
-xrdb -load .Xresources
-exit
-ls
-ls -a
-vim .Xresources
-urxvt
-xlsfonts
-xlsfonts | grep lucy
-urxvt
-vim .Xresources
-urxvt
-xrdb ~/.Xresources
-urxvt
-ls -a
-vim .xsession-errors 
-urxvt
-xrdb -load ~/.Xresources
-exit
-ls
-exit
-ls
-urxvt
-fc-cache -vf
-ls -a
+cd ..
+cd w3m
 cd .w3m
 ls
 ls -a
 cd ..
-vim .xsel.log 
-vim .profile 
-vim .colordiff 
-vim .histfile 
-zsh
-exit
-vim .Xresources
-xrdb ~/.Xresources
-exit
-urxvt
-vim .Xresources
-xrdb ~/.Xresources
-exit
+clear
+alsi -s
 ls
-vim
-exit
-vim
-vim .Xresources
-cp .Xresources_bak .Xresources
-xrdb .Xresources
-exit
-vim .Xresources
-xrdb .Xresources
-vim .Xresources_bak 
-xrdb .Xresources
-exit
+alsi -s 'screenshot.png'
 ls
-vim
-vim .Xresources
-xrdb ~/.Xresources
-exit
-ls
-vim .Xresources
-xlsfonts | grep terminus
-vim .Xresources
-xrdb .Xresources
-exit
-ls
-ls -a
-exit
-vim .Xresources
-xrdb ~/.Xresources
-exit
-ls
-vim
-ls /usr/bin
-ls
-cd ..
-cd /usr/bin
-ls
+rm 2014
+rm 2014-09-01-055
+rm 2014-09-01-055347_1920x1080_scrot.png 
+rm 2014-09-01-055405_1920x1080_scrot.png 
 clear
 ls
-vim
-cd ~
+cd pictures
 ls
+cd ..
+ls
+cd documents/
+ls
+cd PASSOVER\ \[VINYL\]/
+ls
+cd ..
+rm -r PASSOVER\ \[VINYL\]/
+y
+sudo rm -r PASSOVER\ \[VINYL\]/
+ls
+cd civil_war/
+ls
+cd ..
+clear
+cd ..
+clear
+yaourt -Syu
+clear
 ls -a
 cd .config/
 ls
-cd powerline/
-ls
-cd colorschemes/
-ls
-vim solarized.json 
+cp -d alsi ranger bspwm ~/dotfiles/config/
+cp -d alsi ranger bspwm ~/dotfiles/.config/
+cp -h
+cp --help
 clear
 ls
+cp -d
+cp -r
+cp -r alsi ~/dotfiles/.config/
+cp -r bspwm ranger ~/dotfiles/.config/
+cd ~/dotfiles/
+git status
+cd ..
+cp .bashrc .Xresources ~/dotfiles/
+ls -a
+cp .zshrc .zshrc.zni ~/dotfiles/
+cd dotfiles/
+git status
+git add -n .
+git add .
+git commit -m 'updates'
+git push origin master
+cd ..
 clear
-alsi
-alsi -u
-alsi -i
-alsi -u
+exit
+vim .Xresources
+zsh
+exit
+ls
+vim .Xresources
+xrdb .Xresources
+exit
+vim .vimrc
+vim
+vim .bashrc
+ls /usr/lib/python2.7/
+ls /usr/lib/python2.7/site-packages/
+ls /usr/lib/python2.7/site-packages/powerline/
+ls /usr/lib/python2.7/site-packages/powerline/bindings/
+ls /usr/lib/python2.7/site-packages/powerline/bindings/bash/
+vim /usr/lib/python2.7/site-packages/powerline/bindings/bash/powerline.sh 
+vim
+vim .vimrc
+exit
+vim .Xresources
+vim
+vim .Xresources
+xrdb -merge .Xresources
+exit
+ls
+ls -a
+vim
+vim .Xresources
+xrdb .Xresources
+exit
+vim
+vim .Xresources
+xrdb .Xresources
+ls
+exit
+vim
+vim .Xresources
+xrdb --help
+xrdb -merge .Xresources
+exit
+ls
+vim
+vim .Xresources
+xrdb .Xresources
+exit
+ls
+cd /usr/share/fonts
+ls
+cd OTF
+ls
+cd ..
+cd TTF
+ls
+:q
+cd misc
+cd ..
+cd misc
+ls
+cd ..
 clear
-pacman -Syu
-cd ~
-xfonts | grep terminus
-xlsfonts
-xlsfonts | grep terminus
-echo $TERM
+ls
+cd local
+ls
+cd ..
+cd OTF
+clear
+ls
+cat PowerlineSymbols
+vim ~/.Xresources
+xrdb ~/.Xresources
+exit
+ls
+vim
+vim .Xresources
+xrdb .Xresources
+exit
+ls
+vim .Xresources
+xrdb .Xresources
+exit
+ls
+vim
+ls -a
+zsh
+exit
+cd /usr/share/doc
+ls
+cd urxvt-perls/
+ls
+vim README.md 
+ls -a
+vim README.md 
+vim
+ls
+cd ..
+ls
+cd xz
+ls
+cd examples
+ls
+vim 00_README.txt 
+cd ..
+vim README 
+exit
+irssi
+ls
+feh
+clear
+exit
+htop
+ranger
+exit
+ls
+vim .Xresources
+ls
+ls -a
+cd .vim
+ls
+cd ..
+vim .viminfo
+vim .vimrc
+vim .config/bspwm/panel/barScript.sh 
+exit
+ls
+vim .Xresources
+xrdb .Xresources
+exit
+cd /usr/share
+ls
+cd fonts
+ls
+cd adobe-source-code-pro/
+ls
+fc-cache
+mkfontscale
+sudo mkfontscale
+sudo mkfontdir
+ls
+cd ..
+ls
+cd adobe-source-sans-pro/
+ls
+fc-cache
+sudo mkfontscale
+sudo mkfontdir
+fc-cache
+ls
+cd ..
+ls
+cd OTF
+ls
+fc-cache -vf
+vim ~/.xinitrc
+cd ..
+ls
+cd local
+ls
+cd ..
+cd OTF
+ls
+vim fonts.dir 
+showconsolefont
+sudo showconsolefont
+ls
+cd ..
+ls
+ local
+ls
+cd local
+ls
+cd ..
+exit
+ls
+vim .Xresources
+exit
+cd /etc
+ls
+cd fonts/
+ls
+vim fonts.conf 
+cd conf.d
+ls
+vim README 
+ls
+vim 10-powerline-symbols.conf 
+ls -a
+cd ..
+ls
+cd conf.avail/
+ls
+sudo rm 10-powerline-symbols.conf_bak 
+ls
+vim 10-powerline-symbols.conf 
+cd ..
+ls
+vim fonts.dtd 
+cd ..
+ls
+cd /usr/share
+ls
+cd fonts
+ls
+cd ..
+cd ~/.config/
+ls
+cd fontconfig/
+ls
+cd conf.d/
+ls
+cd ..
+ls -a
+exit
+yaourt fontconfig
+yaourt -Syu
+exit
+cat
+exit
+ls
+vim .Xresources
+xrdb -merge .Xresources
+exit
+ls
+vim .Xresources
+xrdb .Xresources
+exit
+ls
+vim .Xresources
+xrdb .Xresources
+exit
+ls
+vim .Xresources
+exit
+cd /usr/share/fonts
+ls
+cd OTF
+ls
+exit
+vim .Xresources
+xrdb .Xresources
+exit
+ls
+urxvt
+vim .Xresources
+xrdb .Xresources
+exit
+vim .Xresources
+exit
+ls -a
+vim .Xresources
+ls -a
+zsh
+exit
+ls
+ls -a
+zsh
+exit
+urxvt
+vim .Xresources
+ls
+ls -A
+zsh
+exit
+ls
+exit
+echo -e "\u#0A0 \uE0A2
+
+exit
+clear
+exit
+exit
+exit
+clear
+echo -e "\u#0A0 \uE0A1 \uE0A2 \uE0B0 \uE0B1 \uE0B2 \uE0B3"
+echo -e "\uE0A0 \uE0A1 \uE0A2 \uE0B0 \uE0B1 \uE0B2 \uE0B3"
+echo -e "\u#0A0 \uE0A1 \uE0A2 \uE0B0 \uE0B1 \uE0B2 \uE0B3"
+echo -e "\uE0A0 \uE0A1 \uE0A2 \uE0B0 \uE0B1 \uE0B2 \uE0B3"
+urxvt --version
+urxvt --ver
+urxvt -v
+urxvt --help
+clear
+cd downloads/
+ls
+cd git
+ls
+git clone https://github.com/nicolalamacchia/powerline-consolas.git powerline-consolas-patch
+git clone https://github.com/Lokaltog/powerline-fonts.git powerline-fonts
+ls -a ~
+vim ~/.Xresources
+xrdb ~/.Xresources
+exit
+zsh
+exit
+ls
+vim .Xresources
+xrdb -merge .Xresources
+exit
+vim .Xresources
+xrdb .Xresources
+exit
+vim .Xresources
+xrdb .Xresources
+exit
+ls
+ls -a
+vim .Xresources
+xrdb -merge .Xresources
+exit
+ls
+vim .Xresources
+xrdb -merge .Xresources
+exit
+ls
+vim .Xresources
+xrdb .Xresources
+exit
+ls
+vim .Xresources
+xrdb .Xresources
+exit
+ls
+vim .Xresources
+xrdb. Xre
+xrdb .Xresources
+exit
+ls
+vim .Xresources
+xrdb .Xresources
+exit
+ls
+vim .Xresources
+xrdb .Xresources
+exit
+ls
+vim .Xresources
+cp .Xresources dotfiles/
+cd dotfiles/
+git add -n .
+git add .
+git status
+git commit -m 'URxvt font settings'
+git push origin master
+zsh
+exit
+echo -e "\uE0A0 \uE0A1 \uE0A2 \uE0B0 \uE0B1 \uE0B2 \uE0B3"
+vim .config/bspwm/panel/barScript.sh 
+vim .Xresources
+cd dotfiles/
+cd ..
+zsh
 exit

@@ -1,6 +1,6 @@
 info_begin
 format: 1
-mpd_version: 0.18.12
+mpd_version: 0.18.13
 fs_charset: UTF-8
 tag: Artist
 tag: ArtistSort
@@ -79,122 +79,218 @@ begin: A Perfect Circle/Emotive
 song_begin: 01 Annihilation.mp3
 Time: 131
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Annihilation
-Album: Emotive
-Track: 01/12
-Date: 2004
+Album: eMOTIVe
+Track: 1/12
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395356
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 2a42ff49-35c3-4d9c-a187-3c592bf06674
+mtime: 1409967523
 song_end
 song_begin: 02 Imagine.mp3
 Time: 286
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Imagine
-Album: Emotive
-Track: 02/12
-Date: 2004
+Album: eMOTIVe
+Track: 2/12
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395356
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 7d06ccd4-614d-4826-b328-c2b4c30987a1
+mtime: 1409967524
 song_end
 song_begin: 03 Peace Love and Understanding.mp3
 Time: 303
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Peace Love and Understanding
-Album: Emotive
-Track: 03/12
-Date: 2004
+Album: eMOTIVe
+Track: 3/12
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395356
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 2c69add9-d99b-4b87-9094-36baf66268bb
+mtime: 1409967524
 song_end
 song_begin: 04 What's Going on.mp3
 Time: 291
 Artist: A Perfect Circle
-Title: What's Going on
-Album: Emotive
-Track: 04/12
-Date: 2004
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
+Title: What’s Going On
+Album: eMOTIVe
+Track: 4/12
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395356
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 70bf08c4-4595-4143-abed-109aabe2d9ea
+mtime: 1409967524
 song_end
 song_begin: 05 Passive.mp3
 Time: 246
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Passive
-Album: Emotive
-Track: 05/12
-Date: 2004
+Album: eMOTIVe
+Track: 5/12
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395357
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 5fc2855e-a94c-4d3f-9ddc-47f1d8b7a134
+mtime: 1409967524
 song_end
 song_begin: 06 Gimme Gimme Gimme.mp3
 Time: 135
 Artist: A Perfect Circle
-Title: Gimme Gimme Gimme
-Album: Emotive
-Track: 06/12
-Date: 2004
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
+Title: Gimmie Gimmie Gimmie
+Album: eMOTIVe
+Track: 6/12
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395357
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 388af42f-8375-4875-9719-789ad2f2ac26
+mtime: 1409967523
 song_end
 song_begin: 07 People Are People.mp3
 Time: 220
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: People Are People
-Album: Emotive
-Track: 07/12
-Date: 2004
+Album: eMOTIVe
+Track: 7/12
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395357
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 5ca13249-26da-47bd-bba7-80c2efebe9cd
+mtime: 1409967524
 song_end
 song_begin: 08 Freedom of Choice.mp3
 Time: 179
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Freedom of Choice
-Album: Emotive
-Track: 08/12
-Date: 2004
+Album: eMOTIVe
+Track: 8/12
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395357
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 7305d086-9efd-4805-868b-ef6a18b7fad6
+mtime: 1409967523
 song_end
 song_begin: 09 Let's Have A War 2.mp3
 Time: 208
 Artist: A Perfect Circle
-Title: Let's Have A War
-Album: Emotive
-Track: 09/12
-Date: 2004
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
+Title: Let’s Have a War
+Album: eMOTIVe
+Track: 9/12
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395357
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 70e2b5f8-5462-45c3-9209-9896ca2a52de
+mtime: 1409967524
 song_end
 song_begin: 10 Counting Bodies Like Sheep to.mp3
 Time: 333
 Artist: A Perfect Circle
-Title: Counting Bodies Like Sheep to
-Album: Emotive
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
+Title: Counting Bodies Like Sheep to the Rhythm of the War Drums
+Album: eMOTIVe
 Track: 10/12
-Date: 2004
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395357
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: d2b8f0e6-735a-42ee-adf0-7eca4e65cd72
+mtime: 1409967524
 song_end
 song_begin: 11 When the Levee Breaks.mp3
 Time: 349
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: When the Levee Breaks
-Album: Emotive
+Album: eMOTIVe
 Track: 11/12
-Date: 2004
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395357
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 8c206896-bd82-49f9-8bb8-7855850b743d
+mtime: 1409967524
 song_end
 song_begin: 12 Fiddle and the Drum.mp3
 Time: 184
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Fiddle and the Drum
-Album: Emotive
+Album: eMOTIVe
 Track: 12/12
-Date: 2004
+Date: 2004-12-08
 Genre: Hard Rock
-mtime: 1404395357
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: f03fc7d7-f28f-45d9-86c7-00865437e607
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 73fd076b-3e66-4290-a686-fd11b23581b1
+mtime: 1409967523
 song_end
 end: A Perfect Circle/Emotive
 directory: Mer De Noms
@@ -203,122 +299,218 @@ begin: A Perfect Circle/Mer De Noms
 song_begin: 01 The Hollow.mp3
 Time: 176
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: The Hollow
-Album: Mer De Noms
-Track: 01/12
-Date: 2000
+Album: Mer de noms
+Track: 1/12
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395357
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: cc01486d-c49c-4932-a08c-15f71f2c751a
+mtime: 1409967525
 song_end
 song_begin: 02 Magdalena.mp3
 Time: 245
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Magdalena
-Album: Mer De Noms
-Track: 02/12
-Date: 2000
+Album: Mer de noms
+Track: 2/12
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395357
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: a3017aa1-386d-4dd6-8aeb-81398ef8e896
+mtime: 1409967525
 song_end
 song_begin: 03 Rose.mp3
 Time: 203
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Rose
-Album: Mer De Noms
-Track: 03/12
-Date: 2000
+Album: Mer de noms
+Track: 3/12
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395357
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: ed781db6-5a47-4dd3-91bc-ce604aa204d2
+mtime: 1409967525
 song_end
 song_begin: 04 Judith.mp3
 Time: 242
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Judith
-Album: Mer De Noms
-Track: 04/12
-Date: 2000
+Album: Mer de noms
+Track: 4/12
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395358
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 60631778-1829-48c3-8752-701240b7f01f
+mtime: 1409967525
 song_end
 song_begin: 05 Orestes.mp3
 Time: 285
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Orestes
-Album: Mer De Noms
-Track: 05/12
-Date: 2000
+Album: Mer de noms
+Track: 5/12
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395358
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 84bedce5-9609-411e-8b82-f19ec651d5eb
+mtime: 1409967524
 song_end
 song_begin: 06 3 Libras.mp3
 Time: 214
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: 3 Libras
-Album: Mer De Noms
-Track: 06/12
-Date: 2000
+Album: Mer de noms
+Track: 6/12
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395358
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 65ef8004-09b3-4280-be38-87039df9d2cb
+mtime: 1409967524
 song_end
 song_begin: 07 Sleeping Beauty.mp3
 Time: 248
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Sleeping Beauty
-Album: Mer De Noms
-Track: 07/12
-Date: 2000
+Album: Mer de noms
+Track: 7/12
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395358
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: e46d0464-cc41-496e-9c5f-088730d98a4e
+mtime: 1409967525
 song_end
 song_begin: 08 Thomas.mp3
 Time: 208
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Thomas
-Album: Mer De Noms
-Track: 08/12
-Date: 2000
+Album: Mer de noms
+Track: 8/12
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395358
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: e24b0f9d-70ee-431e-bc76-945e8d42b8a0
+mtime: 1409967525
 song_end
 song_begin: 09 Renholdër.mp3
 Time: 139
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Renholdër
-Album: Mer De Noms
-Track: 09/12
-Date: 2000
+Album: Mer de noms
+Track: 9/12
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395358
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 0393b472-c3b6-4aa7-ad13-08697e96bb19
+mtime: 1409967525
 song_end
 song_begin: 10 Thinking of You.mp3
 Time: 271
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Thinking of You
-Album: Mer De Noms
+Album: Mer de noms
 Track: 10/12
-Date: 2000
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395358
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 3fc544f9-1228-4e2d-8747-e336e3f6600e
+mtime: 1409967524
 song_end
 song_begin: 11 Breña.mp3
 Time: 242
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Breña
-Album: Mer De Noms
+Album: Mer de noms
 Track: 11/12
-Date: 2000
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395358
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 2e927cff-396a-4ec1-899f-b7abea2830d2
+mtime: 1409967525
 song_end
 song_begin: 12 Over.mp3
 Time: 141
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Over
-Album: Mer De Noms
+Album: Mer de noms
 Track: 12/12
-Date: 2000
+Date: 2000-05-23
 Genre: Hard Rock
-mtime: 1404395358
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: e5c49bf1-925b-32e2-9ac3-c4084f875376
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 0d34a1e4-e692-4454-9b99-a9b4ab200bf9
+mtime: 1409967524
 song_end
 end: A Perfect Circle/Mer De Noms
 directory: Thirteenth Step
@@ -327,122 +519,218 @@ begin: A Perfect Circle/Thirteenth Step
 song_begin: 01 The Package.mp3
 Time: 458
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: The Package
 Album: Thirteenth Step
-Track: 01/12
-Date: 2003
+Track: 1/12
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395359
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: fb45832e-941f-4726-913f-1e1164bc1759
+mtime: 1409967526
 song_end
 song_begin: 02 Weak And Powerless.mp3
 Time: 194
 Artist: A Perfect Circle
-Title: Weak And Powerless
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
+Title: Weak and Powerless
 Album: Thirteenth Step
-Track: 02/12
-Date: 2003
+Track: 2/12
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395359
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 04010cf3-fddf-4a44-97c9-273d3cbf3f3a
+mtime: 1409967525
 song_end
 song_begin: 03 The Noose.mp3
 Time: 289
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: The Noose
 Album: Thirteenth Step
-Track: 03/12
-Date: 2003
+Track: 3/12
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395359
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 8324ac23-9ead-451a-88af-94e984758c9f
+mtime: 1409967525
 song_end
 song_begin: 04 Blue.mp3
 Time: 253
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Blue
 Album: Thirteenth Step
-Track: 04/12
-Date: 2003
+Track: 4/12
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395359
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: b02baa79-1f97-4d0a-93c0-387d4e2f9ffe
+mtime: 1409967525
 song_end
 song_begin: 05 Vanishing.mp3
 Time: 288
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Vanishing
 Album: Thirteenth Step
-Track: 05/12
-Date: 2003
+Track: 5/12
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395359
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 5fc51663-835f-4b42-9d76-64fd9573e5da
+mtime: 1409967525
 song_end
 song_begin: 06 A Stranger.mp3
 Time: 191
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: A Stranger
 Album: Thirteenth Step
-Track: 06/12
-Date: 2003
+Track: 6/12
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395359
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 3d33ce84-6416-45e2-925c-da5ec4a85023
+mtime: 1409967526
 song_end
 song_begin: 07 The Outsider.mp3
 Time: 243
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: The Outsider
 Album: Thirteenth Step
-Track: 07/12
-Date: 2003
+Track: 7/12
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395359
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 6f0a1a0a-d81e-4583-a1c4-3250d5af350c
+mtime: 1409967525
 song_end
 song_begin: 08 Crimes.mp3
 Time: 151
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Crimes
 Album: Thirteenth Step
-Track: 08/12
-Date: 2003
+Track: 8/12
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395360
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 2f4fddb5-9564-4766-82c5-b8fa55fae3d5
+mtime: 1409967525
 song_end
 song_begin: 09 The Nurse Who Loved Me.mp3
 Time: 242
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: The Nurse Who Loved Me
 Album: Thirteenth Step
-Track: 09/12
-Date: 2003
+Track: 9/12
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395360
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 6760a723-26ed-4849-814f-8a41bfb980d3
+mtime: 1409967525
 song_end
 song_begin: 10 Pet.mp3
 Time: 272
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Pet
 Album: Thirteenth Step
 Track: 10/12
-Date: 2003
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395360
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: 4f1974c3-af50-44a7-b93b-e2a8124955a1
+mtime: 1409967526
 song_end
 song_begin: 11 Lullaby.mp3
 Time: 120
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Lullaby
 Album: Thirteenth Step
 Track: 11/12
-Date: 2003
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395360
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: daa4e96f-923b-4705-b0d3-66bbfd33f811
+mtime: 1409967526
 song_end
 song_begin: 12 Gravity.mp3
 Time: 301
 Artist: A Perfect Circle
+AlbumArtist: A Perfect Circle
+ArtistSort: Perfect Circle, A
 Title: Gravity
 Album: Thirteenth Step
 Track: 12/12
-Date: 2003
+Date: 2003-09-15
 Genre: Hard Rock
-mtime: 1404395360
+Disc: 1/1
+AlbumArtistSort: Perfect Circle, A
+MUSICBRAINZ_ALBUMARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_ALBUMID: 480f3424-735d-4983-8088-95704039a1bc
+MUSICBRAINZ_ARTISTID: 078a9376-3c04-4280-b7d7-b20e158f345d
+MUSICBRAINZ_TRACKID: c105b442-bcf1-4b8c-9e1f-83b96e77976c
+mtime: 1409967525
 song_end
 end: A Perfect Circle/Thirteenth Step
 end: A Perfect Circle
@@ -455,10 +743,20 @@ begin: A Silent Film/The City That Sleeps
 song_begin: You Will Leave a Mark.mp3
 Time: 225
 Artist: A Silent Film
+AlbumArtist: A Silent Film
+ArtistSort: Silent Film, A
 Title: You Will Leave a Mark
 Album: The City That Sleeps
+Track: 3/10
+Date: 2010
 Genre: Alternative
-mtime: 1281894378
+Disc: 1/1
+AlbumArtistSort: Silent Film, A
+MUSICBRAINZ_ALBUMARTISTID: f0e5c9e5-b24f-4d84-8d2a-b166865d8678
+MUSICBRAINZ_ALBUMID: 37b0b6d4-bcc3-44cb-8294-f9c0033923d4
+MUSICBRAINZ_ARTISTID: f0e5c9e5-b24f-4d84-8d2a-b166865d8678
+MUSICBRAINZ_TRACKID: 3209e980-80f8-4820-af80-6ac410c7be16
+mtime: 1409967571
 song_end
 end: A Silent Film/The City That Sleeps
 end: A Silent Film
@@ -491,11 +789,20 @@ begin: Abba/ABBA
 song_begin: S.O.S..mp3
 Time: 202
 Artist: ABBA
+AlbumArtist: ABBA
+ArtistSort: ABBA
 Title: S.O.S.
 Album: ABBA
+Track: 4/11
 Date: 1975
 Genre: Oldies
-mtime: 1269509956
+Disc: 1/1
+AlbumArtistSort: ABBA
+MUSICBRAINZ_ALBUMARTISTID: d87e52c5-bb8d-4da8-b941-9f4928627dc8
+MUSICBRAINZ_ALBUMID: a7a4fa79-fcf7-442d-b7a9-98023e269387
+MUSICBRAINZ_ARTISTID: d87e52c5-bb8d-4da8-b941-9f4928627dc8
+MUSICBRAINZ_TRACKID: f2ada1c9-fa39-4d15-aa11-9bd798a885a9
+mtime: 1409967589
 song_end
 end: Abba/ABBA
 directory: Abba Gold Greatest Hits
@@ -503,13 +810,21 @@ mtime: 1409124477
 begin: Abba/Abba Gold Greatest Hits
 song_begin: 04 Mamma Mia.mp3
 Time: 214
-Artist: Abba
-AlbumArtist: Abba
-Title: Mamma Mia
-Album: Abba Gold Greatest Hits
-Track: 4
+Artist: ABBA
+AlbumArtist: ABBA
+ArtistSort: ABBA
+Title: Summer Night City
+Album: More ABBA Gold: More ABBA Hits
+Track: 1/19
+Date: 1999
 Genre: Disco
-mtime: 1404395360
+Disc: 1/1
+AlbumArtistSort: ABBA
+MUSICBRAINZ_ALBUMARTISTID: d87e52c5-bb8d-4da8-b941-9f4928627dc8
+MUSICBRAINZ_ALBUMID: 45baf437-4fa1-4486-9932-01c7c4616dee
+MUSICBRAINZ_ARTISTID: d87e52c5-bb8d-4da8-b941-9f4928627dc8
+MUSICBRAINZ_TRACKID: ca32e672-f5f5-4300-af32-bfaae53e6799
+mtime: 1409967604
 song_end
 end: Abba/Abba Gold Greatest Hits
 directory: Take A Chance On Me
@@ -518,10 +833,19 @@ begin: Abba/Take A Chance On Me
 song_begin: Take a Chance On Me.mp3
 Time: 244
 Artist: ABBA
-Title: Take a Chance On Me
-Album: Take A Chance On Me
-Track: 0
-mtime: 1269509864
+AlbumArtist: ABBA
+ArtistSort: ABBA
+Title: Take a Chance on Me
+Album: Take a Chance on Me
+Track: 1/2
+Date: 1978-01-27
+Disc: 1/1
+AlbumArtistSort: ABBA
+MUSICBRAINZ_ALBUMARTISTID: d87e52c5-bb8d-4da8-b941-9f4928627dc8
+MUSICBRAINZ_ALBUMID: 3de70424-255e-4366-ae70-eb1e305cec0a
+MUSICBRAINZ_ARTISTID: d87e52c5-bb8d-4da8-b941-9f4928627dc8
+MUSICBRAINZ_TRACKID: ebfcb2ca-1285-4baf-8a9c-b09e737926d8
+mtime: 1409967616
 song_end
 end: Abba/Take A Chance On Me
 directory: Unknown Album
@@ -541,11 +865,20 @@ begin: Abba/Waterloo
 song_begin: Waterloo.mp3
 Time: 164
 Artist: ABBA
+AlbumArtist: ABBA
+ArtistSort: ABBA
 Title: Waterloo
 Album: Waterloo
+Track: 1/11
 Date: 1974
 Genre: Oldies
-mtime: 1269510047
+Disc: 1/1
+AlbumArtistSort: ABBA
+MUSICBRAINZ_ALBUMARTISTID: d87e52c5-bb8d-4da8-b941-9f4928627dc8
+MUSICBRAINZ_ALBUMID: bd6d332a-f04a-47fb-a280-b04ad25fc743
+MUSICBRAINZ_ARTISTID: d87e52c5-bb8d-4da8-b941-9f4928627dc8
+MUSICBRAINZ_TRACKID: 1ebfca60-df29-4035-9d09-e0385d84ff55
+mtime: 1409967647
 song_end
 end: Abba/Waterloo
 end: Abba
@@ -642,74 +975,138 @@ begin: Amon Amarth/Fate of Norns
 song_begin: 01 An Ancient Sign of Coming Stor.mp3
 Time: 279
 Artist: Amon Amarth
-Title: An Ancient Sign of Coming Stor
+AlbumArtist: Amon Amarth
+ArtistSort: Amon Amarth
+Title: An Ancient Sign of Coming Storm
 Album: Fate of Norns
-Track: 1
-Date: 2004
-mtime: 1404395361
+Track: 1/8
+Date: 2004-09-06
+Disc: 1/1
+AlbumArtistSort: Amon Amarth
+MUSICBRAINZ_ALBUMARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_ALBUMID: 6bd2c664-5947-33a0-9cef-f95c59db79b1
+MUSICBRAINZ_ARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_TRACKID: 486eef58-d197-4927-a52b-adfdb723feb1
+mtime: 1409967724
 song_end
 song_begin: 02 Where Death Seems to Dwell.mp3
 Time: 298
 Artist: Amon Amarth
+AlbumArtist: Amon Amarth
+ArtistSort: Amon Amarth
 Title: Where Death Seems to Dwell
 Album: Fate of Norns
-Track: 2
-Date: 2004
-mtime: 1404395362
+Track: 2/8
+Date: 2004-09-06
+Disc: 1/1
+AlbumArtistSort: Amon Amarth
+MUSICBRAINZ_ALBUMARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_ALBUMID: 6bd2c664-5947-33a0-9cef-f95c59db79b1
+MUSICBRAINZ_ARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_TRACKID: 419fba2a-3bad-47b6-9ec7-f8eea603ba98
+mtime: 1409967727
 song_end
 song_begin: 03 The Fate of Norns.mp3
 Time: 358
 Artist: Amon Amarth
+AlbumArtist: Amon Amarth
+ArtistSort: Amon Amarth
 Title: The Fate of Norns
 Album: Fate of Norns
-Track: 3
-Date: 2004
-mtime: 1404395362
+Track: 3/8
+Date: 2004-09-06
+Disc: 1/1
+AlbumArtistSort: Amon Amarth
+MUSICBRAINZ_ALBUMARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_ALBUMID: 6bd2c664-5947-33a0-9cef-f95c59db79b1
+MUSICBRAINZ_ARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_TRACKID: de383e13-6f02-4c8e-b75c-640f9c671949
+mtime: 1409967724
 song_end
 song_begin: 04 The Pursuit of Vikings.mp3
 Time: 270
 Artist: Amon Amarth
+AlbumArtist: Amon Amarth
+ArtistSort: Amon Amarth
 Title: The Pursuit of Vikings
 Album: Fate of Norns
-Track: 4
-Date: 2004
-mtime: 1404395363
+Track: 4/8
+Date: 2004-09-06
+Disc: 1/1
+AlbumArtistSort: Amon Amarth
+MUSICBRAINZ_ALBUMARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_ALBUMID: 6bd2c664-5947-33a0-9cef-f95c59db79b1
+MUSICBRAINZ_ARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_TRACKID: 32ddf732-fcc8-4fee-9754-a50bc1fecc2e
+mtime: 1409967726
 song_end
 song_begin: 05 Valkyries Ride.mp3
 Time: 297
 Artist: Amon Amarth
+AlbumArtist: Amon Amarth
+ArtistSort: Amon Amarth
 Title: Valkyries Ride
 Album: Fate of Norns
-Track: 5
-Date: 2004
-mtime: 1404395363
+Track: 5/8
+Date: 2004-09-06
+Disc: 1/1
+AlbumArtistSort: Amon Amarth
+MUSICBRAINZ_ALBUMARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_ALBUMID: 6bd2c664-5947-33a0-9cef-f95c59db79b1
+MUSICBRAINZ_ARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_TRACKID: fb7569c9-638a-42b6-af5b-70c8f4a933e1
+mtime: 1409967728
 song_end
 song_begin: 06 The Beheading of a King.mp3
 Time: 204
 Artist: Amon Amarth
+AlbumArtist: Amon Amarth
+ArtistSort: Amon Amarth
 Title: The Beheading of a King
 Album: Fate of Norns
-Track: 6
-Date: 2004
-mtime: 1404395363
+Track: 6/8
+Date: 2004-09-06
+Disc: 1/1
+AlbumArtistSort: Amon Amarth
+MUSICBRAINZ_ALBUMARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_ALBUMID: 6bd2c664-5947-33a0-9cef-f95c59db79b1
+MUSICBRAINZ_ARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_TRACKID: 22195c4b-c2cc-46af-aa19-1e898579c30b
+mtime: 1409967723
 song_end
 song_begin: 07 Arson.mp3
 Time: 408
 Artist: Amon Amarth
+AlbumArtist: Amon Amarth
+ArtistSort: Amon Amarth
 Title: Arson
 Album: Fate of Norns
-Track: 7
-Date: 2004
-mtime: 1404395364
+Track: 7/8
+Date: 2004-09-06
+Disc: 1/1
+AlbumArtistSort: Amon Amarth
+MUSICBRAINZ_ALBUMARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_ALBUMID: 6bd2c664-5947-33a0-9cef-f95c59db79b1
+MUSICBRAINZ_ARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_TRACKID: 2d2fc0ef-acb0-40e0-9b25-eee4e39d99a7
+mtime: 1409967725
 song_end
 song_begin: 08 Once Sealed in Blood.mp3
 Time: 290
 Artist: Amon Amarth
+AlbumArtist: Amon Amarth
+ArtistSort: Amon Amarth
 Title: Once Sealed in Blood
 Album: Fate of Norns
-Track: 8
-Date: 2004
-mtime: 1404395364
+Track: 8/8
+Date: 2004-09-06
+Disc: 1/1
+AlbumArtistSort: Amon Amarth
+MUSICBRAINZ_ALBUMARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_ALBUMID: 6bd2c664-5947-33a0-9cef-f95c59db79b1
+MUSICBRAINZ_ARTISTID: 5b687684-ad34-4a9f-b425-0e7aa81fbd38
+MUSICBRAINZ_TRACKID: 3871fb5e-ed5b-4431-b0cc-1178c60fe179
+mtime: 1409967726
 song_end
 end: Amon Amarth/Fate of Norns
 directory: Live at Grand Rokk Reykjavik,
@@ -845,12 +1242,19 @@ song_begin: 01 Chick Habit.mp3
 Time: 128
 Artist: April March
 AlbumArtist: April March
+ArtistSort: April March
 Title: Chick Habit
-Album: Paris In April
-Track: 1
-Date: 1996
+Album: Paris in April
+Track: 1/14
+Date: 1996-10-22
 Genre: misc
-mtime: 1404395367
+Disc: 1/1
+AlbumArtistSort: April March
+MUSICBRAINZ_ALBUMARTISTID: e77b7ecf-c417-4124-b255-a3a927bb604e
+MUSICBRAINZ_ALBUMID: ccdae3f2-8150-4549-88ec-98fe38127ee0
+MUSICBRAINZ_ARTISTID: e77b7ecf-c417-4124-b255-a3a927bb604e
+MUSICBRAINZ_TRACKID: 14b00555-52c0-4760-98b2-e4f64839c367
+mtime: 1409967951
 song_end
 end: April March/Paris In April
 directory: Quentin Tarantino's Death Proof
@@ -859,13 +1263,20 @@ begin: April March/Quentin Tarantino's Death Proof
 song_begin: 16 Chick Habit.mp3
 Time: 127
 Artist: April March
+AlbumArtist: April March
+ArtistSort: April March
 Title: Chick Habit
-Album: Quentin Tarantino's Death Proof
-Track: 16/16
-Date: 2007-04-03
+Album: Chick Habit
+Track: 8/8
+Date: 2008
 Genre: Soundtrack
-Genre: Soundtrack
-mtime: 1404395368
+Disc: 1/1
+AlbumArtistSort: April March
+MUSICBRAINZ_ALBUMARTISTID: e77b7ecf-c417-4124-b255-a3a927bb604e
+MUSICBRAINZ_ALBUMID: a956a678-59dd-3757-b252-6e4f945f4fb5
+MUSICBRAINZ_ARTISTID: e77b7ecf-c417-4124-b255-a3a927bb604e
+MUSICBRAINZ_TRACKID: 14b00555-52c0-4760-98b2-e4f64839c367
+mtime: 1409967963
 song_end
 end: April March/Quentin Tarantino's Death Proof
 end: April March
@@ -878,9 +1289,19 @@ begin: Arcade Fire/The Suburbs
 song_begin: Month Of May 1.mp3
 Time: 242
 Artist: Arcade Fire
-Title: Month Of May
+AlbumArtist: Arcade Fire
+ArtistSort: Arcade Fire
+Title: The Suburbs
 Album: The Suburbs
-mtime: 1281727921
+Track: 1/1
+Date: 2010
+Disc: 1/1
+AlbumArtistSort: Arcade Fire
+MUSICBRAINZ_ALBUMARTISTID: 52074ba6-e495-4ef3-9bb4-0703888a9f68
+MUSICBRAINZ_ALBUMID: 2e77df9e-ddf3-4c8e-a9fe-305374aecf7b
+MUSICBRAINZ_ARTISTID: 52074ba6-e495-4ef3-9bb4-0703888a9f68
+MUSICBRAINZ_TRACKID: 315f3d16-3d08-41df-ac80-7de1cd1f48da
+mtime: 1409967977
 song_end
 end: Arcade Fire/The Suburbs
 end: Arcade Fire
@@ -893,11 +1314,20 @@ begin: Arch Enemy/Anthems Of Rebellion
 song_begin: We Will Rise.mp3
 Time: 247
 Artist: Arch Enemy
+AlbumArtist: Arch Enemy
+ArtistSort: Arch Enemy
 Title: We Will Rise
-Album: Anthems Of Rebellion
-Date: 2003
+Album: Anthems of Rebellion
+Track: 3/13
+Date: 2004
 Genre: Death Metal
-mtime: 1404395368
+Disc: 1/1
+AlbumArtistSort: Arch Enemy
+MUSICBRAINZ_ALBUMARTISTID: e631bb92-3e2b-43e3-a2cb-b605e2fb53bd
+MUSICBRAINZ_ALBUMID: 74651db6-e310-47a7-9012-64f029215bea
+MUSICBRAINZ_ARTISTID: e631bb92-3e2b-43e3-a2cb-b605e2fb53bd
+MUSICBRAINZ_TRACKID: c7876509-80c8-49e1-a1dc-b47165a9fc41
+mtime: 1409967992
 song_end
 end: Arch Enemy/Anthems Of Rebellion
 directory: Rise Of The Tyrant
@@ -906,22 +1336,38 @@ begin: Arch Enemy/Rise Of The Tyrant
 song_begin: 01 Blood on Your Hands.mp3
 Time: 281
 Artist: Arch Enemy
+AlbumArtist: Arch Enemy
+ArtistSort: Arch Enemy
 Title: Blood on Your Hands
-Album: Rise Of The Tyrant
-Track: 1
-Date: 2007
+Album: Rise of the Tyrant
+Track: 1/11
+Date: 2007-09-25
 Genre: Metal
-mtime: 1404395368
+Disc: 1/1
+AlbumArtistSort: Arch Enemy
+MUSICBRAINZ_ALBUMARTISTID: e631bb92-3e2b-43e3-a2cb-b605e2fb53bd
+MUSICBRAINZ_ALBUMID: efaa6d05-49d4-4324-a8e4-13d91e812f52
+MUSICBRAINZ_ARTISTID: e631bb92-3e2b-43e3-a2cb-b605e2fb53bd
+MUSICBRAINZ_TRACKID: 0b650ccf-fa0e-4afe-a4cb-6774ebac44af
+mtime: 1409968015
 song_end
 song_begin: 05 Revolution Begins.mp3
 Time: 252
 Artist: Arch Enemy
+AlbumArtist: Arch Enemy
+ArtistSort: Arch Enemy
 Title: Revolution Begins
-Album: Rise Of The Tyrant
-Track: 5
-Date: 2007
+Album: Rise of the Tyrant
+Track: 5/11
+Date: 2007-09-25
 Genre: Metal
-mtime: 1404395368
+Disc: 1/1
+AlbumArtistSort: Arch Enemy
+MUSICBRAINZ_ALBUMARTISTID: e631bb92-3e2b-43e3-a2cb-b605e2fb53bd
+MUSICBRAINZ_ALBUMID: efaa6d05-49d4-4324-a8e4-13d91e812f52
+MUSICBRAINZ_ARTISTID: e631bb92-3e2b-43e3-a2cb-b605e2fb53bd
+MUSICBRAINZ_TRACKID: 3cee0759-4713-44bf-a30b-1a3cede70522
+mtime: 1409968015
 song_end
 end: Arch Enemy/Rise Of The Tyrant
 end: Arch Enemy
@@ -1054,72 +1500,128 @@ begin: Beck/Odelay
 song_begin: 08 Where It's At.mp3
 Time: 331
 Artist: Beck
+AlbumArtist: Beck
+ArtistSort: Beck
 Title: Where It's At
 Album: Odelay
-Track: 8
-Date: 1996
+Track: 8/14
+Date: 1996-06-17
 Genre: Alternative
-mtime: 1206342241
+Disc: 1/1
+AlbumArtistSort: Beck
+MUSICBRAINZ_ALBUMARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_ALBUMID: 804b7f78-0bbc-3479-887a-ab28390357d4
+MUSICBRAINZ_ARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_TRACKID: 469402af-ea47-430f-9f85-69cd5c8deba1
+mtime: 1409968072
 song_end
 song_begin: 09 Minus.mp3
 Time: 152
 Artist: Beck
+AlbumArtist: Beck
+ArtistSort: Beck
 Title: Minus
 Album: Odelay
-Track: 9
-Date: 1996
+Track: 9/14
+Date: 1996-06-17
 Genre: Alternative
-mtime: 1206342242
+Disc: 1/1
+AlbumArtistSort: Beck
+MUSICBRAINZ_ALBUMARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_ALBUMID: 804b7f78-0bbc-3479-887a-ab28390357d4
+MUSICBRAINZ_ARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_TRACKID: 032905f3-8ca7-46ad-aab7-6dc2e0515a2b
+mtime: 1409968072
 song_end
 song_begin: 10 Sissyneck.mp3
 Time: 233
 Artist: Beck
+AlbumArtist: Beck
+ArtistSort: Beck
 Title: Sissyneck
 Album: Odelay
-Track: 10
-Date: 1996
+Track: 10/14
+Date: 1996-06-17
 Genre: Alternative
-mtime: 1206342242
+Disc: 1/1
+AlbumArtistSort: Beck
+MUSICBRAINZ_ALBUMARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_ALBUMID: 804b7f78-0bbc-3479-887a-ab28390357d4
+MUSICBRAINZ_ARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_TRACKID: 58470dfa-ebe7-48a0-a870-78766e91d1d3
+mtime: 1409968073
 song_end
 song_begin: 11 Readymade.mp3
 Time: 157
 Artist: Beck
+AlbumArtist: Beck
+ArtistSort: Beck
 Title: Readymade
 Album: Odelay
-Track: 11
-Date: 1996
+Track: 11/14
+Date: 1996-06-17
 Genre: Alternative
-mtime: 1206342244
+Disc: 1/1
+AlbumArtistSort: Beck
+MUSICBRAINZ_ALBUMARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_ALBUMID: 804b7f78-0bbc-3479-887a-ab28390357d4
+MUSICBRAINZ_ARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_TRACKID: 8ee5b278-355e-4471-b0da-fd66aae9820f
+mtime: 1409968072
 song_end
 song_begin: 12 High 5 (Rock The Catskills).mp3
 Time: 251
 Artist: Beck
-Title: High 5 (Rock The Catskills)
+AlbumArtist: Beck
+ArtistSort: Beck
+Title: High 5 (Rock the Catskills)
 Album: Odelay
-Track: 12
-Date: 1996
+Track: 12/14
+Date: 1996-06-17
 Genre: Alternative
-mtime: 1206342245
+Disc: 1/1
+AlbumArtistSort: Beck
+MUSICBRAINZ_ALBUMARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_ALBUMID: 804b7f78-0bbc-3479-887a-ab28390357d4
+MUSICBRAINZ_ARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_TRACKID: dc243e4c-1d2f-4dd7-9817-9a88ee612897
+mtime: 1409968072
 song_end
 song_begin: 13 Ramshackle.mp3
 Time: 346
 Artist: Beck
+AlbumArtist: Beck
+ArtistSort: Beck
 Title: Ramshackle
 Album: Odelay
-Track: 13
-Date: 1996
+Track: 13/14
+Date: 1996-06-17
 Genre: Alternative
-mtime: 1206342246
+Disc: 1/1
+AlbumArtistSort: Beck
+MUSICBRAINZ_ALBUMARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_ALBUMID: 804b7f78-0bbc-3479-887a-ab28390357d4
+MUSICBRAINZ_ARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_TRACKID: e0d5a722-81bd-4c21-90f9-1a2f404a4644
+mtime: 1409968072
 song_end
 song_begin: 14 Diskobox.mp3
 Time: 215
 Artist: Beck
+AlbumArtist: Beck
+ArtistSort: Beck
 Title: Diskobox
 Album: Odelay
-Track: 14
-Date: 1996
+Track: 14/14
+Date: 1996-06-17
 Genre: Alternative
-mtime: 1206342247
+Disc: 1/1
+AlbumArtistSort: Beck
+MUSICBRAINZ_ALBUMARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_ALBUMID: 804b7f78-0bbc-3479-887a-ab28390357d4
+MUSICBRAINZ_ARTISTID: 309c62ba-7a22-4277-9f67-4a162526d18a
+MUSICBRAINZ_TRACKID: 8202591c-f998-412f-83b3-29aeb212d78c
+mtime: 1409968071
 song_end
 end: Beck/Odelay
 end: Beck
@@ -1155,13 +1657,21 @@ mtime: 1409124477
 begin: Black Eyed Peas/The E.N.D
 song_begin: 02 Rock That Body.mp3
 Time: 269
-Artist: Black Eyed Peas
+Artist: The Black Eyed Peas
+AlbumArtist: The Black Eyed Peas
+ArtistSort: Black Eyed Peas, The
 Title: Rock That Body
-Album: The E.N.D
-Track: 2/15
-Date: 2009-00-00
+Album: The E.N.D.
+Track: 2/16
+Date: 2009-06-05
 Genre: Hip-Hop
-mtime: 1404395368
+Disc: 1/1
+AlbumArtistSort: Black Eyed Peas, The
+MUSICBRAINZ_ALBUMARTISTID: d5be5333-4171-427e-8e12-732087c6b78e
+MUSICBRAINZ_ALBUMID: c7d639c5-cef0-3a2b-a397-2e00f160442d
+MUSICBRAINZ_ARTISTID: d5be5333-4171-427e-8e12-732087c6b78e
+MUSICBRAINZ_TRACKID: 5663941d-aab2-41da-ab1a-ba3f5e509a64
+mtime: 1409968099
 song_end
 end: Black Eyed Peas/The E.N.D
 end: Black Eyed Peas
@@ -1174,11 +1684,20 @@ begin: Black Flag/First Four Years
 song_begin: Fix Me.mp3
 Time: 58
 Artist: Black Flag
+AlbumArtist: Black Flag
+ArtistSort: Black Flag
 Title: Fix Me
-Album: First Four Years
-Date: 1978
+Album: The First Four Years
+Track: 2/16
+Date: 1983
 Genre: Punk
-mtime: 1404395368
+Disc: 1/1
+AlbumArtistSort: Black Flag
+MUSICBRAINZ_ALBUMARTISTID: 9941a936-196a-4a62-ae53-a69cbc33f20e
+MUSICBRAINZ_ALBUMID: 832e2ea3-13fb-3bb5-b928-f08a3eab2806
+MUSICBRAINZ_ARTISTID: 9941a936-196a-4a62-ae53-a69cbc33f20e
+MUSICBRAINZ_TRACKID: eb745324-b926-400f-88a8-48e729751994
+mtime: 1409968108
 song_end
 end: Black Flag/First Four Years
 directory: My War
@@ -1344,11 +1863,19 @@ begin: Black Strobe/Rocknrolla (Original Soundtrack)
 song_begin: 02 I'm a Man.mp3
 Time: 275
 Artist: Black Strobe
+AlbumArtist: Various Artists
+ArtistSort: Black Strobe
 Title: I'm a Man
-Album: Rocknrolla (Original Soundtrack)
-Track: 2
-Date: 2008
-mtime: 1261453766
+Album: Rocknrolla
+Track: 2/21
+Date: 2008-09-01
+Disc: 1/1
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: b47d80b0-be58-4a19-a64e-8fd8c9a239f0
+MUSICBRAINZ_ARTISTID: 358169a4-acce-4cf5-9cf1-5dc5be009177
+MUSICBRAINZ_TRACKID: 96999a79-c682-4c44-a82d-a662e809234c
+mtime: 1409968198
 song_end
 end: Black Strobe/Rocknrolla (Original Soundtrack)
 end: Black Strobe
@@ -1362,133 +1889,210 @@ song_begin: 01 Doesn't Matter Much.mp3
 Time: 205
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: Doesn't Matter Much
-Album: Box of Secrets [Bonus Track]
-Track: 1
-Date: 2008
+Album: Box of Secrets
+Track: 1/11
+Date: 2008-04-14
 Genre: Alternative
 Composer: Blood Red Shoes
-mtime: 1298500073
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 700d7cf4-30ca-48fe-b2eb-44b9e35b19af
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 6bd98bbb-10c0-4945-95ca-56cb6b27c968
+mtime: 1409968199
 song_end
 song_begin: 02 You Bring Me Down.mp3
 Time: 222
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: You Bring Me Down
-Album: Box of Secrets [Bonus Track]
-Track: 2
-Date: 2008
+Album: Box of Secrets
+Track: 2/11
+Date: 2008-04-14
 Genre: Alternative
 Composer: Blood Red Shoes
-mtime: 1298500146
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 700d7cf4-30ca-48fe-b2eb-44b9e35b19af
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 676f0fa4-b354-4a70-a132-217671bfb816
+mtime: 1409968199
 song_end
 song_begin: 03 Try Harder.mp3
 Time: 230
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: Try Harder
-Album: Box of Secrets [Bonus Track]
-Track: 3
-Date: 2008
+Album: Box of Secrets
+Track: 3/11
+Date: 2008-04-14
 Genre: Alternative
 Composer: Blood Red Shoes
-mtime: 1298500144
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 700d7cf4-30ca-48fe-b2eb-44b9e35b19af
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 3a88dba1-d8e2-44d7-9009-68ca66359609
+mtime: 1409968199
 song_end
 song_begin: 04 Say Something Say Anything.mp3
 Time: 192
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: Say Something, Say Anything
-Album: Box of Secrets [Bonus Track]
-Track: 4
-Date: 2008
+Album: Box of Secrets
+Track: 4/11
+Date: 2008-04-14
 Genre: Alternative
 Composer: Blood Red Shoes
-mtime: 1298500113
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 700d7cf4-30ca-48fe-b2eb-44b9e35b19af
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: ff7d3e3a-7bcf-4a01-abd4-55540f9df97e
+mtime: 1409968199
 song_end
 song_begin: 05 I Wish I Was Someone Better.mp3
 Time: 228
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: I Wish I Was Someone Better
-Album: Box of Secrets [Bonus Track]
-Track: 5
-Date: 2008
+Album: Box of Secrets
+Track: 5/11
+Date: 2008-04-14
 Genre: Alternative
 Composer: Blood Red Shoes
-mtime: 1298500104
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 700d7cf4-30ca-48fe-b2eb-44b9e35b19af
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: ce185d81-4f46-492a-89b8-7e8ba2ea6629
+mtime: 1409968199
 song_end
 song_begin: 06 Take The Weight.mp3
 Time: 278
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: Take the Weight
-Album: Box of Secrets [Bonus Track]
-Track: 6
-Date: 2008
+Album: Box of Secrets
+Track: 6/11
+Date: 2008-04-14
 Genre: Alternative
 Composer: Blood Red Shoes
-mtime: 1298500116
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 700d7cf4-30ca-48fe-b2eb-44b9e35b19af
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 5c2a1565-bfcd-432e-ad77-ecb8858d1187
+mtime: 1409968199
 song_end
 song_begin: 07 ADHD.mp3
 Time: 197
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: ADHD
-Album: Box of Secrets [Bonus Track]
-Track: 7
-Date: 2008
+Album: Box of Secrets
+Track: 7/11
+Date: 2008-04-14
 Genre: Alternative
 Composer: Blood Red Shoes
-mtime: 1298500146
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 700d7cf4-30ca-48fe-b2eb-44b9e35b19af
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 16081995-eb4c-421c-bb43-9366cc600793
+mtime: 1409968199
 song_end
 song_begin: 08 This Is Not For You.mp3
 Time: 272
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: This Is Not for You
-Album: Box of Secrets [Bonus Track]
-Track: 8
-Date: 2008
+Album: Box of Secrets
+Track: 8/11
+Date: 2008-04-14
 Genre: Alternative
 Composer: Blood Red Shoes
-mtime: 1298500087
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 700d7cf4-30ca-48fe-b2eb-44b9e35b19af
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 87fbccb7-4c94-429c-b317-bd4fd07fdf60
+mtime: 1409968199
 song_end
 song_begin: 09 It's Getting Boring By The Sea.mp3
 Time: 176
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: It's Getting Boring by the Sea
-Album: Box of Secrets [Bonus Track]
-Track: 9
-Date: 2008
+Album: Box of Secrets
+Track: 9/11
+Date: 2008-04-14
 Genre: Alternative
 Composer: Blood Red Shoes
-mtime: 1298500125
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 700d7cf4-30ca-48fe-b2eb-44b9e35b19af
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: f35f2dea-55da-4c3d-89ef-8e352cc5fb5f
+mtime: 1409968199
 song_end
 song_begin: 10 Forgive Nothing.mp3
 Time: 190
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: Forgive Nothing
-Album: Box of Secrets [Bonus Track]
-Track: 10
-Date: 2008
+Album: Box of Secrets
+Track: 10/11
+Date: 2008-04-14
 Genre: Alternative
 Composer: Blood Red Shoes
-mtime: 1298500099
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 700d7cf4-30ca-48fe-b2eb-44b9e35b19af
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 316a818e-29c5-42a7-bf2a-014accaae454
+mtime: 1409968199
 song_end
 song_begin: 11 Hope You Are Holding Up.mp3
 Time: 312
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: Hope You're Holding Up
-Album: Box of Secrets [Bonus Track]
-Track: 11
-Date: 2008
+Album: Box of Secrets
+Track: 11/11
+Date: 2008-04-14
 Genre: Alternative
 Composer: Blood Red Shoes
-mtime: 1298500140
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 700d7cf4-30ca-48fe-b2eb-44b9e35b19af
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 43595a8b-899e-403a-b20b-886a29c58778
+mtime: 1409968199
 song_end
 end: Blood Red Shoes/Box Of Secrets
 directory: I'll be your eyes
@@ -1498,105 +2102,160 @@ song_begin: 01- Blood Red Shoes- It's Getting Boring By The Sea.mp3
 Time: 172
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
-Title: It's Getting Boring By The Sea
+ArtistSort: Blood Red Shoes
+Title: It's Getting Boring by the Sea
 Album: I'll Be Your Eyes
-Track: 1
-Date: 2007
+Track: 1/6
+Date: 2007-06-25
 Genre: Rock/Indie
-mtime: 1404395369
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 01602e23-1141-46ff-bf3a-e52b849953de
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: f35f2dea-55da-4c3d-89ef-8e352cc5fb5f
+mtime: 1409968213
+song_end
+song_begin: 03- Blood Red Shoes- You Bring Me Down.mp3
+Time: 222
+Artist: Blood Red Shoes
+AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
+Title: You Bring Me Down
+Album: I'll Be Your Eyes
+Track: 2/6
+Date: 2007-06-25
+Genre: Rock/Indie
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 01602e23-1141-46ff-bf3a-e52b849953de
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 68b95194-5b52-4efc-ae14-273913fed489
+mtime: 1409968214
 song_end
 song_begin: 02- Blood Red Shoes- Box Of Secrets.mp3
 Time: 240
 Artist: Blood Red Shoes
 AlbumArtist: Blood Red Shoes
-Title: Box Of Secrets
+ArtistSort: Blood Red Shoes
+Title: Box of Secrets
 Album: I'll Be Your Eyes
-Track: 2
-Date: 2007
+Track: 3/6
+Date: 2007-06-25
 Genre: Rock/Indie
-mtime: 1298500136
-song_end
-song_begin: 03- Blood Red Shoes- You Bring Me Down.mp3
-Time: 222
-Artist: Blood Red Shoes
-Title: You Bring Me Down
-Album: I'll Be Your Eyes
-Track: 3
-Date: 2007
-Genre: Rock/Indie
-mtime: 1298500033
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 01602e23-1141-46ff-bf3a-e52b849953de
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: a022ebb7-ad2b-4538-aa1b-2cd00765fefa
+mtime: 1409968215
 song_end
 song_begin: 04- Blood Red Shoes- Try Harder.mp3
 Time: 225
 Artist: Blood Red Shoes
+AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: Try Harder
 Album: I'll Be Your Eyes
-Track: 4
-Date: 2007
+Track: 4/6
+Date: 2007-06-25
 Genre: Rock/Indie
-mtime: 1298500143
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 01602e23-1141-46ff-bf3a-e52b849953de
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 0a759694-d34f-422d-bc36-07488e9a9931
+mtime: 1409968214
 song_end
 song_begin: 05- Blood Red Shoes- Stitch Me Back.mp3
 Time: 218
 Artist: Blood Red Shoes
+AlbumArtist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: Stitch Me Back
 Album: I'll Be Your Eyes
-Track: 5
-Date: 2007
+Track: 5/6
+Date: 2007-06-25
 Genre: Rock/Indie
-mtime: 1298500129
+Disc: 1/1
+AlbumArtistSort: Blood Red Shoes
+MUSICBRAINZ_ALBUMARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_ALBUMID: 01602e23-1141-46ff-bf3a-e52b849953de
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 0e7ef9ab-cd27-4b0e-98f7-59df979e9971
+mtime: 1409968213
 song_end
 end: Blood Red Shoes/I'll be your eyes
 directory: Other Tracks
-mtime: 1399554776
+mtime: 1409968263
 begin: Blood Red Shoes/Other Tracks
 song_begin: 01- Blood Red Shoes- Bless His Heart.mp3
 Time: 205
 Artist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: Bless His Heart
-Track: 01
+Track: 1/0
+Date: 0000
 Genre: Rock/Indie
-mtime: 1298500122
-song_end
-song_begin: 02- Blood Red Shoes- Cant Find The Door.mp3
-Time: 196
-Artist: Blood Red Shoes
-Title: Can't Find The Door
-Track: 02
-Genre: Rock/Indie
-mtime: 1298500077
+Disc: 0/0
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: bb957fe7-e1f8-49c9-93d1-34f7cdd64317
+mtime: 1409968227
 song_end
 song_begin: 03- Blood Red Shoes- Don't Always Say Yes.mp3
 Time: 229
 Artist: Blood Red Shoes
+ArtistSort: Blood Red Shoes
 Title: Don't Always Say Yes
-Track: 03
+Track: 3/0
+Date: 0000
 Genre: Rock/Indie
-mtime: 1298500063
+Disc: 0/0
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 8b88e1f3-2963-40c7-ba43-1f6937f13eac
+mtime: 1409968230
 song_end
 song_begin: 04- Blood Red Shoes- How To Pass The Time.mp3
 Time: 192
 Artist: Blood Red Shoes
-Title: How to Pass The Time
-Track: 04
+ArtistSort: Blood Red Shoes
+Title: Can't Find the Door
+Track: 4/0
+Date: 0000
 Genre: Rock/Indie
-mtime: 1298500109
+Disc: 0/0
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: e810a5b0-3d1a-4724-9e0c-07177738b774
+mtime: 1409968263
 song_end
 song_begin: 05- Blood Red Shoes- Meet Me At 8.mp3
 Time: 148
 Artist: Blood Red Shoes
-Title: Meet Me At 8
-Track: 05
+ArtistSort: Blood Red Shoes
+Title: Meet Me at Eight
+Track: 5/0
+Date: 0000
 Genre: Rock/Indie
-mtime: 1298500152
+Disc: 0/0
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: a346c08e-265f-43a6-bb8c-8e662cf1efaf
+mtime: 1409968268
 song_end
 song_begin: 06- Blood Red Shoes- Victory For The Magpie.mp3
 Time: 231
 Artist: Blood Red Shoes
-Title: Victory for The Magpie
-Track: 06
+ArtistSort: Blood Red Shoes
+Title: Victory for the Magpie
+Track: 6/0
+Date: 0000
 Genre: Rock/Indie
-mtime: 1298500120
+Disc: 0/0
+MUSICBRAINZ_ARTISTID: cd830a8f-89d2-4e96-96cb-7a497e51d437
+MUSICBRAINZ_TRACKID: 3621fddc-8d1f-4c26-89c4-1651b9a41a99
+mtime: 1409968269
 song_end
 end: Blood Red Shoes/Other Tracks
 end: Blood Red Shoes
@@ -1617,11 +2276,20 @@ begin: Bobby Darin/Great Gentlemen of Song-Spotli
 song_begin: Fly Me to the Moon.mp3
 Time: 175
 Artist: Bobby Darin
+AlbumArtist: Bobby Darin
+ArtistSort: Darin, Bobby
 Title: Fly Me to the Moon
-Album: Great Gentlemen of Song-Spotli
+Album: Great Gentlemen of Song: Spotlight On...
+Track: 12/20
 Date: 1999
 Genre: Vocal
-mtime: 1198846409
+Disc: 1/1
+AlbumArtistSort: Darin, Bobby
+MUSICBRAINZ_ALBUMARTISTID: 1f223eed-aa38-49da-9e76-62ab3adc2e04
+MUSICBRAINZ_ALBUMID: d2bdea08-3b91-46a7-b91f-406e435c503d
+MUSICBRAINZ_ARTISTID: 1f223eed-aa38-49da-9e76-62ab3adc2e04
+MUSICBRAINZ_TRACKID: 49d2bc4c-b42d-4623-872b-f96f82ad228c
+mtime: 1409968282
 song_end
 end: Bobby Darin/Great Gentlemen of Song-Spotli
 directory: The Hit Singles Collection
@@ -1631,13 +2299,20 @@ song_begin: 12 Beyond The Sea.mp3
 Time: 173
 Artist: Bobby Darin
 AlbumArtist: Bobby Darin
-Title: Beyond The Sea
+ArtistSort: Darin, Bobby
+Title: Beyond the Sea
 Album: The Hit Singles Collection
-Track: 12
-Date: 2002
+Track: 7/20
+Date: 2002-04-02
 Genre: Soundtrack
 Composer: Charles Trenet/Jack Lawrence
-mtime: 1404395369
+Disc: 1/1
+AlbumArtistSort: Darin, Bobby
+MUSICBRAINZ_ALBUMARTISTID: 1f223eed-aa38-49da-9e76-62ab3adc2e04
+MUSICBRAINZ_ALBUMID: 6c070154-d7a1-4f35-9d13-372d1fb5d2f5
+MUSICBRAINZ_ARTISTID: 1f223eed-aa38-49da-9e76-62ab3adc2e04
+MUSICBRAINZ_TRACKID: ee5e992a-acd9-448a-b2cd-42d41e0fb190
+mtime: 1409968293
 song_end
 end: Bobby Darin/The Hit Singles Collection
 end: Bobby Darin
@@ -1649,12 +2324,21 @@ mtime: 1399554776
 begin: Breeders/Last Splash
 song_begin: 01 New Year.mp3
 Time: 116
-Artist: Breeders
+Artist: The Breeders
+AlbumArtist: The Breeders
+ArtistSort: Breeders, The
 Title: New Year
 Album: Last Splash
-Track: 01
+Track: 1/15
+Date: 1993
 Genre: Rock
-mtime: 1198845931
+Disc: 1/1
+AlbumArtistSort: Breeders, The
+MUSICBRAINZ_ALBUMARTISTID: 667e856e-f3a7-42e9-8244-95422ef31321
+MUSICBRAINZ_ALBUMID: 0123d225-e035-3728-ac3a-3758c9d4edad
+MUSICBRAINZ_ARTISTID: 667e856e-f3a7-42e9-8244-95422ef31321
+MUSICBRAINZ_TRACKID: 85c70e06-e102-4f04-8077-357428bf3e70
+mtime: 1409968300
 song_end
 end: Breeders/Last Splash
 end: Breeders
@@ -1695,8 +2379,14 @@ begin: Cassius/Unknown Album
 song_begin: Cassius '99.mp3
 Time: 215
 Artist: Cassius
-Title: Cassius '99
-mtime: 1198845949
+ArtistSort: Cassius
+Title: Cassius 99
+Track: 0/0
+Date: 0000
+Disc: 0/0
+MUSICBRAINZ_ARTISTID: 256160e8-37fd-4f8c-a3ef-530ebbaa4b3d
+MUSICBRAINZ_TRACKID: 2edadee3-db10-4a96-9b3b-72c863a0e227
+mtime: 1409968340
 song_end
 end: Cassius/Unknown Album
 end: Cassius
@@ -1708,10 +2398,16 @@ mtime: 1399554776
 begin: Casualties/Unknown Album
 song_begin: Fuck You All.mp3
 Time: 159
-Artist: Casualties
+Artist: The Casualties
+ArtistSort: Casualties, The
 Title: Fuck You All
+Track: 0/0
+Date: 0000
 Genre: Punk Rock
-mtime: 1198845951
+Disc: 0/0
+MUSICBRAINZ_ARTISTID: d2bf45ea-1d83-4fa7-9613-459071a08cf1
+MUSICBRAINZ_TRACKID: acd30835-147a-40e3-ad95-25056d8406f8
+mtime: 1409968348
 song_end
 end: Casualties/Unknown Album
 end: Casualties
@@ -1721,29 +2417,58 @@ begin: Chemical Brothers
 directory: Surrender
 mtime: 1409124477
 begin: Chemical Brothers/Surrender
+song_begin: the chemical brothers - surrender - 12.mp3
+Time: 270
+Artist: The Chemical Brothers
+AlbumArtist: The Chemical Brothers
+ArtistSort: Chemical Brothers, The
+Title: Out of Control
+Album: Surrender
+Track: 1/6
+Date: 1999
+Disc: 1/1
+AlbumArtistSort: Chemical Brothers, The
+MUSICBRAINZ_ALBUMARTISTID: 1946a82a-f927-40c2-8235-38d64f50d043
+MUSICBRAINZ_ALBUMID: a84b9fea-aee9-4e1f-b5a2-a5a23c673688
+MUSICBRAINZ_ARTISTID: 1946a82a-f927-40c2-8235-38d64f50d043
+MUSICBRAINZ_TRACKID: cc824d2a-cbed-492f-843e-4463c7cab7d7
+mtime: 1409968363
+song_end
 song_begin: Let Forever Be 1.mp3
 Time: 236
-Artist: Chemical Brothers
+Artist: The Chemical Brothers
+AlbumArtist: The Chemical Brothers
+ArtistSort: Chemical Brothers, The
 Title: Let Forever Be
 Album: Surrender
+Track: 2/6
 Date: 1999
 Genre: Electronic
-mtime: 1404395370
+Disc: 1/1
+AlbumArtistSort: Chemical Brothers, The
+MUSICBRAINZ_ALBUMARTISTID: 1946a82a-f927-40c2-8235-38d64f50d043
+MUSICBRAINZ_ALBUMID: a84b9fea-aee9-4e1f-b5a2-a5a23c673688
+MUSICBRAINZ_ARTISTID: 1946a82a-f927-40c2-8235-38d64f50d043
+MUSICBRAINZ_TRACKID: ba5daf89-a258-4d88-bd7a-f861f64ac7e1
+mtime: 1409968363
 song_end
 song_begin: Let Forever Be.mp3
 Time: 236
-Artist: Chemical Brothers
-Title: Let Forever Be
+Artist: The Chemical Brothers
+AlbumArtist: The Chemical Brothers
+ArtistSort: Chemical Brothers, The
+Title: Hey Boy, Hey Girl
 Album: Surrender
+Track: 5/6
 Date: 1999
 Genre: Electronic
-mtime: 1404395370
-song_end
-song_begin: the chemical brothers - surrender - 12.mp3
-Time: 270
-Artist: Chemical Brothers
-Album: Surrender
-mtime: 1213850799
+Disc: 1/1
+AlbumArtistSort: Chemical Brothers, The
+MUSICBRAINZ_ALBUMARTISTID: 1946a82a-f927-40c2-8235-38d64f50d043
+MUSICBRAINZ_ALBUMID: a84b9fea-aee9-4e1f-b5a2-a5a23c673688
+MUSICBRAINZ_ARTISTID: 1946a82a-f927-40c2-8235-38d64f50d043
+MUSICBRAINZ_TRACKID: 79052eed-d17d-4bd7-8f65-51adade0b8f4
+mtime: 1409968363
 song_end
 end: Chemical Brothers/Surrender
 end: Chemical Brothers
@@ -1775,29 +2500,55 @@ begin: Christina Aguilera/Bionic
 song_begin: Not Myself Tonight.mp3
 Time: 187
 Artist: Christina Aguilera
+AlbumArtist: Christina Aguilera
+ArtistSort: Aguilera, Christina
 Title: Not Myself Tonight
 Album: Bionic
-mtime: 1404395370
+Track: 2/18
+Date: 2010
+Disc: 1/1
+AlbumArtistSort: Aguilera, Christina
+MUSICBRAINZ_ALBUMARTISTID: b202beb7-99bd-47e7-8b72-195c8d72ebdd
+MUSICBRAINZ_ALBUMID: c7b75ab4-98c5-3c90-b047-cc2386baaa5c
+MUSICBRAINZ_ARTISTID: b202beb7-99bd-47e7-8b72-195c8d72ebdd
+MUSICBRAINZ_TRACKID: a59bf2d6-31f0-464b-9cdb-39763a7611fe
+mtime: 1409968393
 song_end
 song_begin: WooHoo (Feat. Nicki Minaj).mp3
 Time: 246
 Artist: Christina Aguilera
 AlbumArtist: Christina Aguilera
-Title: WooHoo (Feat. Nicki Minaj)
+ArtistSort: Aguilera, Christina
+Title: Woohoo (feat. Nicki Minaj)
 Album: Bionic
-Date: 2010
+Track: 3/18
+Date: 2010-06-04
 Genre: Pop
-mtime: 1281892687
+Disc: 1/1
+AlbumArtistSort: Aguilera, Christina
+MUSICBRAINZ_ALBUMARTISTID: b202beb7-99bd-47e7-8b72-195c8d72ebdd
+MUSICBRAINZ_ALBUMID: c7b75ab4-98c5-3c90-b047-cc2386baaa5c
+MUSICBRAINZ_ARTISTID: b202beb7-99bd-47e7-8b72-195c8d72ebdd
+MUSICBRAINZ_TRACKID: cdc1210f-77d3-4b74-8e67-223a40d7ebba
+mtime: 1409968393
 song_end
 song_begin: 15 You Lost Me.mp3
 Time: 259
 Artist: Christina Aguilera
+AlbumArtist: Christina Aguilera
+ArtistSort: Aguilera, Christina
 Title: You Lost Me
 Album: Bionic
-Track: 15
-Date: 2010
+Track: 15/18
+Date: 2010-06-04
 Genre: Pop
-mtime: 1281892762
+Disc: 1/1
+AlbumArtistSort: Aguilera, Christina
+MUSICBRAINZ_ALBUMARTISTID: b202beb7-99bd-47e7-8b72-195c8d72ebdd
+MUSICBRAINZ_ALBUMID: c7b75ab4-98c5-3c90-b047-cc2386baaa5c
+MUSICBRAINZ_ARTISTID: b202beb7-99bd-47e7-8b72-195c8d72ebdd
+MUSICBRAINZ_TRACKID: e73d1f76-1f17-45a4-b322-922a0e1c5000
+mtime: 1409968393
 song_end
 end: Christina Aguilera/Bionic
 end: Christina Aguilera
@@ -1825,10 +2576,19 @@ begin: Civil Twilight/Human
 song_begin: 13 Letters From The Sky.mp3
 Time: 275
 Artist: Civil Twilight
-Title: Letters From The Sky
-Album: Human
-Track: 13/14
-mtime: 1281894090
+AlbumArtist: Civil Twilight
+ArtistSort: Civil Twilight
+Title: Fire Escape
+Album: Fire Escape
+Track: 1/1
+Date: 2012
+Disc: 1/1
+AlbumArtistSort: Civil Twilight
+MUSICBRAINZ_ALBUMARTISTID: 36ecdd8b-ed83-4ccf-a930-52cf582d3c9d
+MUSICBRAINZ_ALBUMID: 442af2f7-b816-4d11-89da-5b18de77b45e
+MUSICBRAINZ_ARTISTID: 36ecdd8b-ed83-4ccf-a930-52cf582d3c9d
+MUSICBRAINZ_TRACKID: 186ee82b-ada3-4d02-b3d5-750f9a9f12d4
+mtime: 1409968421
 song_end
 end: Civil Twilight/Human
 end: Civil Twilight
@@ -1840,33 +2600,24 @@ mtime: 1399554777
 begin: Clash/London Calling
 song_begin: Lost in the Supermarket.mp3
 Time: 230
-Artist: Clash
-Title: Lost in the Supermarket
+Artist: The Clash
+AlbumArtist: The Clash
+ArtistSort: Clash, The
+Title: Armagideon Time
 Album: London Calling
-Date: 2000
+Track: 2/4
+Date: 1979
 Genre: Pop
-mtime: 1198845986
+Disc: 1/1
+AlbumArtistSort: Clash, The
+MUSICBRAINZ_ALBUMARTISTID: 8f92558c-2baa-4758-8c38-615519e9deda
+MUSICBRAINZ_ALBUMID: efc61929-387e-42a9-8194-caccdca7012e
+MUSICBRAINZ_ARTISTID: 8f92558c-2baa-4758-8c38-615519e9deda
+MUSICBRAINZ_TRACKID: 3647e96b-f5a5-4fa3-a2cd-e1f68493fb1b
+mtime: 1409968434
 song_end
 end: Clash/London Calling
 end: Clash
-directory: Colbie Caillat
-mtime: 1399554777
-begin: Colbie Caillat
-directory: Breakthrough
-mtime: 1409124477
-begin: Colbie Caillat/Breakthrough
-song_begin: 07 I Never Told You.mp3
-Time: 235
-Artist: Colbie Caillat
-Title: I Never Told You
-Album: Breakthrough
-Track: 7
-Date: 2009
-Genre: Pop
-mtime: 1404395370
-song_end
-end: Colbie Caillat/Breakthrough
-end: Colbie Caillat
 directory: Colbie Caillet
 mtime: 1399554778
 begin: Colbie Caillet
@@ -1875,11 +2626,21 @@ mtime: 1409124477
 begin: Colbie Caillet/Breakthrough
 song_begin: I Never Told You.mp3
 Time: 230
-Artist: Colbie Caillet
+Artist: Colbie Caillat
+AlbumArtist: Colbie Caillat
+ArtistSort: Caillat, Colbie
 Title: I Never Told You
 Album: Breakthrough
-Genre: (13)
-mtime: 1404395370
+Track: 7/12
+Date: 2009
+Genre: Pop
+Disc: 1/1
+AlbumArtistSort: Caillat, Colbie
+MUSICBRAINZ_ALBUMARTISTID: efc8a006-d0c6-4a9b-8cb1-91ca770fa2b9
+MUSICBRAINZ_ALBUMID: 4144566a-d28e-49f5-a0ce-d2d00003127a
+MUSICBRAINZ_ARTISTID: efc8a006-d0c6-4a9b-8cb1-91ca770fa2b9
+MUSICBRAINZ_TRACKID: ae724d80-f3e4-4c3d-bdc9-8e7020ac00c6
+mtime: 1409968457
 song_end
 end: Colbie Caillet/Breakthrough
 end: Colbie Caillet
@@ -1892,15 +2653,24 @@ begin: Coldplay/A Rush Of Blood To The Head
 song_begin: 04 The Scientist.mp3
 Time: 311
 Artist: Coldplay
+AlbumArtist: Coldplay
+ArtistSort: Coldplay
 Title: The Scientist
-Album: A Rush Of Blood To The Head
-Track: 04
-mtime: 1281895783
+Album: A Rush of Blood to the Head
+Track: 4/11
+Date: 2002
+Disc: 1/1
+AlbumArtistSort: Coldplay
+MUSICBRAINZ_ALBUMARTISTID: cc197bad-dc9c-440d-a5b5-d52ba2e14234
+MUSICBRAINZ_ALBUMID: 7d9245f5-fc4a-4bc8-983c-a0e2d6dcf4dd
+MUSICBRAINZ_ARTISTID: cc197bad-dc9c-440d-a5b5-d52ba2e14234
+MUSICBRAINZ_TRACKID: a478f801-521b-40e7-8bb4-5faeffb1f3e4
+mtime: 1409968462
 song_end
 end: Coldplay/A Rush Of Blood To The Head
 end: Coldplay
 directory: Compilations
-mtime: 1399554781
+mtime: 1409970549
 begin: Compilations
 directory: Black snake moan
 mtime: 1399554779
@@ -1908,206 +2678,325 @@ begin: Compilations/Black snake moan
 song_begin: 01 Opening Theme 1.mp3
 Time: 38
 Artist: Scott Bomar
+AlbumArtist: Various Artists
+ArtistSort: Bomar, Scott
 Title: Opening Theme
-Album: Black snake moan
+Album: Black Snake Moan
 Track: 1/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255432
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: c947a47e-972b-42f9-96d1-20903515bb8f
+MUSICBRAINZ_TRACKID: 3a8c1ebb-f9b2-4426-9910-83a7c2927b31
+mtime: 1409968462
 song_end
 song_begin: 02 Ain't But One Kind Of Blues 1.mp3
 Time: 12
 Artist: Son House
-Title: Ain't But One Kind Of Blues
-Album: Black snake moan
+AlbumArtist: Various Artists
+ArtistSort: House, Son
+Title: Ain't but One Kind of Blues
+Album: Black Snake Moan
 Track: 2/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255333
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: 8c87dda0-be58-4e48-a3b5-2626f26364c7
+MUSICBRAINZ_TRACKID: c3a61bfb-ceaf-45df-80a5-127ae9c8acc5
+mtime: 1409968462
 song_end
 song_begin: 03 Just Like A Bird Without A Feathe 1.mp3
 Time: 143
 Artist: Samuel L. Jackson
-Title: Just Like A Bird Without A Feather
-Album: Black snake moan
+AlbumArtist: Various Artists
+ArtistSort: Jackson, Samuel L.
+Title: Just Like a Bird Without a Feather
+Album: Black Snake Moan
 Track: 3/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255402
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: a1c82f09-cc3a-4c94-a518-cba50d9bfab1
+MUSICBRAINZ_TRACKID: 1570bb65-1db8-4213-8d96-d32f9de054e5
+mtime: 1409968462
 song_end
 song_begin: 04 When The Lights Go Out-(w Black K.mp3
 Time: 193
 Artist: The Black Keys
-Title: When The Lights Go Out-(w Black Keys)
-Album: Black snake moan
+AlbumArtist: Various Artists
+ArtistSort: Black Keys, The
+Title: When the Lights Go Out
+Album: Black Snake Moan
 Track: 4/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1203554166
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: d15721d8-56b4-453d-b506-fc915b14cba2
+MUSICBRAINZ_TRACKID: 0c83e4ba-ea31-4d00-98be-89ee81e6dd45
+mtime: 1409968462
 song_end
 song_begin: 05 Standing In My Doorway Crying 1.mp3
 Time: 280
 Artist: Jessie Mae Hemphill
-Title: Standing In My Doorway Crying
-Album: Black snake moan
+AlbumArtist: Various Artists
+ArtistSort: Hemphill, Jessie Mae
+Title: Standing in My Doorway Crying
+Album: Black Snake Moan
 Track: 5/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255437
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: 5ede86ef-d331-4797-aac7-872fa4da5cab
+MUSICBRAINZ_TRACKID: 39c44f37-a4bc-4c77-84fd-ef85ffc82f27
+mtime: 1409968462
 song_end
 song_begin: 06 Chicken Heads.mp3
 Time: 153
 Artist: Bobby Rush
+AlbumArtist: Various Artists
+ArtistSort: Rush, Bobby
 Title: Chicken Heads
-Album: Black snake moan
+Album: Black Snake Moan
 Track: 6/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255421
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: bf5d0aa4-f3f9-4946-91f7-579008ffc0ab
+MUSICBRAINZ_TRACKID: 11d13aa0-ece2-40c0-b3ec-73e10b125c49
+mtime: 1409968462
 song_end
 song_begin: 07 Black Snake Moan 1.mp3
 Time: 245
 Artist: Samuel L. Jackson
+AlbumArtist: Various Artists
+ArtistSort: Jackson, Samuel L.
 Title: Black Snake Moan
-Album: Black snake moan
+Album: Black Snake Moan
 Track: 7/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255460
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: a1c82f09-cc3a-4c94-a518-cba50d9bfab1
+MUSICBRAINZ_TRACKID: ff3db40d-96cf-4076-af87-a1c467a0ecd0
+mtime: 1409968462
 song_end
 song_begin: 08 Morning Train.mp3
 Time: 181
 Artist: Precious Bryant
+AlbumArtist: Various Artists
+ArtistSort: Bryant, Precious
 Title: Morning Train
-Album: Black snake moan
+Album: Black Snake Moan
 Track: 8/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255434
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: ab158e6b-067e-447b-989c-136552c6a39c
+MUSICBRAINZ_TRACKID: c886326d-c1cf-47c3-a273-4a2e4698d0d3
+mtime: 1409968462
 song_end
 song_begin: 09 The Losing Kind 1.mp3
 Time: 153
 Artist: John Doe
+AlbumArtist: Various Artists
+ArtistSort: Doe, John
 Title: The Losing Kind
-Album: Black snake moan
+Album: Black Snake Moan
 Track: 9/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1204090999
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: 804adff4-9f7b-49d9-9585-6c73fb33e5aa
+MUSICBRAINZ_TRACKID: 59daecbc-111f-440b-a94a-d48f650b0e3e
+mtime: 1409968462
 song_end
 song_begin: 10 Lord Have Mercy On Me.mp3
 Time: 185
 Artist: Outrageous Cherry
-Title: Lord Have Mercy On Me
-Album: Black snake moan
+AlbumArtist: Various Artists
+ArtistSort: Outrageous Cherry
+Title: Lord Have Mercy on Me
+Album: Black Snake Moan
 Track: 10/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255461
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: 85712bc6-be20-4e52-9b5b-1119521796b8
+MUSICBRAINZ_TRACKID: 45f97697-5d3c-4d28-80c1-35b75e275e38
+mtime: 1409968462
 song_end
 song_begin: 11 Ronnie And Rae's Theme 1.mp3
 Time: 68
 Artist: Scott Bomar
-Title: Ronnie And Rae's Theme
-Album: Black snake moan
+AlbumArtist: Various Artists
+ArtistSort: Bomar, Scott
+Title: Ronnie and Rae's Theme
+Album: Black Snake Moan
 Track: 11/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255390
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: c947a47e-972b-42f9-96d1-20903515bb8f
+MUSICBRAINZ_TRACKID: fd22ea13-d63f-4470-b353-3f1d2aeae1bc
+mtime: 1409968462
 song_end
 song_begin: 12 The Chain 1.mp3
 Time: 171
 Artist: Scott Bomar
+AlbumArtist: Various Artists
+ArtistSort: Bomar, Scott
 Title: The Chain
-Album: Black snake moan
+Album: Black Snake Moan
 Track: 12/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255456
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: c947a47e-972b-42f9-96d1-20903515bb8f
+MUSICBRAINZ_TRACKID: 42b31b3d-4eae-4e34-a135-939a32effa1b
+mtime: 1409968462
 song_end
 song_begin: 13 Alice Mae 1.mp3
 Time: 228
 Artist: Samuel L. Jackson
+AlbumArtist: Various Artists
+ArtistSort: Jackson, Samuel L.
 Title: Alice Mae
-Album: Black snake moan
+Album: Black Snake Moan
 Track: 13/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255461
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: a1c82f09-cc3a-4c94-a518-cba50d9bfab1
+MUSICBRAINZ_TRACKID: 88af1e46-0f7d-4abf-af6a-ce793f60d08a
+mtime: 1409968462
 song_end
 song_begin: 14 Stack-O-Lee 1.mp3
 Time: 210
 Artist: Samuel L. Jackson
+AlbumArtist: Various Artists
+ArtistSort: Jackson, Samuel L.
 Title: Stack-O-Lee
-Album: Black snake moan
+Album: Black Snake Moan
 Track: 14/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255461
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: a1c82f09-cc3a-4c94-a518-cba50d9bfab1
+MUSICBRAINZ_TRACKID: e5517dcd-bb2b-4178-917d-7b0038ed953e
+mtime: 1409968462
 song_end
 song_begin: 15 Old Black Mattie 1.mp3
 Time: 251
 Artist: R.L. Burnside
+AlbumArtist: Various Artists
+ArtistSort: Burnside, R.L.
 Title: Old Black Mattie
-Album: Black snake moan
+Album: Black Snake Moan
 Track: 15/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1200649858
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: 355eed00-6c40-4d33-940a-600b2597407a
+MUSICBRAINZ_TRACKID: 4ac993fc-64d4-4e32-af2a-790c6938b22c
+mtime: 1409968462
 song_end
 song_begin: 16 That's Where The Blues Started 1.mp3
 Time: 22
 Artist: Son House
-Title: That's Where The Blues Started
-Album: Black snake moan
+AlbumArtist: Various Artists
+ArtistSort: House, Son
+Title: That's Where the Blues Started
+Album: Black Snake Moan
 Track: 16/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255417
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: 8c87dda0-be58-4e48-a3b5-2626f26364c7
+MUSICBRAINZ_TRACKID: 545c80c7-c821-4cf6-8a2c-2b9affb34816
+mtime: 1409968462
 song_end
 song_begin: 17 Meal Ol' Wind Died Down.mp3
 Time: 452
 Artist: North Mississippi Allstars
-Title: Meal Ol' Wind Died Down
-Album: Black snake moan
+AlbumArtist: Various Artists
+ArtistSort: North Mississippi Allstars
+Title: Mean Ol' Wind Died Down
+Album: Black Snake Moan
 Track: 17/17
-Date: 2007
+Date: 2007-01-30
 Genre: Soundtrack
 Composer: Black snake moan
 Disc: 1/1
-mtime: 1185255424
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: ab5f0fce-f823-4eef-aca8-207ba997c73d
+MUSICBRAINZ_ARTISTID: 62fa3eb2-1b73-4029-ba35-16ab66d29d02
+MUSICBRAINZ_TRACKID: 25a43a7e-4a80-4fe7-a73b-ebc5e5ba20cc
+mtime: 1409968462
 song_end
 end: Compilations/Black snake moan
 directory: NINJA 2009 Tour Sampler
@@ -2177,214 +3066,6 @@ Disc: 1/1
 mtime: 1237417008
 song_end
 end: Compilations/NINJA 2009 Tour Sampler
-directory: Recovery
-mtime: 1399554781
-begin: Compilations/Recovery
-song_begin: 01 Cold Wind Blows.m4a
-Time: 303
-Artist: Eminem
-Album: Recovery
-Title: Cold Wind Blows
-Track: 1/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893023
-song_end
-song_begin: 02 Talkin' 2 Myself.m4a
-Time: 300
-Artist: Eminem Feat. Kobe
-Album: Recovery
-Title: Talkin' 2 Myself
-Track: 2/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893037
-song_end
-song_begin: 03 On Fire.m4a
-Time: 213
-Artist: Eminem
-Album: Recovery
-Title: On Fire
-Track: 3/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893047
-song_end
-song_begin: 04 Won't Back Down.m4a
-Time: 265
-Artist: Eminem Feat. P!nk
-Album: Recovery
-Title: Won't Back Down
-Track: 4/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893059
-song_end
-song_begin: 05 W.T.P..m4a
-Time: 238
-Artist: Eminem
-Album: Recovery
-Title: W.T.P.
-Track: 5/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893069
-song_end
-song_begin: 06 Going Through Changes.m4a
-Time: 298
-Artist: Eminem
-Album: Recovery
-Title: Going Through Changes
-Track: 6/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893080
-song_end
-song_begin: 07 Not Afraid.m4a
-Time: 248
-Artist: Eminem
-Album: Recovery
-Title: Not Afraid
-Track: 7/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893089
-song_end
-song_begin: 08 Seduction.m4a
-Time: 275
-Artist: Eminem
-Album: Recovery
-Title: Seduction
-Track: 8/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893099
-song_end
-song_begin: 09 No Love.m4a
-Time: 299
-Artist: Eminem Feat. Lil Wayne
-Album: Recovery
-Title: No Love
-Track: 9/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893109
-song_end
-song_begin: 10 Space Bound.m4a
-Time: 278
-Artist: Eminem
-Album: Recovery
-Title: Space Bound
-Track: 10/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893118
-song_end
-song_begin: 11 Cinderella Man.m4a
-Time: 279
-Artist: Eminem
-Album: Recovery
-Title: Cinderella Man
-Track: 11/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893127
-song_end
-song_begin: 12 25 To Life.m4a
-Time: 241
-Artist: Eminem
-Album: Recovery
-Title: 25 To Life
-Track: 12/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893135
-song_end
-song_begin: 13 So Bad.m4a
-Time: 325
-Artist: Eminem
-Album: Recovery
-Title: So Bad
-Track: 13/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893145
-song_end
-song_begin: 14 Almost Famous.m4a
-Time: 292
-Artist: Eminem
-Album: Recovery
-Title: Almost Famous
-Track: 14/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893154
-song_end
-song_begin: 15 Love The Way You Lie.m4a
-Time: 263
-Artist: Eminem Feat. Rihanna
-Album: Recovery
-Title: Love The Way You Lie
-Track: 15/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893163
-song_end
-song_begin: 16 You're Never Over.m4a
-Time: 305
-Artist: Eminem
-Album: Recovery
-Title: You're Never Over
-Track: 16/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893172
-song_end
-song_begin: 17 Untitled.m4a
-Time: 194
-Artist: Eminem
-Album: Recovery
-Title: Untitled
-Track: 17/17
-Genre: Hip Hop/Rap
-Date: 2010
-Composer: Eminem/Marshall Mathers III
-Disc: 1/1
-mtime: 1281893179
-song_end
-end: Compilations/Recovery
 directory: Tha Carter 3
 mtime: 1399554782
 begin: Compilations/Tha Carter 3
@@ -2392,12 +3073,19 @@ song_begin: 06 Phone Home (Produced By David Ban 1.mp3
 Time: 192
 Artist: Lil Wayne
 AlbumArtist: Lil Wayne
-Title: Phone Home (Produced By David Banner)
-Album: Tha Carter 3
-Track: 6
-Date: 2008
+ArtistSort: Lil Wayne
+Title: Phone Home
+Album: Tha Carter III
+Track: 7/16
+Date: 2008-08-18
 Genre: Hip-Hop
-mtime: 1269830906
+Disc: 1/1
+AlbumArtistSort: Lil Wayne
+MUSICBRAINZ_ALBUMARTISTID: ac9a487a-d9d2-4f27-bb23-0f4686488345
+MUSICBRAINZ_ALBUMID: b440b9bc-f7ae-4fe8-990b-dca163a4c8a7
+MUSICBRAINZ_ARTISTID: ac9a487a-d9d2-4f27-bb23-0f4686488345
+MUSICBRAINZ_TRACKID: 61726a4d-8e86-4172-8585-d5698bfe173e
+mtime: 1409968561
 song_end
 end: Compilations/Tha Carter 3
 end: Compilations
@@ -2471,12 +3159,20 @@ begin: DJ Khaled/HotNewHipHop.com
 song_begin: 01 Fed Up (Feat. Usher, Young Jeezy,.mp3
 Time: 210
 Artist: DJ Khaled
-Title: Fed Up (Feat. Usher, Young Jeezy, Rick Ross & Drake)
-Album: HotNewHipHop.com
-Track: 1/3
-Date: 2009
+AlbumArtist: DJ Khaled
+ArtistSort: Khaled, DJ
+Title: All I Do Is Win
+Album: All I Do Is Win
+Track: 1/1
+Date: 2010-02-08
 Composer: HotNewHipHop.com
-mtime: 1281896891
+Disc: 1/1
+AlbumArtistSort: Khaled, DJ
+MUSICBRAINZ_ALBUMARTISTID: 081a2d60-9791-4e05-a075-f1890355eeee
+MUSICBRAINZ_ALBUMID: 9e15a26b-dd4b-4c01-9366-a7d64d31e9ab
+MUSICBRAINZ_ARTISTID: 081a2d60-9791-4e05-a075-f1890355eeee
+MUSICBRAINZ_TRACKID: 84cdec3a-16d3-480b-8605-573b29e29098
+mtime: 1409970122
 song_end
 end: DJ Khaled/HotNewHipHop.com
 end: DJ Khaled
@@ -2493,10 +3189,10 @@ Album: Alive 2007
 Title: Robot Rock / Oh Yeah
 Track: 1/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1272668257
+mtime: 1409968880
 song_end
 song_begin: 02 Touch It _ Technologic.m4a
 Time: 329
@@ -2505,10 +3201,10 @@ Album: Alive 2007
 Title: Touch It / Technologic
 Track: 2/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1272668258
+mtime: 1409968876
 song_end
 song_begin: 03 Television Rules the Nation _ Cre.m4a
 Time: 290
@@ -2517,10 +3213,10 @@ Album: Alive 2007
 Title: Television Rules the Nation / Crescendolls
 Track: 3/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1272091392
+mtime: 1409968877
 song_end
 song_begin: 04 Too Long _ Steam Machine.m4a
 Time: 421
@@ -2529,22 +3225,22 @@ Album: Alive 2007
 Title: Too Long / Steam Machine
 Track: 4/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1272668262
+mtime: 1409968875
 song_end
 song_begin: 05 Around the World _ Harder Better.m4a
 Time: 342
 Artist: Daft Punk
 Album: Alive 2007
-Title: Around the World / Harder Better Faster Stronger
+Title: Around the World / Harder, Better, Faster, Stronger
 Track: 5/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1272668262
+mtime: 1409968877
 song_end
 song_begin: 06 Burnin' _ Too Long.m4a
 Time: 431
@@ -2553,10 +3249,10 @@ Album: Alive 2007
 Title: Burnin' / Too Long
 Track: 6/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1198846637
+mtime: 1409968879
 song_end
 song_begin: 07 Face to Face _ Short Circuit.m4a
 Time: 295
@@ -2565,10 +3261,10 @@ Album: Alive 2007
 Title: Face to Face / Short Circuit
 Track: 7/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1198846646
+mtime: 1409968876
 song_end
 song_begin: 08 One More Time _ Aerodynamic.m4a
 Time: 370
@@ -2577,46 +3273,46 @@ Album: Alive 2007
 Title: One More Time / Aerodynamic
 Track: 8/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1198846701
+mtime: 1409968876
 song_end
 song_begin: 09 Aerodynamic Beats _ Gabrielle , F.m4a
 Time: 211
 Artist: Daft Punk
 Album: Alive 2007
-Title: Aerodynamic Beats / Gabrielle , Forget About the World
+Title: Aerodynamic Beats / Gabrielle - Forget About the World (Daft Punk remix)
 Track: 9/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1198846772
+mtime: 1409968874
 song_end
 song_begin: 10 Prime Time of Your Life _ Brainwa.m4a
 Time: 622
 Artist: Daft Punk
 Album: Alive 2007
-Title: Prime Time of Your Life / Brainwasher /Rollin 'and Scratchin' / Alive
+Title: The Prime Time of Your Life / The Brainwasher / Rollin' and Scratchin' / Alive
 Track: 10/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1198847019
+mtime: 1409968878
 song_end
 song_begin: 11 Da Funk _ Dadftendirekt.m4a
 Time: 397
 Artist: Daft Punk
 Album: Alive 2007
-Title: Da Funk / Dadftendirekt
+Title: Da Funk / Daftendirekt
 Track: 11/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1273125733
+mtime: 1409968879
 song_end
 song_begin: 12 Superheroes _ Human After All _ R.m4a
 Time: 341
@@ -2625,22 +3321,22 @@ Album: Alive 2007
 Title: Superheroes / Human After All / Rock'n Roll
 Track: 12/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1198846992
+mtime: 1409968880
 song_end
 song_begin: 13 Human _ Together _ One More Time.m4a
 Time: 598
 Artist: Daft Punk
 Album: Alive 2007
-Title: Human / Together / One More Time / Music Sounds Better With You / Stardust (Instrumental)
+Title: Human After All / Together / One More Time (reprise) / Stardust - Music Sounds Better With You
 Track: 13/13
 Genre: Dance
-Date: 2007-11-19T08:00:00Z
+Date: 2007-11-20
 Disc: 1/1
 AlbumArtist: Daft Punk
-mtime: 1198847132
+mtime: 1409968875
 song_end
 end: Daft Punk/Alive 2007
 end: Daft Punk
@@ -4069,13 +4765,20 @@ song_begin: 17 Modern Love 1.mp3
 Time: 239
 Artist: David Bowie
 AlbumArtist: David Bowie
+ArtistSort: Bowie, David
 Title: Modern Love
 Album: Changesbowie
-Track: 17
+Track: 17/18
 Date: 1990
 Genre: Retro
 Composer: David Bowie
-mtime: 1206921218
+Disc: 1/1
+AlbumArtistSort: Bowie, David
+MUSICBRAINZ_ALBUMARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_ALBUMID: 9f40b055-b497-4d3e-83b8-ba527ed1f4bb
+MUSICBRAINZ_ARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_TRACKID: 6a3c7002-fd46-4524-8c5c-7fb7e16c0cee
+mtime: 1409969964
 song_end
 end: David Bowie/Changesbowie
 directory: Hunky Dory
@@ -4084,11 +4787,20 @@ begin: David Bowie/Hunky Dory
 song_begin: 15 Queen Bitch.mp3
 Time: 199
 Artist: David Bowie
+AlbumArtist: David Bowie
+ArtistSort: Bowie, David
 Title: Queen Bitch
 Album: Hunky Dory
-Track: 15
+Track: 10/11
+Date: 1971
 Genre: Cult
-mtime: 1404395372
+Disc: 1/1
+AlbumArtistSort: Bowie, David
+MUSICBRAINZ_ALBUMARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_ALBUMID: 71b6f97a-cd7e-3537-9118-1a3cd633f465
+MUSICBRAINZ_ARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_TRACKID: 131c5027-2037-4ee4-a284-7521ea362f27
+mtime: 1409969978
 song_end
 end: David Bowie/Hunky Dory
 directory: Outside
@@ -4097,11 +4809,20 @@ begin: David Bowie/Outside
 song_begin: 03 03 03 David Bowie - The Heart's F.MP3
 Time: 298
 Artist: David Bowie
-Album: Outside
-Track: 3
+AlbumArtist: David Bowie
+ArtistSort: Bowie, David
+Title: The Hearts Filthy Lesson
+Album: 1.Outside: Version 2
+Track: 3/19
+Date: 1996
 Genre: Other
-Genre: Other
-mtime: 1198846380
+Disc: 1/1
+AlbumArtistSort: Bowie, David
+MUSICBRAINZ_ALBUMARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_ALBUMID: 57df757a-d2d8-3fbd-a2a3-83502e26a39e
+MUSICBRAINZ_ARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_TRACKID: 1ef29524-aa65-4d1c-a3d6-7465d532d35f
+mtime: 1409969990
 song_end
 end: David Bowie/Outside
 directory: Space Oddity
@@ -4111,45 +4832,72 @@ song_begin: 01 David Bowie - Space Oddity.m4a
 Time: 316
 Artist: David Bowie
 Album: Space Oddity
-Title: David Bowie - Space Oddity
-Track: 1
+Title: Space Oddity
+Track: 1/9
 Genre: Rock
 Date: 1972
 Composer: David Bowie
-mtime: 1198642647
+Disc: 1/1
+AlbumArtist: David Bowie
+mtime: 1409969997
 song_end
 end: David Bowie/Space Oddity
 directory: The Best Of David Bowie 1969
 mtime: 1409124477
 begin: David Bowie/The Best Of David Bowie 1969
+song_begin: Starman 1.mp3
+Time: 258
+Artist: David Bowie
+AlbumArtist: David Bowie
+ArtistSort: Bowie, David
+Title: Starman
+Album: The Best of David Bowie 1969-1974
+Track: 3/20
+Date: 2005-11-25
+Genre: Rock
+Disc: 1/1
+AlbumArtistSort: Bowie, David
+MUSICBRAINZ_ALBUMARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_ALBUMID: d1cead99-a5cb-30dd-8feb-2971fd278b1e
+MUSICBRAINZ_ARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_TRACKID: 308bc940-c25c-4847-ab55-4c4cf22683bc
+mtime: 1409970014
+song_end
 song_begin: Life On Mars 1.mp3
 Time: 232
 Artist: David Bowie
-Title: Life On Mars
-Album: The Best Of David Bowie 1969
-Date: 1999
+AlbumArtist: David Bowie
+ArtistSort: Bowie, David
+Title: Life on Mars?
+Album: The Best of David Bowie 1969-1974
+Track: 16/20
+Date: 2005-11-25
 Genre: Rock
-mtime: 1206921172
+Disc: 1/1
+AlbumArtistSort: Bowie, David
+MUSICBRAINZ_ALBUMARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_ALBUMID: d1cead99-a5cb-30dd-8feb-2971fd278b1e
+MUSICBRAINZ_ARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_TRACKID: e1f40fdd-7204-4022-ae93-8fc7c9a93119
+mtime: 1409970014
 song_end
 song_begin: Life On Mars.mp3
 Time: 232
 Artist: David Bowie
-Title: Life On Mars
-Album: The Best Of David Bowie 1969
-Track: 0
-Date: 1999
+AlbumArtist: David Bowie
+ArtistSort: Bowie, David
+Title: The Man Who Sold the World
+Album: The Best of David Bowie 1969-1974
+Track: 18/20
+Date: 2005-11-25
 Genre: Rock
-Genre: Rock
-mtime: 1404395373
-song_end
-song_begin: Starman 1.mp3
-Time: 258
-Artist: David Bowie
-Title: Starman
-Album: The Best Of David Bowie 1969
-Date: 1999
-Genre: Rock
-mtime: 1206921197
+Disc: 1/1
+AlbumArtistSort: Bowie, David
+MUSICBRAINZ_ALBUMARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_ALBUMID: d1cead99-a5cb-30dd-8feb-2971fd278b1e
+MUSICBRAINZ_ARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_TRACKID: d0c234bd-cfdc-4f73-a19f-67c4be0dc071
+mtime: 1409970014
 song_end
 end: David Bowie/The Best Of David Bowie 1969
 directory: The Singles 1969 to 1993
@@ -4158,11 +4906,20 @@ begin: David Bowie/The Singles 1969 to 1993
 song_begin: Cat People (Putting Out Fire).mp3
 Time: 404
 Artist: David Bowie
+AlbumArtist: David Bowie
+ArtistSort: Bowie, David
 Title: Cat People (Putting Out Fire)
 Album: The Singles 1969 to 1993
-Date: 1993
+Track: 29/39
+Date: 1993-12
 Genre: Rock
-mtime: 1404395374
+Disc: 2/2
+AlbumArtistSort: Bowie, David
+MUSICBRAINZ_ALBUMARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_ALBUMID: 8d929208-ba2e-4101-be68-4e4414ba8d77
+MUSICBRAINZ_ARTISTID: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+MUSICBRAINZ_TRACKID: a9b9ebb3-7afd-4115-9794-57059b099c74
+mtime: 1409970024
 song_end
 end: David Bowie/The Singles 1969 to 1993
 directory: Unknown Album
@@ -4198,13 +4955,20 @@ song_begin: 06 Fansong.mp3
 Time: 168
 Artist: Dethklok
 AlbumArtist: Dethklok
+ArtistSort: Dethklok
 Title: Fansong
 Album: The Dethalbum
-Track: 6
-Date: 2007
+Track: 6/16
+Date: 2007-09-25
 Genre: Heavy Metal
 Composer: Brendon Small
-mtime: 1379230143
+Disc: 1/1
+AlbumArtistSort: Dethklok
+MUSICBRAINZ_ALBUMARTISTID: 1afcd689-9be4-4d1a-a9fa-49e086250f51
+MUSICBRAINZ_ALBUMID: 3ff4e6a8-52a9-49a5-b264-986a772fdddf
+MUSICBRAINZ_ARTISTID: 1afcd689-9be4-4d1a-a9fa-49e086250f51
+MUSICBRAINZ_TRACKID: 68d920c5-b27a-4e04-8a09-2f64c9ddd88e
+mtime: 1409970062
 song_end
 end: Dethklok/The Dethalbum
 directory: Unknown Album
@@ -4343,13 +5107,20 @@ song_begin: 02 Progenies Of the Great Apocalypse.mp3
 Time: 326
 Artist: Dimmu Borgir
 AlbumArtist: Dimmu Borgir
-Title: Progenies Of the Great Apocalypse
+ArtistSort: Dimmu Borgir
+Title: Progenies of the Great Apocalypse
 Album: Death Cult Armageddon
-Track: 2
-Date: 2003
+Track: 2/16
+Date: 2004
 Genre: Black Metal
 Composer: Dimmu Borgir/Erkekjetter Silenoz/Mustis
-mtime: 1198846038
+Disc: 1/2
+AlbumArtistSort: Dimmu Borgir
+MUSICBRAINZ_ALBUMARTISTID: 17167af8-c1da-45cc-bba2-9d23f068b7a3
+MUSICBRAINZ_ALBUMID: 06ae62cf-926c-3a22-9862-4fa280f09460
+MUSICBRAINZ_ARTISTID: 17167af8-c1da-45cc-bba2-9d23f068b7a3
+MUSICBRAINZ_TRACKID: 8cc87815-5a97-414b-95e8-ec9a03abc65e
+mtime: 1409970112
 song_end
 end: Dimmu Borgir/Death Cult Armageddon
 end: Dimmu Borgir
@@ -4362,12 +5133,20 @@ begin: DragonForce/Inhuman Rampage Advance Promo
 song_begin: 01 Through The Fire And Flames.mp3
 Time: 444
 Artist: DragonForce
-Title: Through The Fire And Flames
-Album: Inhuman Rampage Advance Promo
+AlbumArtist: DragonForce
+ArtistSort: DragonForce
+Title: Through the Fire and Flames
+Album: Inhuman Rampage
 Track: 1/8
-Date: 2005
+Date: 2006-06-20
 Genre: Campfire Rock
-mtime: 1208845011
+Disc: 1/1
+AlbumArtistSort: DragonForce
+MUSICBRAINZ_ALBUMARTISTID: ef58d4c9-0d40-42ba-bfab-9186c1483edd
+MUSICBRAINZ_ALBUMID: 9ee03436-b259-340e-b32c-dd0ce64e05e0
+MUSICBRAINZ_ARTISTID: ef58d4c9-0d40-42ba-bfab-9186c1483edd
+MUSICBRAINZ_TRACKID: 6899dd21-3eee-4dfa-a444-6bdc778d2a87
+mtime: 1409970131
 song_end
 end: DragonForce/Inhuman Rampage Advance Promo
 end: DragonForce
@@ -4379,33 +5158,59 @@ mtime: 1399554796
 begin: Drake/So Far Gone
 song_begin: Successful (Feat. Trey Songz & Lil W.mp3
 Time: 375
-Artist: Drake
+Artist: Drake feat. Trey Songz & Lil Wayne
 AlbumArtist: Drake
-Title: Successful (Feat. Trey Songz & Lil Wayne)
+ArtistSort: Drake feat. Trey Songz & Lil Wayne
+Title: Successful
 Album: So Far Gone
-mtime: 1281891718
+Track: 2/7
+Date: 2009
+Disc: 1/1
+AlbumArtistSort: Drake
+MUSICBRAINZ_ALBUMARTISTID: 9fff2f8a-21e6-47de-a2b8-7f449929d43f
+MUSICBRAINZ_ALBUMID: 94d7681e-8f81-48a6-9989-5943899a7198
+MUSICBRAINZ_ARTISTID: 9fff2f8a-21e6-47de-a2b8-7f449929d43f
+MUSICBRAINZ_TRACKID: 1e35e16f-2975-4f23-86f3-a9ed66c143a5
+mtime: 1409970137
 song_end
 end: Drake/So Far Gone
 directory: Thank Me Later
 mtime: 1399554796
 begin: Drake/Thank Me Later
-song_begin: Find Your Love.mp3
-Time: 209
-Artist: Drake
-Title: Find Your Love
-Album: Thank Me Later
-Date: 2010
-mtime: 1281891633
-song_end
 song_begin: 01 Over (Dirty).mp3
 Time: 236
 Artist: Drake
-Title: Over (Dirty)
+AlbumArtist: Drake
+ArtistSort: Drake
+Title: Over
 Album: Thank Me Later
-Track: 1/1
-Date: 2010
+Track: 4/14
+Date: 2010-06-15
 Genre: Rap
-mtime: 1281891802
+Disc: 1/1
+AlbumArtistSort: Drake
+MUSICBRAINZ_ALBUMARTISTID: 9fff2f8a-21e6-47de-a2b8-7f449929d43f
+MUSICBRAINZ_ALBUMID: 7e5cf3e1-f511-43f5-aa6d-8b66100f7924
+MUSICBRAINZ_ARTISTID: 9fff2f8a-21e6-47de-a2b8-7f449929d43f
+MUSICBRAINZ_TRACKID: 79ccacbb-9cd1-48d0-b35c-7f549a573819
+mtime: 1409970141
+song_end
+song_begin: Find Your Love.mp3
+Time: 209
+Artist: Drake
+AlbumArtist: Drake
+ArtistSort: Drake
+Title: Find Your Love
+Album: Thank Me Later
+Track: 13/14
+Date: 2010-06-15
+Disc: 1/1
+AlbumArtistSort: Drake
+MUSICBRAINZ_ALBUMARTISTID: 9fff2f8a-21e6-47de-a2b8-7f449929d43f
+MUSICBRAINZ_ALBUMID: 7e5cf3e1-f511-43f5-aa6d-8b66100f7924
+MUSICBRAINZ_ARTISTID: 9fff2f8a-21e6-47de-a2b8-7f449929d43f
+MUSICBRAINZ_TRACKID: 957fe6bf-9b0d-47df-bd93-a8dc061f1c56
+mtime: 1409970141
 song_end
 end: Drake/Thank Me Later
 directory: Unknown Album
@@ -4432,193 +5237,60 @@ begin: Dropkick Murphys/Blackout
 song_begin: 09 Fields Of Athenry 2.mp3
 Time: 400
 Artist: Dropkick Murphys
-Title: Fields Of Athenry
+AlbumArtist: Dropkick Murphys
+ArtistSort: Dropkick Murphys
+Title: Fields of Athenry
 Album: Blackout
-Track: 09
+Track: 9/14
+Date: 2003
 Genre: Punk
-mtime: 1404395374
+Disc: 1/1
+AlbumArtistSort: Dropkick Murphys
+MUSICBRAINZ_ALBUMARTISTID: e8374874-4178-4869-b92e-fef6bf30dc04
+MUSICBRAINZ_ALBUMID: a854b1b8-1d8d-4ddb-b188-c084c263b6c4
+MUSICBRAINZ_ARTISTID: e8374874-4178-4869-b92e-fef6bf30dc04
+MUSICBRAINZ_TRACKID: 506ad007-af01-4fc8-bbae-729cd26d81be
+mtime: 1409970164
 song_end
 song_begin: 09 Fields Of Athenry.mp3
 Time: 400
 Artist: Dropkick Murphys
-Title: Fields Of Athenry
+AlbumArtist: Dropkick Murphys
+ArtistSort: Dropkick Murphys
+Title: As One
 Album: Blackout
-Track: 09
+Track: 11/14
+Date: 2003
 Genre: Punk
-mtime: 1404395374
+Disc: 1/1
+AlbumArtistSort: Dropkick Murphys
+MUSICBRAINZ_ALBUMARTISTID: e8374874-4178-4869-b92e-fef6bf30dc04
+MUSICBRAINZ_ALBUMID: a854b1b8-1d8d-4ddb-b188-c084c263b6c4
+MUSICBRAINZ_ARTISTID: e8374874-4178-4869-b92e-fef6bf30dc04
+MUSICBRAINZ_TRACKID: 7a73940f-bf0f-40af-94da-975888647812
+mtime: 1409970164
 song_end
 end: Dropkick Murphys/Blackout
-directory: Sing Loud, Sing Proud
-mtime: 1409124477
-begin: Dropkick Murphys/Sing Loud, Sing Proud
-song_begin: 01 For Boston.mp3
-Time: 93
-Artist: Dropkick Murphys
-Title: For Boston
-Album: Sing Loud, Sing Proud
-Track: 01
-Date: 2001
-Genre: Rock
-mtime: 1404395375
-song_end
-song_begin: 02 The Legend Of Finn Maccumhail.mp3
-Time: 135
-Artist: Dropkick Murphys
-Title: The Legend Of Finn Maccumhail
-Album: Sing Loud, Sing Proud
-Track: 02
-Date: 2001
-Genre: Rock
-mtime: 1404395375
-song_end
-song_begin: 03 Which Side Are You On.mp3
-Time: 149
-Artist: Dropkick Murphys
-AlbumArtist: Dropkick Murphys
-Title: Which Side Are You On
-Album: Sing Loud, Sing Proud
-Track: 3
-Date: 2001
-Genre: Rock
-Composer: Florence Reece
-mtime: 1404395375
-song_end
-song_begin: 04 The Rocky Road To Dublin.mp3
-Time: 157
-Artist: Dropkick Murphys
-Title: The Rocky Road To Dublin
-Album: Sing Loud, Sing Proud
-Track: 04
-Date: 2001
-Genre: Rock
-mtime: 1404395375
-song_end
-song_begin: 05 Heroes From Our Past.mp3
-Time: 211
-Artist: Dropkick Murphys
-Title: Heroes From Our Past
-Album: Sing Loud, Sing Proud
-Track: 05
-Date: 2001
-Genre: Rock
-mtime: 1404395376
-song_end
-song_begin: 06 Forever.mp3
-Time: 189
-Artist: Dropkick Murphys
-AlbumArtist: Dropkick Murphys
-Title: Forever
-Album: Sing Loud, Sing Proud
-Track: 6
-Date: 2001
-Genre: Rock
-Composer: Dropkick Murphys
-mtime: 1404395376
-song_end
-song_begin: 07 The Gauntlet.mp3
-Time: 168
-Artist: Dropkick Murphys
-Title: The Gauntlet
-Album: Sing Loud, Sing Proud
-Track: 07
-Date: 2001
-Genre: Rock
-mtime: 1404395376
-song_end
-song_begin: 08 Good Rats.mp3
-Time: 184
-Artist: Dropkick Murphys
-Title: Good Rats
-Album: Sing Loud, Sing Proud
-Track: 08
-Date: 2001
-Genre: Rock
-mtime: 1404395376
-song_end
-song_begin: 09 The New American Way.mp3
-Time: 212
-Artist: Dropkick Murphys
-Title: The New American Way
-Album: Sing Loud, Sing Proud
-Track: 09
-Date: 2001
-Genre: Rock
-mtime: 1404395376
-song_end
-song_begin: 10 The Torch.mp3
-Time: 198
-Artist: Dropkick Murphys
-AlbumArtist: Dropkick Murphys
-Title: The Torch
-Album: Sing Loud, Sing Proud
-Track: 10
-Date: 2001
-Genre: Rock
-Composer: Dropkick Murphys
-mtime: 1404395376
-song_end
-song_begin: 11 The Fortune Of War.mp3
-Time: 164
-Artist: Dropkick Murphys
-Title: The Fortune Of War
-Album: Sing Loud, Sing Proud
-Track: 11
-Date: 2001
-Genre: Rock
-mtime: 1404395376
-song_end
-song_begin: 12 A Few Good Men.mp3
-Time: 156
-Artist: Dropkick Murphys
-Title: A Few Good Men
-Album: Sing Loud, Sing Proud
-Track: 12
-Date: 2001
-Genre: Rock
-mtime: 1404395377
-song_end
-song_begin: 13 Ramble And Roll.mp3
-Time: 120
-Artist: Dropkick Murphys
-Title: Ramble And Roll
-Album: Sing Loud, Sing Proud
-Track: 13
-Date: 2001
-Genre: Rock
-mtime: 1404395378
-song_end
-song_begin: 14 Caps And Bottles.mp3
-Time: 161
-Artist: Dropkick Murphys
-Title: Caps And Bottles
-Album: Sing Loud, Sing Proud
-Track: 14
-Date: 2001
-Genre: Rock
-mtime: 1404395378
-song_end
-song_begin: 16 The Spicy Mchaggis Jig.mp3
-Time: 177
-Artist: Dropkick Murphys
-Title: The Spicy Mchaggis Jig
-Album: Sing Loud, Sing Proud
-Track: 16
-Date: 2001
-Genre: Rock
-mtime: 1404395378
-song_end
-end: Dropkick Murphys/Sing Loud, Sing Proud
 directory: Sing Loud, Sing Proud!
 mtime: 1399554798
 begin: Dropkick Murphys/Sing Loud, Sing Proud!
 song_begin: 15 The Wild Rover.mp3
 Time: 206
 Artist: Dropkick Murphys
+AlbumArtist: Dropkick Murphys
+ArtistSort: Dropkick Murphys
 Title: The Wild Rover
 Album: Sing Loud, Sing Proud!
-Track: 15
+Track: 15/16
+Date: 2001
 Genre: Punk
-mtime: 1200462330
+Disc: 1/1
+AlbumArtistSort: Dropkick Murphys
+MUSICBRAINZ_ALBUMARTISTID: e8374874-4178-4869-b92e-fef6bf30dc04
+MUSICBRAINZ_ALBUMID: b5b41db5-72bc-3140-b571-998b14d0fced
+MUSICBRAINZ_ARTISTID: e8374874-4178-4869-b92e-fef6bf30dc04
+MUSICBRAINZ_TRACKID: b4dd6e0a-7834-48cd-8c61-64aba7518975
+mtime: 1409970197
 song_end
 end: Dropkick Murphys/Sing Loud, Sing Proud!
 directory: Unknown Album
@@ -4753,25 +5425,39 @@ mtime: 1409124477
 begin: Eddie Beram/Quentin Tarantino's Death Proof
 song_begin: 15 Riot In Thunder Alley 1.mp3
 Time: 124
-Artist: Eddie Beram
-Title: Riot In Thunder Alley
-Album: Quentin Tarantino's Death Proof
-Track: 15/16
-Date: 2007-04-03
+Artist: Willy DeVille
+AlbumArtist: Various Artists
+ArtistSort: DeVille, Willy
+Title: It's So Easy
+Album: Death Proof
+Track: 13/16
+Date: 2007-04-24
 Genre: Soundtrack
-Genre: Soundtrack
-mtime: 1198846407
+Disc: 1/1
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: 93439cce-b63a-46a2-858e-c747e2ef2262
+MUSICBRAINZ_ARTISTID: b09775a9-957d-4101-aa88-da78b9c6ad36
+MUSICBRAINZ_TRACKID: 8aafae6b-b449-4736-9f0c-6bd03f01e896
+mtime: 1409970532
 song_end
 song_begin: 15 Riot In Thunder Alley 2.mp3
 Time: 125
 Artist: Eddie Beram
-Title: Riot In Thunder Alley
-Album: Quentin Tarantino's Death Proof
+AlbumArtist: Various Artists
+ArtistSort: Beram, Eddie
+Title: Riot in Thunder Alley
+Album: Death Proof
 Track: 15/16
-Date: 2007-04-03
+Date: 2007-04-24
 Genre: Soundtrack
-Genre: Soundtrack
-mtime: 1404395378
+Disc: 1/1
+AlbumArtistSort: Various Artists
+MUSICBRAINZ_ALBUMARTISTID: 89ad4ac3-39f7-470e-963a-56509c546377
+MUSICBRAINZ_ALBUMID: 93439cce-b63a-46a2-858e-c747e2ef2262
+MUSICBRAINZ_ARTISTID: 51c6a12a-4982-443f-95c6-c78d5c18e03f
+MUSICBRAINZ_TRACKID: f4bd65a7-6011-4347-9760-dc50df872c56
+mtime: 1409970532
 song_end
 end: Eddie Beram/Quentin Tarantino's Death Proof
 end: Eddie Beram
@@ -4781,157 +5467,305 @@ begin: Eminem
 directory: Recovery
 mtime: 1409124477
 begin: Eminem/Recovery
-song_begin: Cinderella Man.mp3
-Time: 279
-Artist: Eminem
-Title: Cinderella Man
-Album: Recovery
-mtime: 1281900077
-song_end
 song_begin: Cold Wind Blows.mp3
 Time: 304
 Artist: Eminem
+AlbumArtist: Eminem
+ArtistSort: Eminem
 Title: Cold Wind Blows
 Album: Recovery
-mtime: 1281899518
+Track: 1/17
+Date: 2010
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: ada798cb-ba04-48f4-b553-135438fe3f6c
+mtime: 1409970550
+song_end
+song_begin: 02 Talkin' 2 Myself (feat Kobe).mp3
+Time: 300
+Artist: Eminem feat. Kobe
+AlbumArtist: Eminem
+ArtistSort: Eminem feat. Kobe
+Title: Talkin' 2 Myself
+Album: Recovery
+Track: 2/17
+Date: 2010-06-21
+Genre: Hip-Hop
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 5d40aeed-a913-4b71-a3bc-9794922d3d03
+mtime: 1409970550
+song_end
+song_begin: 03 On Fire.mp3
+Time: 214
+Artist: Eminem
+AlbumArtist: Eminem
+ArtistSort: Eminem
+Title: On Fire
+Album: Recovery
+Track: 3/17
+Date: 2010-06-21
+Genre: Hip-Hop
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: b4fda909-f3a7-4067-b259-1117622bf7e9
+mtime: 1409970550
+song_end
+song_begin: 04 Won't Back Down (feat. Pink).mp3
+Time: 266
+Artist: Eminem feat. P!nk
+AlbumArtist: Eminem
+ArtistSort: Eminem feat. Pink
+Title: Won't Back Down
+Album: Recovery
+Track: 4/17
+Date: 2010
+Genre: Hip-Hop/Rap
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 893ccd16-5233-47e0-a0bb-ae27c4d7c9b1
+mtime: 1409970550
+song_end
+song_begin: 05 W.T.P..mp3
+Time: 238
+Artist: Eminem
+AlbumArtist: Eminem
+ArtistSort: Eminem
+Title: W.T.P.
+Album: Recovery
+Track: 5/17
+Date: 2010-06-21
+Genre: Hip-Hop
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 9a1c06e3-d8ed-4f0f-a2c6-e22faa51d20f
+mtime: 1409970550
 song_end
 song_begin: Going Through Changes.mp3
 Time: 299
 Artist: Eminem
+AlbumArtist: Eminem
+ArtistSort: Eminem
 Title: Going Through Changes
 Album: Recovery
-mtime: 1281899785
+Track: 6/17
+Date: 2010
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 949f108a-d1ac-432f-85ac-956294e50303
+mtime: 1409970550
 song_end
 song_begin: Not Afraid.mp3
 Time: 250
 Artist: Eminem
 AlbumArtist: Eminem
+ArtistSort: Eminem
 Title: Not Afraid
 Album: Recovery
-Date: 2010
+Track: 7/17
+Date: 2010-06-21
 Genre: Hip-Hop
-mtime: 1281900034
-song_end
-song_begin: So Bad.mp3
-Time: 325
-Artist: Eminem
-Title: So Bad
-Album: Recovery
-mtime: 1281900126
-song_end
-song_begin: Space Bound.mp3
-Time: 279
-Artist: Eminem
-Title: Space Bound
-Album: Recovery
-mtime: 1281900131
-song_end
-song_begin: You're Never Over.mp3
-Time: 306
-Artist: Eminem
-Title: You're Never Over
-Album: Recovery
-mtime: 1281900130
-song_end
-song_begin: 02 No Love feat  Lil Wayne.mp3
-Time: 300
-Artist: Eminem
-AlbumArtist: Eminem
-Title: No Love feat  Lil Wayne
-Album: Recovery
-Track: 2
-Date: 2010
-Genre: Rap
-mtime: 1281899835
-song_end
-song_begin: 02 Talkin' 2 Myself (feat Kobe).mp3
-Time: 300
-Artist: Eminem
-Title: Talkin' 2 Myself (feat Kobe)
-Album: Recovery
-Track: 2/17
-Date: 2010-00-00
-Genre: Hip-Hop
-mtime: 1281899847
-song_end
-song_begin: 03 On Fire.mp3
-Time: 214
-Artist: Eminem
-Title: On Fire
-Album: Recovery
-Track: 3/17
-Date: 2010-00-00
-Genre: Hip-Hop
-mtime: 1281899789
-song_end
-song_begin: 04 Won't Back Down (feat. Pink).mp3
-Time: 266
-Artist: Eminem
-Title: Won't Back Down (feat. Pink)
-Album: Recovery
-Track: 4/17
-Genre: Hip-Hop/Rap
-mtime: 1404395378
-song_end
-song_begin: 05 W.T.P..mp3
-Time: 238
-Artist: Eminem
-Title: W.T.P.
-Album: Recovery
-Track: 5/17
-Date: 2010-00-00
-Genre: Hip-Hop
-mtime: 1281899828
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 7b898b31-3bf6-4048-a690-f33ba0cdb324
+mtime: 1409970550
 song_end
 song_begin: 08 Seduction.mp3
 Time: 275
 Artist: Eminem
+AlbumArtist: Eminem
+ArtistSort: Eminem
 Title: Seduction
 Album: Recovery
 Track: 8/17
-Date: 2010-00-00
+Date: 2010-06-21
 Genre: Hip-Hop
-mtime: 1281900064
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: d3f9a8fa-e42a-4f70-94ce-17dc2c53e407
+mtime: 1409970550
+song_end
+song_begin: 02 No Love feat  Lil Wayne.mp3
+Time: 300
+Artist: Eminem feat. Lil Wayne
+AlbumArtist: Eminem
+ArtistSort: Eminem feat. Lil Wayne
+Title: No Love
+Album: Recovery
+Track: 9/17
+Date: 2010-06-21
+Genre: Rap
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: f33166a8-dc47-4e36-b972-1a128ea12708
+mtime: 1409970550
+song_end
+song_begin: Space Bound.mp3
+Time: 279
+Artist: Eminem
+AlbumArtist: Eminem
+ArtistSort: Eminem
+Title: Space Bound
+Album: Recovery
+Track: 10/17
+Date: 2010
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 273a5c3e-0943-4673-bb74-153bb4c574ed
+mtime: 1409970550
+song_end
+song_begin: Cinderella Man.mp3
+Time: 279
+Artist: Eminem
+AlbumArtist: Eminem
+ArtistSort: Eminem
+Title: Cinderella Man
+Album: Recovery
+Track: 11/17
+Date: 2010
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 039a3915-b4ed-44c8-b980-adab76b2d5bb
+mtime: 1409970550
 song_end
 song_begin: 12 25 To Life.mp3
 Time: 242
 Artist: Eminem
-Title: 25 To Life
+AlbumArtist: Eminem
+ArtistSort: Eminem
+Title: 25 to Life
 Album: Recovery
 Track: 12/17
-Date: 2010-00-00
+Date: 2010-06-21
 Genre: Hip-Hop
-mtime: 1281900146
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 73348eb7-e738-4d08-bc8d-f8d30eb051f0
+mtime: 1409970550
+song_end
+song_begin: So Bad.mp3
+Time: 325
+Artist: Eminem
+AlbumArtist: Eminem
+ArtistSort: Eminem
+Title: So Bad
+Album: Recovery
+Track: 13/17
+Date: 2010
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 78bb8565-586f-401f-b999-092406e31e23
+mtime: 1409970550
 song_end
 song_begin: 14 Almost Famous.mp3
 Time: 293
 Artist: Eminem
+AlbumArtist: Eminem
+ArtistSort: Eminem
 Title: Almost Famous
 Album: Recovery
 Track: 14/17
-Date: 2010-00-00
+Date: 2010-06-21
 Genre: Hip-Hop
-mtime: 1281901187
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 94d26147-3932-4309-9995-3b5b49a91b70
+mtime: 1409970550
 song_end
 song_begin: 15 Love The Way You Lie (feat Rihann.mp3
 Time: 263
-Artist: Eminem
-Title: Love The Way You Lie (feat Rihanna)
+Artist: Eminem feat. Rihanna
+AlbumArtist: Eminem
+ArtistSort: Eminem feat. Rihanna
+Title: Love the Way You Lie
 Album: Recovery
 Track: 15/17
-Date: 2010-00-00
+Date: 2010-06-21
 Genre: Hip-Hop
-mtime: 1281900141
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 29d6a30b-b911-475c-808c-8b289844ca75
+mtime: 1409970550
+song_end
+song_begin: You're Never Over.mp3
+Time: 306
+Artist: Eminem
+AlbumArtist: Eminem
+ArtistSort: Eminem
+Title: You're Never Over
+Album: Recovery
+Track: 16/17
+Date: 2010
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 9c911198-5d1f-421a-aa38-6463461051a3
+mtime: 1409970550
 song_end
 song_begin: 17 Untitled.mp3
 Time: 194
 Artist: Eminem
-Title: Untitled
+AlbumArtist: Eminem
+ArtistSort: Eminem
+Title: [untitled]
 Album: Recovery
-Track: 17
-Date: 2010-/0-06
+Track: 17/17
+Date: 2010-06-21
 Genre: Hip-Hop
-mtime: 1281900170
+Disc: 1/1
+AlbumArtistSort: Eminem
+MUSICBRAINZ_ALBUMARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_ALBUMID: c17555bf-b84f-328c-94ff-d749bb35b95a
+MUSICBRAINZ_ARTISTID: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+MUSICBRAINZ_TRACKID: 11e13cf6-818a-40e4-8b46-c570f1f7cce3
+mtime: 1409970550
 song_end
 end: Eminem/Recovery
 end: Eminem
@@ -26397,7 +27231,8 @@ song_begin: One Winged Angel(Orchestrated).mp3
 Time: 267
 Artist: Final Fantasy 7
 Title: One Winged Angel(Orchestrated)
-mtime: 1404395538
+Album: Final Fantasy 7 - OST
+mtime: 1409785752
 song_end
 end: Music/Final Fantasy 7/Unknown Album
 end: Music/Final Fantasy 7
@@ -51853,11 +52688,20 @@ begin: dredg/demos
 song_begin: 01 of the room.mp3
 Time: 224
 Artist: dredg
-Title: of the room
-Album: demos
+AlbumArtist: dredg
+ArtistSort: dredg
+Title: Of the Room
+Album: Demos
 Track: 1/4
+Date: 2001
 Genre: Other
-mtime: 1404395374
+Disc: 1/1
+AlbumArtistSort: dredg
+MUSICBRAINZ_ALBUMARTISTID: 7b2f87f6-db90-464e-a27a-deb4f7219e90
+MUSICBRAINZ_ALBUMID: 71e02b27-2713-44a8-bbbd-9cf544448487
+MUSICBRAINZ_ARTISTID: 7b2f87f6-db90-464e-a27a-deb4f7219e90
+MUSICBRAINZ_TRACKID: d1c0d4a4-11cf-446e-bc52-f6ba48c2794e
+mtime: 1409970151
 song_end
 end: dredg/demos
 end: dredg
@@ -51869,12 +52713,17 @@ mtime: 1399554801
 begin: eve and fatboy slim/blade 2
 song_begin: cowboy 1.mp3
 Time: 334
-Artist: eve and fatboy slim
-Title: cowboy
+Artist: Eve & Fatboy Slim
+ArtistSort: Eve & Fatboy Slim
+Title: Cowboy
 Album: blade 2
+Track: 0/0
 Date: 2002
 Genre: Electronic
-mtime: 1246938429
+Disc: 0/0
+MUSICBRAINZ_ARTISTID: 1ac10f5e-2079-4435-b78f-dda6ecdeba15
+MUSICBRAINZ_TRACKID: 9fc6b301-82aa-4255-a953-f2ce7e58dd99
+mtime: 1409970564
 song_end
 end: eve and fatboy slim/blade 2
 end: eve and fatboy slim

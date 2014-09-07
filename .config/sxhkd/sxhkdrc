@@ -3,7 +3,7 @@
 #
 
 # Exit BSPWM
-alt +shift + e
+alt + shift + e
     bspc quit && pkill bar-aint-recursive
 
 alt + e
@@ -104,30 +104,43 @@ super + shift + r
     gmrun
 
 super + shift + h
-    urxvt -e htop
+    urxvt -name 'htop' -e htop
 
 super + shift + f
-    urxvt -e ranger
+    urxvt -name 'ranger' -e ranger
+
 
 super + shift + m
-    urxvt -e ncmpcpp
+    urxvt -geometry 90x60 -name 'ncmpcpp' -e ncmpcpp
 
 alt + d
     dmenu_run -b -fn Tewi-7 -nb "#fafafa" -nf '#111111' -sb '#ff897d' -sf '#fafafa'
 
-#
+
 # volume control
-#
 super + equal
     amixer set Master 5%+
 
 super + minus
     amixer set Master 5%-
 
+# MPC controls
+alt + shift + p
+	mpc toggle
+
+alt + shift + s
+	mpc stop
+
+alt + shift + period
+	mpc next
+
+alt + shift + comma
+	mpc prev
 
 #alt + d
 #    .config/bspwm/panel/scripts/spawn_dmenu
 
+# Conky script control
 alt + F1
     ~/.config/bspwm/panel/scripts/toggle_conky net
 
