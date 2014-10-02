@@ -6,18 +6,12 @@ xrdb -merge .Xresources
 #setxkbmap hr
 xset +fp /usr/share/fonts/local
 xset +fp /usr/share/fonts/OTF
+xset +fp ~/.fonts
 xset fp rehash
 #xcompmgr -c
 #urxvtd -q -f -o &
 
-#host=$(hostname -s)
-#if [ "$host" == "exodus" ]; then
- # vmware-user-suid-wrapper
- # xset -dpms
- # xset s noblank
- # xset s off
- # xrandr --output Virtual1 --mode 1280x1024
-#fi
+compton -cG & 
 
 #feh --bg-center ~/.wp/wallpaper-$host.*
 #~/.fehbg

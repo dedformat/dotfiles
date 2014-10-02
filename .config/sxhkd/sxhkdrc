@@ -4,10 +4,7 @@
 
 # Exit BSPWM
 alt + shift + e
-    bspc quit && pkill bar-aint-recursive
-
-alt + e
-    pkill bar-aint-recursive && /home/deadformat/.config/bspwm/panel/barPanel.sh
+    bspc quit && pkill panel
 
 # Close current window
 alt + shift + q
@@ -91,6 +88,8 @@ super + !button{1-3}
 super + @button{1-3}
     bspc pointer -u
 
+# super + shift + {Left,Right,Up,Down}
+#    bspc window -e {left -10,down +10,up -10,right +10} || {right -10,up +10,down -10,left +10}
 #
 # wm independent hotkeys
 #
@@ -111,10 +110,13 @@ super + shift + f
 
 
 super + shift + m
-    urxvt -geometry 90x60 -name 'ncmpcpp' -e ncmpcpp
+    urxvt -name 'ncmpcpp' -e ncmpcpp
 
-alt + d
-    dmenu_run -b -fn Tewi-7 -nb "#fafafa" -nf '#111111' -sb '#ff897d' -sf '#fafafa'
+# alt + d
+#    dmenu_run -b -fn Tewi-7 -nb "#fafafa" -nf '#111111' -sb '#ff897d' -sf '#fafafa'
+
+super + d
+  ~/.config/bspwm/dmenuwrapper
 
 
 # volume control
@@ -136,6 +138,9 @@ alt + shift + period
 
 alt + shift + comma
 	mpc prev
+
+alt + shift + x
+  ~/bin/screenlock
 
 #alt + d
 #    .config/bspwm/panel/scripts/spawn_dmenu

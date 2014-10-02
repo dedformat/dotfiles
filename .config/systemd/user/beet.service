@@ -1,0 +1,10 @@
+[Unit]
+Description=beet
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/beet web
+
+[Install]
+WantedBy=multi-user.target

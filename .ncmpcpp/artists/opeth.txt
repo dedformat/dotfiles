@@ -1,0 +1,168 @@
+progressive metal band from Sweden that is influenced by many diverse musical styles ranging from jazz, 1970s progressive rock, death metal, and blues. Their recent releases have deviated from their traditional death metal influenced style, with more emphasis on progressive elements. Vocalist Mikael Åkerfeldt is also noted for utilizing both clean singing and death growls, often in the same track.
+
+        Read more about Opeth on Last.fm.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+
+Similar artists:
+
+ * Mikael Åkerfeldt (http://www.last.fm/music/Storm+Corrosion)
+ * Martin Mendez (http://www.last.fm/music/Bloodbath)
+ * Per Wiberg (http://www.last.fm/music/Porcupine+Tree)
+ * Martin Axe Axenrot (http://www.last.fm/music/Katatonia)
+ * Fredrik Åkesson (http://www.last.fm/music/Gojira)
+ * Storm Corrosion (http://www.last.fm/tag/progressive%20metal)
+ * Bloodbath (http://www.last.fm/tag/progressive%20death%20metal)
+ * Porcupine Tree (http://www.last.fm/tag/death%20metal)
+ * Katatonia (http://www.last.fm/tag/metal)
+ * Gojira (http://www.last.fm/tag/melodic%20death%20metal)
+ * progressive metal (l version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<artist>
+  <name>Opeth</name>
+          <mbid>c14b4180-dc87-481e-b17a-64e4150f90f6</mbid>
+            <bandmembers>
+                    <member>
+                <name>Mikael Åkerfeldt</name>
+                                    <yearfrom>1990</yearfrom>
+                                            </member>
+                    <member>
+                <name>Martin Mendez</name>
+                                    <yearfrom>1997</yearfrom>
+                                            </member>
+                    <member>
+                <name>Per Wiberg</name>
+                                    <yearfrom>2005</yearfrom>
+                                            </member>
+                    <member>
+                <name>Martin Axe Axenrot</name>
+                                    <yearfrom>2006</yearfrom>
+                                            </member>
+                    <member>
+                <name>Fredrik Åkesson</name>
+                                    <yearfrom>2007</yearfrom>
+                                            </member>
+            </bandmembers>
+        <url>http://www.last.fm/music/Opeth</url>
+  <image size="small">http://userserve-ak.last.fm/serve/34/66663756.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/66663756.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/66663756.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/66663756.png</image>
+  <image size="mega">http://userserve-ak.last.fm/serve/500/66663756/Opeth+++2011.png</image>
+  <streamable>0</streamable>
+  <ontour>1</ontour>
+  <stats>
+    <listeners>723690</listeners>
+    <playcount>64501276</playcount>
+      </stats>
+
+  <similar>
+	    <artist>
+	  <name>Storm Corrosion</name>
+	  <url>http://www.last.fm/music/Storm+Corrosion</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/75258790.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/75258790.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/75258790.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/75258790.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/75258790/Storm+Corrosion+Bridge_2.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Bloodbath</name>
+	  <url>http://www.last.fm/music/Bloodbath</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/54349005.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/54349005.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/54349005.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/54349005.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/54349005/Bloodbath.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Porcupine Tree</name>
+	  <url>http://www.last.fm/music/Porcupine+Tree</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/73215388.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/73215388.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/73215388.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/73215388.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/73215388/Porcupine+Tree+++2006.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Katatonia</name>
+	  <url>http://www.last.fm/music/Katatonia</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/92214753.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/92214753.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/92214753.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/92214753.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/92214753/Katatonia++2013+PNG.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Gojira</name>
+	  <url>http://www.last.fm/music/Gojira</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/81861659.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/81861659.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/81861659.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/81861659.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/81861659/Gojira.png</image>
+	  
+	        	</artist>
+  </similar>
+    <tags>
+        <tag>
+	  <name>progressive metal</name>
+	  <url>http://www.last.fm/tag/progressive%20metal</url>
+	</tag>
+        <tag>
+	  <name>progressive death metal</name>
+	  <url>http://www.last.fm/tag/progressive%20death%20metal</url>
+	</tag>
+        <tag>
+	  <name>death metal</name>
+	  <url>http://www.last.fm/tag/death%20metal</url>
+	</tag>
+        <tag>
+	  <name>metal</name>
+	  <url>http://www.last.fm/tag/metal</url>
+	</tag>
+        <tag>
+	  <name>melodic death metal</name>
+	  <url>http://www.last.fm/tag/melodic%20death%20metal</url>
+	</tag>
+      </tags>
+      <bio>
+        <links>
+        <link rel="original" href="http://www.last.fm/music/Opeth/+wiki" />
+    </links>
+                                    <published>Mon, 13 Jul 2009 07:30:55 +0000</published>
+    <summary>
+        <![CDATA[        Opeth is a <a href="http://www.last.fm/tag/progressive%20metal" class="bbcode_tag" rel="tag">progressive metal</a> band from Sweden that is influenced by many diverse musical styles ranging from <a href="http://www.last.fm/tag/jazz" class="bbcode_tag" rel="tag">jazz</a>, 1970s <a href="http://www.last.fm/tag/progressive%20rock" class="bbcode_tag" rel="tag">progressive rock</a>, <a href="http://www.last.fm/tag/death%20metal" class="bbcode_tag" rel="tag">death metal</a>, and <a href="http://www.last.fm/tag/blues" class="bbcode_tag" rel="tag">blues</a>. Their recent releases have deviated from their traditional <a href="http://www.last.fm/tag/death%20metal" class="bbcode_tag" rel="tag">death metal</a> influenced style, with more emphasis on progressive elements. Vocalist Mikael Åkerfeldt is also noted for utilizing both clean singing and death growls, often in the same track.
+
+        <a href="http://www.last.fm/music/Opeth">Read more about Opeth on Last.fm</a>.
+    ]]>
+    </summary>
+    <content>
+            <![CDATA[        Opeth is a <a href="http://www.last.fm/tag/progressive%20metal" class="bbcode_tag" rel="tag">progressive metal</a> band from Sweden that is influenced by many diverse musical styles ranging from <a href="http://www.last.fm/tag/jazz" class="bbcode_tag" rel="tag">jazz</a>, 1970s <a href="http://www.last.fm/tag/progressive%20rock" class="bbcode_tag" rel="tag">progressive rock</a>, <a href="http://www.last.fm/tag/death%20metal" class="bbcode_tag" rel="tag">death metal</a>, and <a href="http://www.last.fm/tag/blues" class="bbcode_tag" rel="tag">blues</a>. Their recent releases have deviated from their traditional <a href="http://www.last.fm/tag/death%20metal" class="bbcode_tag" rel="tag">death metal</a> influenced style, with more emphasis on progressive elements. Vocalist Mikael Åkerfeldt is also noted for utilizing both clean singing and death growls, often in the same track.
+
+        <a href="http://www.last.fm/music/Opeth">Read more about Opeth on Last.fm</a>.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+    </content>
+            <placeformed>Stockholm, Södermanland, Sweden</placeformed>                        <yearformed>1990</yearformed>
+            <formationlist>
+                    <formation>
+                <yearfrom>1990</yearfrom>
+                <yearto></yearto>
+            </formation>
+            </formationlist>
+      </bio>
+  </artist></lfm>
+)
+ * progressive death metal (http://www.last.fm/music/Opeth)
+ * death metal (http://www.last.fm/music/Storm+Corrosion)
+ * metal (http://www.last.fm/music/Bloodbath)
+ * melodic death metal (http://www.last.fm/music/Porcupine+Tree)
+
+http://www.last.fm/music/Opeth

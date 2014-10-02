@@ -1,0 +1,486 @@
+Nine Inch Nails is an American industrial rock band that was formed in Cleveland, Ohio, United States in 1988 by Trent Reznor, the only constant member of the band. He's generally credited for popularizing the genre known as "industrial rock" with both his releases and dark, theatrical music videos.  Born Michael Trent Reznor, he was raised by his maternal grandparents in Mercer, Pennsylvania, USA. Reznor took up piano at the age of five and in high school took up the tuba and saxophone.
+
+        Read more about Nine Inch Nails on Last.fm.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+
+Similar artists:
+
+ * Trent Reznor (http://www.last.fm/music/How+to+Destroy+Angels)
+ * Aaron North (http://www.last.fm/music/Trent+Reznor+and+Atticus+Ross)
+ * Jeordie White (http://www.last.fm/music/SONOIO)
+ * Alessandro Cortini (http://www.last.fm/music/Saul+Williams)
+ * Josh Freese (http://www.last.fm/music/Marilyn+Manson)
+ * Robin Finck (http://www.last.fm/tag/industrial)
+ * Justin Meldal-Johnsen (http://www.last.fm/tag/industrial%20rock)
+ * Ron Musarra (http://www.last.fm/tag/rock)
+ * Chris Vrenna (http://www.last.fm/tag/alternative)
+ * Richard Patrick (http://www.last.fm/tag/electronic)
+ * Jeff Ward (l version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<artist>
+  <name>Nine Inch Nails</name>
+          <mbid>b7ffd2af-418f-4be2-bdd1-22f8b48613da</mbid>
+            <bandmembers>
+                    <member>
+                <name>Trent Reznor</name>
+                                    <yearfrom>1988</yearfrom>
+                                            </member>
+                    <member>
+                <name>Aaron North</name>
+                                    <yearfrom>2005</yearfrom>
+                                                    <yearto>2007</yearto>
+                            </member>
+                    <member>
+                <name>Jeordie White</name>
+                                    <yearfrom>2005</yearfrom>
+                                                    <yearto>2007</yearto>
+                            </member>
+                    <member>
+                <name>Alessandro Cortini</name>
+                                    <yearfrom>2005</yearfrom>
+                                            </member>
+                    <member>
+                <name>Josh Freese</name>
+                                    <yearfrom>2005</yearfrom>
+                                            </member>
+                    <member>
+                <name>Robin Finck</name>
+                                    <yearfrom>1994</yearfrom>
+                                            </member>
+                    <member>
+                <name>Justin Meldal-Johnsen</name>
+                                    <yearfrom>2008</yearfrom>
+                                            </member>
+                    <member>
+                <name>Ron Musarra</name>
+                                    <yearfrom>1988</yearfrom>
+                                                    <yearto>1988</yearto>
+                            </member>
+                    <member>
+                <name>Chris Vrenna</name>
+                                    <yearfrom>1988</yearfrom>
+                                                    <yearto>1995</yearto>
+                            </member>
+                    <member>
+                <name>Richard Patrick</name>
+                                    <yearfrom>1989</yearfrom>
+                                                    <yearto>1991</yearto>
+                            </member>
+                    <member>
+                <name>Jeff Ward</name>
+                                    <yearfrom>1989</yearfrom>
+                                                    <yearto>1991</yearto>
+                            </member>
+                    <member>
+                <name>David Haymes</name>
+                                    <yearfrom>1989</yearfrom>
+                                                    <yearto>1991</yearto>
+                            </member>
+                    <member>
+                <name>Nick Rushe</name>
+                                    <yearfrom>1989</yearfrom>
+                                                    <yearto>1991</yearto>
+                            </member>
+                    <member>
+                <name>Lee Mars</name>
+                                    <yearfrom>1989</yearfrom>
+                                                    <yearto>1991</yearto>
+                            </member>
+                    <member>
+                <name>James Woolley</name>
+                                    <yearfrom>1990</yearfrom>
+                                                    <yearto>1994</yearto>
+                            </member>
+                    <member>
+                <name>Robin Finck</name>
+                                    <yearfrom>1994</yearfrom>
+                                                    <yearto>2000</yearto>
+                            </member>
+                    <member>
+                <name>Danny Lohner</name>
+                                    <yearfrom>1994</yearfrom>
+                                                    <yearto>2000</yearto>
+                            </member>
+                    <member>
+                <name>Charlie Clouser</name>
+                                    <yearfrom>1995</yearfrom>
+                                                    <yearto>2000</yearto>
+                            </member>
+                    <member>
+                <name>Sean Beavan</name>
+                                    <yearfrom>1994</yearfrom>
+                                                    <yearto>1995</yearto>
+                            </member>
+                    <member>
+                <name>Jerome Dillon</name>
+                                    <yearfrom>1999</yearfrom>
+                                                    <yearto>2005</yearto>
+                            </member>
+                    <member>
+                <name>Alex Carapetis</name>
+                                    <yearfrom>2005</yearfrom>
+                                                    <yearto>2005</yearto>
+                            </member>
+            </bandmembers>
+        <url>http://www.last.fm/music/Nine+Inch+Nails</url>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2535509.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2535509.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2535509.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/2535509.jpg</image>
+  <image size="mega">http://userserve-ak.last.fm/serve/500/2535509/Nine+Inch+Nails+nin.jpg</image>
+  <streamable>0</streamable>
+  <ontour>0</ontour>
+  <stats>
+    <listeners>1984870</listeners>
+    <playcount>158832879</playcount>
+      </stats>
+
+  <similar>
+	    <artist>
+	  <name>How to Destroy Angels</name>
+	  <url>http://www.last.fm/music/How+to+Destroy+Angels</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/88932225.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/88932225.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/88932225.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/88932225.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/88932225/How+to+Destroy+Angels+live.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Trent Reznor and Atticus Ross</name>
+	  <url>http://www.last.fm/music/Trent+Reznor+and+Atticus+Ross</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/53268349.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/53268349.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/53268349.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/53268349.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/53268349/Trent+Reznor+and+Atticus+Ross+PNG.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>SONOIO</name>
+	  <url>http://www.last.fm/music/SONOIO</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/66248428.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/66248428.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/66248428.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/66248428.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/66248428/SONOIO.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Saul Williams</name>
+	  <url>http://www.last.fm/music/Saul+Williams</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/47568095.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/47568095.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/47568095.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/47568095.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/47568095/Saul+Williams+saul_notebook.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Marilyn Manson</name>
+	  <url>http://www.last.fm/music/Marilyn+Manson</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/88978839.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/88978839.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/88978839.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/88978839.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/88978839/Marilyn+Manson.png</image>
+	  
+	        	</artist>
+  </similar>
+    <tags>
+        <tag>
+	  <name>industrial</name>
+	  <url>http://www.last.fm/tag/industrial</url>
+	</tag>
+        <tag>
+	  <name>industrial rock</name>
+	  <url>http://www.last.fm/tag/industrial%20rock</url>
+	</tag>
+        <tag>
+	  <name>rock</name>
+	  <url>http://www.last.fm/tag/rock</url>
+	</tag>
+        <tag>
+	  <name>alternative</name>
+	  <url>http://www.last.fm/tag/alternative</url>
+	</tag>
+        <tag>
+	  <name>electronic</name>
+	  <url>http://www.last.fm/tag/electronic</url>
+	</tag>
+      </tags>
+      <bio>
+        <links>
+        <link rel="original" href="http://www.last.fm/music/Nine+Inch+Nails/+wiki" />
+    </links>
+                                    <published>Sat, 7 Jun 2014 00:23:10 +0000</published>
+    <summary>
+        <![CDATA[        <a href="http://www.nin.com" rel="nofollow">Nine Inch Nails</a> is an American <a href="http://www.last.fm/tag/industrial%20rock" class="bbcode_tag" rel="tag">industrial rock</a> band that was formed in Cleveland, Ohio, United States in 1988 by <a href="http://www.last.fm/music/Trent+Reznor" class="bbcode_artist">Trent Reznor</a>, the only constant member of the band. He's generally credited for popularizing the genre known as &quot;<a href="http://www.last.fm/tag/industrial%20rock" class="bbcode_tag" rel="tag">industrial rock</a>&quot; with both his releases and <a href="http://www.last.fm/tag/dark" class="bbcode_tag" rel="tag">dark</a>, theatrical music videos.  Born Michael Trent Reznor, he was raised by his maternal grandparents in Mercer, Pennsylvania, USA. Reznor took up piano at the age of five and in high school took up the tuba and saxophone.
+
+        <a href="http://www.last.fm/music/Nine+Inch+Nails">Read more about Nine Inch Nails on Last.fm</a>.
+    ]]>
+    </summary>
+    <content>
+            <![CDATA[        <a href="http://www.nin.com" rel="nofollow">Nine Inch Nails</a> is an American <a href="http://www.last.fm/tag/industrial%20rock" class="bbcode_tag" rel="tag">industrial rock</a> band that was formed in Cleveland, Ohio, United States in 1988 by <a href="http://www.last.fm/music/Trent+Reznor" class="bbcode_artist">Trent Reznor</a>, the only constant member of the band. He's generally credited for popularizing the genre known as &quot;<a href="http://www.last.fm/tag/industrial%20rock" class="bbcode_tag" rel="tag">industrial rock</a>&quot; with both his releases and <a href="http://www.last.fm/tag/dark" class="bbcode_tag" rel="tag">dark</a>, theatrical music videos.  Born Michael Trent Reznor, he was raised by his maternal grandparents in Mercer, Pennsylvania, USA. Reznor took up piano at the age of five and in high school took up the tuba and saxophone.
+
+        <a href="http://www.last.fm/music/Nine+Inch+Nails">Read more about Nine Inch Nails on Last.fm</a>.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+    </content>
+            <placeformed>Cleveland, Ohio, United States</placeformed>                        <yearformed>1988</yearformed>
+            <formationlist>
+                    <formation>
+                <yearfrom>1988</yearfrom>
+                <yearto></yearto>
+            </formation>
+            </formationlist>
+      </bio>
+  </artist></lfm>
+)
+ * David Haymes (http://www.last.fm/music/Nine+Inch+Nails)
+ * Nick Rushe (http://www.last.fm/music/How+to+Destroy+Angels)
+ * Lee Mars (http://www.last.fm/music/Trent+Reznor+and+Atticus+Ross)
+ * James Woolley (http://www.last.fm/music/SONOIO)
+ * Robin Finck (http://www.last.fm/music/Saul+Williams)
+ * Danny Lohner (http://www.last.fm/music/Marilyn+Manson)
+ * Charlie Clouser (http://www.last.fm/tag/industrial)
+ * Sean Beavan (http://www.last.fm/tag/industrial%20rock)
+ * Jerome Dillon (http://www.last.fm/tag/rock)
+ * Alex Carapetis (http://www.last.fm/tag/alternative)
+ * How to Destroy Angels (http://www.last.fm/tag/electronic)
+ * Trent Reznor and Atticus Ross (l version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<artist>
+  <name>Nine Inch Nails</name>
+          <mbid>b7ffd2af-418f-4be2-bdd1-22f8b48613da</mbid>
+            <bandmembers>
+                    <member>
+                <name>Trent Reznor</name>
+                                    <yearfrom>1988</yearfrom>
+                                            </member>
+                    <member>
+                <name>Aaron North</name>
+                                    <yearfrom>2005</yearfrom>
+                                                    <yearto>2007</yearto>
+                            </member>
+                    <member>
+                <name>Jeordie White</name>
+                                    <yearfrom>2005</yearfrom>
+                                                    <yearto>2007</yearto>
+                            </member>
+                    <member>
+                <name>Alessandro Cortini</name>
+                                    <yearfrom>2005</yearfrom>
+                                            </member>
+                    <member>
+                <name>Josh Freese</name>
+                                    <yearfrom>2005</yearfrom>
+                                            </member>
+                    <member>
+                <name>Robin Finck</name>
+                                    <yearfrom>1994</yearfrom>
+                                            </member>
+                    <member>
+                <name>Justin Meldal-Johnsen</name>
+                                    <yearfrom>2008</yearfrom>
+                                            </member>
+                    <member>
+                <name>Ron Musarra</name>
+                                    <yearfrom>1988</yearfrom>
+                                                    <yearto>1988</yearto>
+                            </member>
+                    <member>
+                <name>Chris Vrenna</name>
+                                    <yearfrom>1988</yearfrom>
+                                                    <yearto>1995</yearto>
+                            </member>
+                    <member>
+                <name>Richard Patrick</name>
+                                    <yearfrom>1989</yearfrom>
+                                                    <yearto>1991</yearto>
+                            </member>
+                    <member>
+                <name>Jeff Ward</name>
+                                    <yearfrom>1989</yearfrom>
+                                                    <yearto>1991</yearto>
+                            </member>
+                    <member>
+                <name>David Haymes</name>
+                                    <yearfrom>1989</yearfrom>
+                                                    <yearto>1991</yearto>
+                            </member>
+                    <member>
+                <name>Nick Rushe</name>
+                                    <yearfrom>1989</yearfrom>
+                                                    <yearto>1991</yearto>
+                            </member>
+                    <member>
+                <name>Lee Mars</name>
+                                    <yearfrom>1989</yearfrom>
+                                                    <yearto>1991</yearto>
+                            </member>
+                    <member>
+                <name>James Woolley</name>
+                                    <yearfrom>1990</yearfrom>
+                                                    <yearto>1994</yearto>
+                            </member>
+                    <member>
+                <name>Robin Finck</name>
+                                    <yearfrom>1994</yearfrom>
+                                                    <yearto>2000</yearto>
+                            </member>
+                    <member>
+                <name>Danny Lohner</name>
+                                    <yearfrom>1994</yearfrom>
+                                                    <yearto>2000</yearto>
+                            </member>
+                    <member>
+                <name>Charlie Clouser</name>
+                                    <yearfrom>1995</yearfrom>
+                                                    <yearto>2000</yearto>
+                            </member>
+                    <member>
+                <name>Sean Beavan</name>
+                                    <yearfrom>1994</yearfrom>
+                                                    <yearto>1995</yearto>
+                            </member>
+                    <member>
+                <name>Jerome Dillon</name>
+                                    <yearfrom>1999</yearfrom>
+                                                    <yearto>2005</yearto>
+                            </member>
+                    <member>
+                <name>Alex Carapetis</name>
+                                    <yearfrom>2005</yearfrom>
+                                                    <yearto>2005</yearto>
+                            </member>
+            </bandmembers>
+        <url>http://www.last.fm/music/Nine+Inch+Nails</url>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2535509.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2535509.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2535509.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/2535509.jpg</image>
+  <image size="mega">http://userserve-ak.last.fm/serve/500/2535509/Nine+Inch+Nails+nin.jpg</image>
+  <streamable>0</streamable>
+  <ontour>0</ontour>
+  <stats>
+    <listeners>1984870</listeners>
+    <playcount>158832879</playcount>
+      </stats>
+
+  <similar>
+	    <artist>
+	  <name>How to Destroy Angels</name>
+	  <url>http://www.last.fm/music/How+to+Destroy+Angels</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/88932225.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/88932225.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/88932225.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/88932225.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/88932225/How+to+Destroy+Angels+live.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Trent Reznor and Atticus Ross</name>
+	  <url>http://www.last.fm/music/Trent+Reznor+and+Atticus+Ross</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/53268349.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/53268349.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/53268349.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/53268349.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/53268349/Trent+Reznor+and+Atticus+Ross+PNG.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>SONOIO</name>
+	  <url>http://www.last.fm/music/SONOIO</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/66248428.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/66248428.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/66248428.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/66248428.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/66248428/SONOIO.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Saul Williams</name>
+	  <url>http://www.last.fm/music/Saul+Williams</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/47568095.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/47568095.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/47568095.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/47568095.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/47568095/Saul+Williams+saul_notebook.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Marilyn Manson</name>
+	  <url>http://www.last.fm/music/Marilyn+Manson</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/88978839.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/88978839.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/88978839.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/88978839.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/88978839/Marilyn+Manson.png</image>
+	  
+	        	</artist>
+  </similar>
+    <tags>
+        <tag>
+	  <name>industrial</name>
+	  <url>http://www.last.fm/tag/industrial</url>
+	</tag>
+        <tag>
+	  <name>industrial rock</name>
+	  <url>http://www.last.fm/tag/industrial%20rock</url>
+	</tag>
+        <tag>
+	  <name>rock</name>
+	  <url>http://www.last.fm/tag/rock</url>
+	</tag>
+        <tag>
+	  <name>alternative</name>
+	  <url>http://www.last.fm/tag/alternative</url>
+	</tag>
+        <tag>
+	  <name>electronic</name>
+	  <url>http://www.last.fm/tag/electronic</url>
+	</tag>
+      </tags>
+      <bio>
+        <links>
+        <link rel="original" href="http://www.last.fm/music/Nine+Inch+Nails/+wiki" />
+    </links>
+                                    <published>Sat, 7 Jun 2014 00:23:10 +0000</published>
+    <summary>
+        <![CDATA[        <a href="http://www.nin.com" rel="nofollow">Nine Inch Nails</a> is an American <a href="http://www.last.fm/tag/industrial%20rock" class="bbcode_tag" rel="tag">industrial rock</a> band that was formed in Cleveland, Ohio, United States in 1988 by <a href="http://www.last.fm/music/Trent+Reznor" class="bbcode_artist">Trent Reznor</a>, the only constant member of the band. He's generally credited for popularizing the genre known as &quot;<a href="http://www.last.fm/tag/industrial%20rock" class="bbcode_tag" rel="tag">industrial rock</a>&quot; with both his releases and <a href="http://www.last.fm/tag/dark" class="bbcode_tag" rel="tag">dark</a>, theatrical music videos.  Born Michael Trent Reznor, he was raised by his maternal grandparents in Mercer, Pennsylvania, USA. Reznor took up piano at the age of five and in high school took up the tuba and saxophone.
+
+        <a href="http://www.last.fm/music/Nine+Inch+Nails">Read more about Nine Inch Nails on Last.fm</a>.
+    ]]>
+    </summary>
+    <content>
+            <![CDATA[        <a href="http://www.nin.com" rel="nofollow">Nine Inch Nails</a> is an American <a href="http://www.last.fm/tag/industrial%20rock" class="bbcode_tag" rel="tag">industrial rock</a> band that was formed in Cleveland, Ohio, United States in 1988 by <a href="http://www.last.fm/music/Trent+Reznor" class="bbcode_artist">Trent Reznor</a>, the only constant member of the band. He's generally credited for popularizing the genre known as &quot;<a href="http://www.last.fm/tag/industrial%20rock" class="bbcode_tag" rel="tag">industrial rock</a>&quot; with both his releases and <a href="http://www.last.fm/tag/dark" class="bbcode_tag" rel="tag">dark</a>, theatrical music videos.  Born Michael Trent Reznor, he was raised by his maternal grandparents in Mercer, Pennsylvania, USA. Reznor took up piano at the age of five and in high school took up the tuba and saxophone.
+
+        <a href="http://www.last.fm/music/Nine+Inch+Nails">Read more about Nine Inch Nails on Last.fm</a>.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+    </content>
+            <placeformed>Cleveland, Ohio, United States</placeformed>                        <yearformed>1988</yearformed>
+            <formationlist>
+                    <formation>
+                <yearfrom>1988</yearfrom>
+                <yearto></yearto>
+            </formation>
+            </formationlist>
+      </bio>
+  </artist></lfm>
+)
+ * SONOIO (http://www.last.fm/music/Nine+Inch+Nails)
+ * Saul Williams (http://www.last.fm/music/How+to+Destroy+Angels)
+ * Marilyn Manson (http://www.last.fm/music/Trent+Reznor+and+Atticus+Ross)
+ * industrial (http://www.last.fm/music/SONOIO)
+ * industrial rock (http://www.last.fm/music/Saul+Williams)
+ * rock (http://www.last.fm/music/Marilyn+Manson)
+ * alternative (http://www.last.fm/tag/industrial)
+ * electronic (http://www.last.fm/tag/industrial%20rock)
+
+http://www.last.fm/music/Nine+Inch+Nails

@@ -14,7 +14,7 @@ SAVEHIST=1000
 setopt appendhistory notify
 bindkey -e
 # End of lines configured by zsh-newuser-install
-
+export EDITOR="vim"
 # keybinds
 export WORDCHARS=''
 
@@ -59,5 +59,5 @@ cl() {
 	fi
 }
 
-eval $(dircolors .dircolors)
+# eval $(dircolors .dircolors)
 

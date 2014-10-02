@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:My ALSA Device
 audio_device_state:1:my_fifo
 state: pause
-current: 40
-time: 227
+current: 30
+time: 0
 random: 1
 repeat: 0
 single: 0
@@ -13,133 +13,45 @@ mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
 0:NIN -Pretty Hate Machine [1989] Mp3@192Kbps/07 Sin.mp3
-1:Music/Amy Winehouse/Back To Black (Deluxe Edition)/01 Rehab.mp3
-2:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/02 The Man Who Sold the World.wma
-3:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/03 Changes.wma
-4:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/04 Life on Mars_.wma
-5:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/06 Suffragette City.wma
-6:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/07 Ziggy Stardust.wma
-7:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/12 Diamond Dogs.wma
-8:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/15 Golden Years [Single Version].wma
-9:David Bowie/Hunky Dory/15 Queen Bitch.mp3
-10:Music/David Bowie/Outside/03 The Heart's Filthy Lesson.MP3
-11:David Bowie/Changesbowie/17 Modern Love 1.mp3
-12:David Bowie/The Singles 1969 to 1993/Cat People (Putting Out Fire).mp3
-13:Music/David Bowie/Hours/07 The Pretty Things Are Going to He.mp3
-14:David Bowie/The Best Of David Bowie 1969/Life On Mars 1.mp3
-15:Music/David Bowie/Ziggy Stardust/Rock 'N' Roll Suicide.mp3
-16:Music/Dick Dale/Pulp Fiction Soundtrack/01 Miserlou.mp3
-17:Dimmu Borgir/Death Cult Armageddon/02 Progenies Of the Great Apocalypse.mp3
-18:Music/Dusty Springfield/Dusty in Memphis/03 Son of A Preacher Man.mp3
-19:Music/Final Fantasy 7/Unknown Album/One Winged Angel(Orchestrated).mp3
-20:NIN -Pretty Hate Machine [1989] Mp3@192Kbps/07 Sin.mp3
-21:Music/Amy Winehouse/Back To Black (Deluxe Edition)/01 Rehab.mp3
-22:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/02 The Man Who Sold the World.wma
-23:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/03 Changes.wma
-24:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/04 Life on Mars_.wma
-25:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/06 Suffragette City.wma
-26:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/07 Ziggy Stardust.wma
-27:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/12 Diamond Dogs.wma
-28:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/15 Golden Years [Single Version].wma
-29:David Bowie/Hunky Dory/15 Queen Bitch.mp3
-30:Music/David Bowie/Outside/03 The Heart's Filthy Lesson.MP3
-31:David Bowie/Changesbowie/17 Modern Love 1.mp3
-32:David Bowie/The Singles 1969 to 1993/Cat People (Putting Out Fire).mp3
-33:Music/David Bowie/Hours/07 The Pretty Things Are Going to He.mp3
-34:David Bowie/The Best Of David Bowie 1969/Life On Mars 1.mp3
-35:David Bowie/The Best Of David Bowie 1969/Life On Mars 1.mp3
-36:Music/David Bowie/Ziggy Stardust/Rock 'N' Roll Suicide.mp3
-37:Music/Dick Dale/Pulp Fiction Soundtrack/01 Miserlou.mp3
-38:Dimmu Borgir/Death Cult Armageddon/02 Progenies Of the Great Apocalypse.mp3
-39:Music/Dusty Springfield/Dusty in Memphis/03 Son of A Preacher Man.mp3
-40:Music/Final Fantasy 7/Unknown Album/One Winged Angel(Orchestrated).mp3
-41:Music/Varios Artists/RocknRolla/18 Funnel Of Love.mp3
-42:METAL_SWIM/09_Saviours-Dixie_Dieway.mp3
-43:Music/Saviours/Accelerated Living/06 Slave To The Hex.mp3
-44:Music/Dethklok/The Dethalbum/02 Go into the Water.mp3
-45:Music/Dethklok/The Dethalbum/08 The Lost Vikings.mp3
-46:Music/Dethklok/The Dethalbum/17 Crush My Battle Opponent's Balls.mp3
-47:AC_DC/Unknown Album/If You Want Blood (You've Got It) 2.mp3
-48:Music/Flamingos, The/The Heart Of Rock 'N' Roll - 1959/12 I Only Have Eyes For You.mp3
-49:Music/Fluke/Unknown Album/Absurd.mp3
-50:Music/Fluke/Unknown Album/Atom Bomb.mp3
-51:Music/Generation X/slc punk soundtrack/Kiss Me Deadly.mp3
-52:Music/George Baker/Reservoir Dogs Soundtrack/Little Green Bag.mp3
-53:Music/Ghostface Killah/Ironman/01 Iron Maiden.mp3
-54:Music/Ghostface Killah/Ironman/11 Daytona 500.mp3
-55:Music/Go Chic/SXSW 2010 Showcasing Artists/Hard Date.mp3
-56:Music/Gravity Kills/Unknown Album/Guilty.mp3
-57:Holy_Hail~Independent_Pleasure_Club_(V2)-2008-iNK/Holy_Hail_05_Cool_Town_Rock.mp3
-58:HOW TO DESTROY ANGELS - EP/01 The Space in Between.mp3
-59:Music/Iron Maiden/The Number Of The Beast/The Number Of The Beast.mp3
-60:Ishii Yasushi/Hellsing OST 2 RUINS/04-Hatred Guy Of Sinfulness.flac
-61:Music/Joe Tex/Resevoir Dogs Soundtrack/01 I Gotcha.mp3
-62:MC Chris - Fett's Vette.mp3
-63:Music/Compilations/Scott Pilgrim vs. the World/12 Black Sheep.m4a
-64:Music/Michael Jackson/Unknown Album/Don't Stop Till You Get Enough.mp3
-65:Music/Mickey and Sylvia/Dirty Dancing - Original Movie/Love Is Strange.mp3
-66:Music/Misfits/Unknown Album/Last Caress.mp3
-67:09  Muse - Exogenesis Symphony Part 1 [Overture].mp3
-68:Music/My Chemical Romance/The Watchmen (OST)/01 Desolation Row.mp3
-69:Music/Opeth/Damnation/03 Death Whispered a Lullaby.mp3
-70:Music/Opeth/Ghost Reveries/01 Ghost of Perdition.mp3
-71:Music/Opeth/Ghost Reveries/07 The Grand Conjuration.mp3
-72:Opeth/Watershed (Special Edition)/01 Coil.mp3
-73:Music/Opeth/Watershed (Special Edition)/02 Heir Apparent.mp3
-74:Music/Opeth/Watershed (Special Edition)/05 Porcelain Heart.mp3
-75:Music/Pharoahe Monche/Unknown Album/Simon Says.mp3
-76:Music/Pink Floyd feat. Van Morrison/The Departed Soundtrack/Comfortably Numb.mp3
-77:Music/Placebo/Unknown Album/Pure Morning.mp3
-78:Music/Platters/Unknown Album/This Magic Moment.mp3
-79:Music/Prince/The Hits 1/08 Let's Go Crazy.mp3
-80:Music/Prince/The Hits 1/09 1999.mp3
-81:Music/Prince/The Hits 2/07 Little Red Corvette.mp3
-82:Music/Prince/The Hits 2/11 Kiss.mp3
-83:Music/Prince/The Hits 3/09 Erotic City.mp3
-84:Prince/The Hits 2/09 Raspberry Beret.mp3
-85:Pulp - Like A Friend.mp3
-86:Music/Queen/Sucker Punch (Original Motion Picture So/04 I Want It All _ We Will Rock You.mp3
-87:Music/Rolling Stones/Beggars Banquet/Street Fighting Man.mp3
-88:Music/Rolling Stones/Unknown Album/Gimme Shelter.mp3
-89:Compilations/Black snake moan/14 Stack-O-Lee 1.mp3
-90:Music/Soundtrack/The Informers/01 New Gold Dream.mp3
-91:Music/Smashing Pumpkins/Unknown Album/The End Is The Beginning Is The End.mp3
-92:Music/Smith/A Group Called Smith/05 Baby, It's You.mp3
-93:Music/Smith/A Group Called Smith/11 The Weight.mp3
-94:Music/Sons and Daughters/Love the Cup/03 Johnny Cash.mp3
-95:Spencer Davis Group - Gimme Some Lovin.mp3
-96:Music/Stereo MC's/Unknown Album/Connected.mp3
-97:Music/Compilations/Scott Pilgrim vs. the World/09 Teenage Dream.m4a
-98:Music/Tears For Fears/The Breakfast Club Soundtrack/Dont You(Forget About Me).mp3
-99:Music/Team Teamwork/Vinyl Fantasy 7/02 Jay-Z - Lucifer (Mako Reactor).mp3
-100:Music/Team Teamwork/Vinyl Fantasy 7/11 Slum Village - Get Dis Money (One.mp3
-101:Music/Team Teamwork/Vinyl Fantasy 7/12 Ghostface Killah - Save Me Dear (.mp3
-102:Music/The Billy Nayer Show/The American Astronaut Soundtrack/06 Love Smiles.m4a
-103:The Black Angels/Passover/01 Young Men Dead.mp3
-104:Music/Varios Artists/RocknRolla/05 Bankrobber.mp3
-105:Music/The Dubliners/Celtic Pride II/03 The Rocky Road to Dublin.mp3
-106:Music/Unknown Artist/Unknown Album/Nobody like me.mp3
-107:Music/Misfits/FAMOUS MONSTERS/08 SATURDAY NIGHT.mp3
-108:The Rolling Stones - Greatest Hits [3 Disc Box Set] (2008) Mp3 320 vtwin88cube/Disc 1/10.Under My Thumb.mp3
-109:Music/The Rolling Stones/Greatest Hits Disc 1/21 You Can't Always Get What You Wan.mp3
-110:Music/The Rolling Stones/Greatest Hits Disc 1/22 Sympathy For The Devil.mp3
-111:The Velvet Underground - Rock and Roll.mp3
-112:Music/Tricky/Nearly God/03 Together Now.mp3
-113:Music/Tricky/Blowback/Excess.mp3
-114:Music/Urge Overkill/Pulp Fiction Soundtrack/Girl, You'll Be A Woman Soon.mp3
-115:Music/Van Morrison/Unknown Album/Brown Eyed Girl.mp3
-116:Music/Van Morrison/Unknown Album/Domino.mp3
-117:Music/Van Morrison/Unknown Album/Into The Mystic.mp3
-118:Music/Van Morrisson/Notting Hill Soundtrack/08 Ain't No Sunshine.mp3
-119:Music/Soundtrack/The Informers/02 Dance Hall Days.mp3
-120:Warren Zevon - Warewolves Of London.mp3
-121:Music/Weezer/Unknown Album/The Sweater Song.mp3
-122:Music/White Zombie/La Sexorcisto_ Devil Music Vol/04 Black Sunshine.mp3
-123:Willy DeVille/Quentin Tarantino's Death Proof/13 It's So Easy.mp3
-124:Music/Wolfmother/Wolfmother/12 Vagabond.mp3
-125:Music/Wolfmother/Wolfmother/06 Joker & The Thief.mp3
-126:Music/Yoko Kanno/CBB O.S.T. FUTURE BLUES/16 Gotta knock a little harder.mp3
-127:Music/Yoko Kanno/COWBOY BEBOP(BLUE)/BLUE.mp3
-128:Music/You Say Party! We Say Die!/SXSW 2010 Showcasing Artists/Laura Palmer's Prom.mp3
-129:Music/Ze!/SXSW 2010 Showcasing Artists/I Am Glam.mp3
+1:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/02 The Man Who Sold the World.wma
+2:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/03 Changes.wma
+3:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/04 Life on Mars_.wma
+4:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/06 Suffragette City.wma
+5:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/07 Ziggy Stardust.wma
+6:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/12 Diamond Dogs.wma
+7:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/15 Golden Years [Single Version].wma
+8:David Bowie/Hunky Dory/15 Queen Bitch.mp3
+9:David Bowie/Changesbowie/17 Modern Love 1.mp3
+10:David Bowie/The Singles 1969 to 1993/Cat People (Putting Out Fire).mp3
+11:David Bowie/The Best Of David Bowie 1969/Life On Mars 1.mp3
+12:Dimmu Borgir/Death Cult Armageddon/02 Progenies Of the Great Apocalypse.mp3
+13:NIN -Pretty Hate Machine [1989] Mp3@192Kbps/07 Sin.mp3
+14:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/02 The Man Who Sold the World.wma
+15:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/03 Changes.wma
+16:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/04 Life on Mars_.wma
+17:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/06 Suffragette City.wma
+18:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/07 Ziggy Stardust.wma
+19:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/12 Diamond Dogs.wma
+20:David Bowie/Best of Bowie [Virgin US_Canada] [Bonus/15 Golden Years [Single Version].wma
+21:David Bowie/Hunky Dory/15 Queen Bitch.mp3
+22:David Bowie/Changesbowie/17 Modern Love 1.mp3
+23:David Bowie/The Singles 1969 to 1993/Cat People (Putting Out Fire).mp3
+24:David Bowie/The Best Of David Bowie 1969/Life On Mars 1.mp3
+25:David Bowie/The Best Of David Bowie 1969/Life On Mars 1.mp3
+26:Dimmu Borgir/Death Cult Armageddon/02 Progenies Of the Great Apocalypse.mp3
+27:METAL_SWIM/09_Saviours-Dixie_Dieway.mp3
+28:Holy_Hail~Independent_Pleasure_Club_(V2)-2008-iNK/Holy_Hail_05_Cool_Town_Rock.mp3
+29:HOW TO DESTROY ANGELS - EP/01 The Space in Between.mp3
+30:Ishii Yasushi/Hellsing OST 2 RUINS/04-Hatred Guy Of Sinfulness.flac
+31:MC Chris - Fett's Vette.mp3
+32:09  Muse - Exogenesis Symphony Part 1 [Overture].mp3
+33:Opeth/Watershed (Special Edition)/01 Coil.mp3
+34:Prince/The Hits 2/09 Raspberry Beret.mp3
+35:Pulp - Like A Friend.mp3
+36:Spencer Davis Group - Gimme Some Lovin.mp3
+37:The Black Angels/Passover/01 Young Men Dead.mp3
+38:The Rolling Stones - Greatest Hits [3 Disc Box Set] (2008) Mp3 320 vtwin88cube/Disc 1/10.Under My Thumb.mp3
+39:The Velvet Underground - Rock and Roll.mp3
+40:Warren Zevon - Warewolves Of London.mp3
+41:Willy DeVille/Quentin Tarantino's Death Proof/13 It's So Easy.mp3
 playlist_end
