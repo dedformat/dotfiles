@@ -24,11 +24,15 @@ bindkey "^[[7~" beginning-of-line
 bindkey "^[[8~" end-of-line
 bindkey "^[[3~" delete-char
 
+# prompt
+PROMPT=" %{$fg_bold[yellow]%} » "
+RPROMPT="%{$fg[black]%}%M:%{$fg_bold[yellow]%}%~%{$reset_color%}   "
+
 # powerline
-powerline-daemon -q
+#powerline-daemon -q
 
 # Powerline integration
-. /usr/share/zsh/site-contrib/powerline.zsh
+#. /usr/share/zsh/site-contrib/powerline.zsh
 
 # Everyday usefulness
 alias diff='colordiff -u'
@@ -43,6 +47,7 @@ alias pacman='sudo pacman'
 alias archey='archey3'
 alias sf='screenfetch'
 alias alsi='alsi -a -u'
+#alias cp='acp -g'
 
 # New commands
 #cd and ls in one

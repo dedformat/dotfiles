@@ -20,9 +20,10 @@ echo 'T' $ORANGE $(whoami)@$(hostname) > "$PANEL_FIFO" &
 
 # Loop to check time, battery and volume statuses
 while true; do
-	VOL=$(amixer get Master | egrep -o "[0-9]+%")
+  AP=$(essid -w wlp0s29u1u8)
+  VOL=$(amixer get Master | egrep -o "[0-9]+%")
 	DATE=$(date +'S%B %d %a %l:%M')
-	echo 'I'$LIGHTGREY$FG' ⮞ '$LIGHTGREY$VOL% $FG''$LIGHTGREY $FG> "$PANEL_FIFO" &
+	echo 'I'$LIGHTGREY$AP$FG' ⮞ '$LIGHTGREY$VOL% $FG''$LIGHTGREY $FG> "$PANEL_FIFO"
 	echo "$DATE "  > "$PANEL_FIFO" &
 sleep 0.5s
 done &

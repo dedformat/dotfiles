@@ -1,0 +1,718 @@
+﻿version: 1.4.103
+platform: Linux 3.17.4-1-ARCH #1 SMP PREEMPT Fri Nov 21 21:14:42 CET 2014 x86_64
+[20141219 06:09:46.789] total physical memory 536870912 max disk cache 2097152
+[20141219 06:09:46.789] Using IP address 192.168.0.20
+[20141219 06:09:48.847] UPnP: Device error "http://192.168.0.10:32469/DeviceDescription.xml": (-2) 
+[20141219 06:09:49.301] UPnP: Device error "http://192.168.0.10:2869/upnphost/udhisapi.dll?content=uuid:a6f2ecd8-f416-4482-b4fa-77ec21a3e887": (-2) 
+[20141219 06:09:49.371] UPnP: Device error "http://192.168.0.1:5556/dyndev/uuid:aaa00001-bfde-11d3-832c-105F06D9CF60": (-2) 
+[20141219 06:10:42.793] Received shutdown request via signal 15
+[20141219 06:10:42.794] Shutdown. Saving config sync.dat
+[20141219 06:11:26.853] total physical memory 536870912 max disk cache 2097152
+[20141219 06:11:26.853] Using IP address 192.168.0.20
+[20141219 06:11:26.854] Loading config file version 1.4.103
+[20141219 06:11:27.880] UPnP: Device error "http://192.168.0.10:32469/DeviceDescription.xml": (-2) 
+[20141219 06:11:28.185] UPnP: Device error "http://192.168.0.10:2869/upnphost/udhisapi.dll?content=uuid:a6f2ecd8-f416-4482-b4fa-77ec21a3e887": (-2) 
+[20141219 06:11:30.856] UPnP: Device error "http://192.168.0.1:5556/dyndev/uuid:aaa00001-bfde-11d3-832c-105F06D9CF60": (-2) 
+[20141219 06:11:38.626] UPnP: ERROR mapping TCP port 45335 -> 192.168.0.20:45335. Deleting mapping and trying again: (718) The port mapping entry specified conflicts with a mapping assigned previously to another client
+[20141219 06:12:20.520] Received shutdown request via signal 15
+[20141219 06:12:20.521] Shutdown. Saving config sync.dat
+[20141219 06:12:25.808] total physical memory 536870912 max disk cache 2097152
+[20141219 06:12:25.808] Using IP address 192.168.0.20
+[20141219 06:12:25.809] Loading config file version 1.4.103
+[20141219 06:12:27.877] UPnP: Device error "http://192.168.0.10:2869/upnphost/udhisapi.dll?content=uuid:a6f2ecd8-f416-4482-b4fa-77ec21a3e887": (-2) 
+[20141219 06:12:28.754] UPnP: Device error "http://192.168.0.1:5556/dyndev/uuid:aaa00001-bfde-11d3-832c-105F06D9CF60": (-2) 
+[20141219 06:12:28.859] UPnP: Device error "http://192.168.0.10:32469/DeviceDescription.xml": (-2) 
+[20141219 06:12:37.354] UPnP: ERROR mapping TCP port 47063 -> 192.168.0.20:47063. Deleting mapping and trying again: (718) The port mapping entry specified conflicts with a mapping assigned previously to another client
+[20141219 06:14:47.921] Received shutdown request via signal 15
+[20141219 06:14:47.921] Shutdown. Saving config sync.dat
+[20141219 06:14:53.321] total physical memory 536870912 max disk cache 2097152
+[20141219 06:14:53.321] Using IP address 192.168.0.20
+[20141219 06:14:53.322] Loading config file version 1.4.103
+[20141219 06:14:54.685] UPnP: Device error "http://192.168.0.10:32469/DeviceDescription.xml": (-2) 
+[20141219 06:14:54.735] UPnP: Device error "http://192.168.0.10:2869/upnphost/udhisapi.dll?content=uuid:a6f2ecd8-f416-4482-b4fa-77ec21a3e887": (-2) 
+[20141219 06:14:56.262] UPnP: Device error "http://192.168.0.1:5556/dyndev/uuid:aaa00001-bfde-11d3-832c-105F06D9CF60": (-2) 
+[20141219 06:15:01.593] UPnP: ERROR mapping TCP port 56118 -> 192.168.0.20:56118. Deleting mapping and trying again: (718) The port mapping entry specified conflicts with a mapping assigned previously to another client
+[20141219 06:20:27.083] Incoming connection from 192.168.0.10:53980
+[20141219 06:20:29.491] Incoming connection from 192.168.0.10:57372
+[20141219 06:20:37.648] Incoming connection from 192.168.0.10:57374
+[20141219 06:20:38.229] Incoming connection from 192.168.0.10:53980
+[20141219 06:20:38.233] Incoming connection from 192.168.0.10:57376
+[20141219 06:20:38.234] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:20:38.580] Extension: ipv4:[174.22.47.215] for 'magnet (13532352d2056fd8f1c73079ce09a951170c080e)'
+[20141219 06:20:38.580] Got metadata size 1834, pieces 1
+[20141219 06:20:38.581] Extension: ipv4:[174.22.47.215] for 'magnet (1eccabf32994b98a72b980f85faf456116d2ffa1)'
+[20141219 06:20:38.581] Got metadata size 572, pieces 1
+[20141219 06:20:38.581] Extension: ipv4:[174.22.47.215] for 'magnet (fec4de74b047c0979bc673d70295f83a623f6c67)'
+[20141219 06:20:38.581] Got metadata size 131, pieces 1
+[20141219 06:20:38.581] Extension: ipv4:[174.22.47.215] for 'magnet (3ddef543f2795b2f056e5e3c6aeed73bb1836399)'
+[20141219 06:20:38.581] Got metadata size 152, pieces 1
+[20141219 06:20:38.585] Extension: ipv4:[174.22.47.215] for 'magnet (507c74cdb84c4e86e456cdd6cab8416b1484f9a2)'
+[20141219 06:20:38.585] Got metadata size 70, pieces 1
+[20141219 06:20:38.640] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/Corporate_Slave_004-1280x1024.jpg'
+[20141219 06:20:38.640] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/9-7-08-bare.png'
+[20141219 06:20:38.640] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg'
+[20141219 06:20:38.641] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/Bebop.jpg'
+[20141219 06:20:38.641] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/Cylon-evolution.jpg'
+[20141219 06:20:38.666] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:38.725] /home/deadformat/shares/Wallpaper/Corporate_Slave_004-1280x1024.jpg: Piece 0 complete
+[20141219 06:20:38.756] /home/deadformat/shares/Wallpaper/Corporate_Slave_004-1280x1024.jpg: Piece 1 complete
+[20141219 06:20:38.793] /home/deadformat/shares/Wallpaper/Cylon-evolution.jpg: Piece 0 complete
+[20141219 06:20:38.806] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 0 complete
+[20141219 06:20:38.807] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 0 complete
+[20141219 06:20:38.840] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 1 complete
+[20141219 06:20:38.841] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 1 complete
+[20141219 06:20:38.855] /home/deadformat/shares/Wallpaper/Bebop.jpg: Piece 0 complete
+[20141219 06:20:38.887] /home/deadformat/shares/Wallpaper/Bebop.jpg: Piece 1 complete
+[20141219 06:20:38.888] /home/deadformat/shares/Wallpaper/Corporate_Slave_004-1280x1024.jpg: Piece 2 complete
+[20141219 06:20:38.899] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:38.905] Extension: ipv4:[174.22.47.215] for 'magnet (1631ef13e8f5389401a6a25cbd8cabc14b9faa61)'
+[20141219 06:20:38.905] Got metadata size 392, pieces 1
+[20141219 06:20:38.905] /home/deadformat/shares/Wallpaper/Corporate_Slave_004-1280x1024.jpg: Piece 3 complete
+[20141219 06:20:38.920] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 2 complete
+[20141219 06:20:38.958] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 3 complete
+[20141219 06:20:38.960] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 2 complete
+[20141219 06:20:38.976] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 3 complete
+[20141219 06:20:38.981] /home/deadformat/shares/Wallpaper/Corporate_Slave_004-1280x1024.jpg: Piece 4 complete
+[20141219 06:20:38.981] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/MGS4-BB.jpg'
+[20141219 06:20:38.992] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:39.018] /home/deadformat/shares/Wallpaper/Bebop.jpg: Piece 2 complete
+[20141219 06:20:39.043] /home/deadformat/shares/Wallpaper/Bebop.jpg: Piece 3 complete
+[20141219 06:20:39.098] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 4 complete
+[20141219 06:20:39.117] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 5 complete
+[20141219 06:20:39.128] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 4 complete
+[20141219 06:20:39.135] Extension: ipv4:[174.22.47.215] for 'magnet (d3705fc3f23f347eff370550aad9bacae1e0a885)'
+[20141219 06:20:39.135] Got metadata size 672, pieces 1
+[20141219 06:20:39.141] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 5 complete
+[20141219 06:20:39.161] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 0 complete
+[20141219 06:20:39.177] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/WWZ-1600.jpg'
+[20141219 06:20:39.227] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 1 complete
+[20141219 06:20:39.323] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 6 complete
+[20141219 06:20:39.323] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 6 complete
+[20141219 06:20:39.326] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 2 complete
+[20141219 06:20:39.370] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 7 complete
+[20141219 06:20:39.370] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 7 complete
+[20141219 06:20:39.370] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 3 complete
+[20141219 06:20:39.390] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 0 complete
+[20141219 06:20:39.400] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 1 complete
+[20141219 06:20:39.432] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 8 complete
+[20141219 06:20:39.432] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 4 complete
+[20141219 06:20:39.454] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 8 complete
+[20141219 06:20:39.476] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 9 complete
+[20141219 06:20:39.502] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 2 complete
+[20141219 06:20:39.502] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 5 complete
+[20141219 06:20:39.522] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 9 complete
+[20141219 06:20:39.568] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 10 complete
+[20141219 06:20:39.574] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 3 complete
+[20141219 06:20:39.574] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 6 complete
+[20141219 06:20:39.610] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 11 complete
+[20141219 06:20:39.612] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 7 complete
+[20141219 06:20:39.663] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 4 complete
+[20141219 06:20:39.663] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 10 complete
+[20141219 06:20:39.719] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 12 complete
+[20141219 06:20:39.721] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 11 complete
+[20141219 06:20:39.721] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 8 complete
+[20141219 06:20:39.739] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 5 complete
+[20141219 06:20:39.785] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 13 complete
+[20141219 06:20:39.785] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 12 complete
+[20141219 06:20:39.787] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 9 complete
+[20141219 06:20:39.802] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 6 complete
+[20141219 06:20:39.845] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 14 complete
+[20141219 06:20:39.847] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 13 complete
+[20141219 06:20:39.847] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 10 complete
+[20141219 06:20:39.881] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 15 complete
+[20141219 06:20:39.881] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 7 complete
+[20141219 06:20:39.907] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 14 complete
+[20141219 06:20:39.908] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 11 complete
+[20141219 06:20:39.923] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 8 complete
+[20141219 06:20:39.939] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 16 complete
+[20141219 06:20:39.956] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 15 complete
+[20141219 06:20:39.985] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 17 complete
+[20141219 06:20:39.986] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 12 complete
+[20141219 06:20:40.002] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 9 complete
+[20141219 06:20:40.020] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 13 complete
+[20141219 06:20:40.046] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 16 complete
+[20141219 06:20:40.046] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 10 complete
+[20141219 06:20:40.071] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 18 complete
+[20141219 06:20:40.084] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 19 complete
+[20141219 06:20:40.107] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 17 complete
+[20141219 06:20:40.107] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 14 complete
+[20141219 06:20:40.121] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 11 complete
+[20141219 06:20:40.138] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:40.142] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 15 complete
+[20141219 06:20:40.144] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 18 complete
+[20141219 06:20:40.202] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 12 complete
+[20141219 06:20:40.211] /home/deadformat/shares/Wallpaper/MGS4-BB.jpg: Piece 16 complete
+[20141219 06:20:40.224] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 20 complete
+[20141219 06:20:40.232] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 21 complete
+[20141219 06:20:40.288] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 13 complete
+[20141219 06:20:40.288] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 19 complete
+[20141219 06:20:40.337] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:40.398] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 20 complete
+[20141219 06:20:40.403] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:40.434] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 22 complete
+[20141219 06:20:40.435] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 14 complete
+[20141219 06:20:40.461] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 23 complete
+[20141219 06:20:40.463] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 15 complete
+[20141219 06:20:40.480] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 21 complete
+[20141219 06:20:40.493] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 22 complete
+[20141219 06:20:40.504] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 23 complete
+[20141219 06:20:40.525] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 24 complete
+[20141219 06:20:40.525] /home/deadformat/shares/Wallpaper/Artificial-1600x1200.jpg: Piece 25 complete
+[20141219 06:20:40.559] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 24 complete
+[20141219 06:20:40.560] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 16 complete
+[20141219 06:20:40.585] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 25 complete
+[20141219 06:20:40.586] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 17 complete
+[20141219 06:20:40.614] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 26 complete
+[20141219 06:20:40.614] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 18 complete
+[20141219 06:20:40.644] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 27 complete
+[20141219 06:20:40.645] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 19 complete
+[20141219 06:20:40.670] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:40.672] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 28 complete
+[20141219 06:20:40.674] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 20 complete
+[20141219 06:20:40.702] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 29 complete
+[20141219 06:20:40.704] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 21 complete
+[20141219 06:20:40.732] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 30 complete
+[20141219 06:20:40.737] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 22 complete
+[20141219 06:20:40.741] Extension: ipv4:[174.22.47.215] for 'magnet (dc60d134ab76000e2cda46dd4346c4b52b8c8115)'
+[20141219 06:20:40.741] Got metadata size 873, pieces 1
+[20141219 06:20:40.767] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 31 complete
+[20141219 06:20:40.768] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 23 complete
+[20141219 06:20:40.791] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 32 complete
+[20141219 06:20:40.797] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 24 complete
+[20141219 06:20:40.820] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 33 complete
+[20141219 06:20:40.821] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 25 complete
+[20141219 06:20:40.842] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 34 complete
+[20141219 06:20:40.843] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 26 complete
+[20141219 06:20:40.876] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 35 complete
+[20141219 06:20:40.878] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 27 complete
+[20141219 06:20:40.898] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 36 complete
+[20141219 06:20:40.900] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 28 complete
+[20141219 06:20:40.928] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 37 complete
+[20141219 06:20:40.930] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 29 complete
+[20141219 06:20:40.932] /home/deadformat/shares/Wallpaper/WWZ-1600.jpg: Piece 30 complete
+[20141219 06:20:40.938] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/WWZ-1920.jpg'
+[20141219 06:20:40.941] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 38 complete
+[20141219 06:20:40.953] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 39 complete
+[20141219 06:20:40.969] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 40 complete
+[20141219 06:20:40.980] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 41 complete
+[20141219 06:20:41.007] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 42 complete
+[20141219 06:20:41.016] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 43 complete
+[20141219 06:20:41.028] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 44 complete
+[20141219 06:20:41.040] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 45 complete
+[20141219 06:20:41.063] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 46 complete
+[20141219 06:20:41.072] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 47 complete
+[20141219 06:20:41.095] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 48 complete
+[20141219 06:20:41.108] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 49 complete
+[20141219 06:20:41.120] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 50 complete
+[20141219 06:20:41.138] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 51 complete
+[20141219 06:20:41.152] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 52 complete
+[20141219 06:20:41.163] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 53 complete
+[20141219 06:20:41.180] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 54 complete
+[20141219 06:20:41.195] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 55 complete
+[20141219 06:20:41.208] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 56 complete
+[20141219 06:20:41.227] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 57 complete
+[20141219 06:20:41.229] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:41.230] Extension: ipv4:[174.22.47.215] for 'magnet (02f11614e53892df504584b385f87f94bd0684ed)'
+[20141219 06:20:41.230] Got metadata size 693, pieces 1
+[20141219 06:20:41.246] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 58 complete
+[20141219 06:20:41.251] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 0 complete
+[20141219 06:20:41.267] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 59 complete
+[20141219 06:20:41.279] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 60 complete
+[20141219 06:20:41.288] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 61 complete
+[20141219 06:20:41.306] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 62 complete
+[20141219 06:20:41.321] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:41.322] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:41.343] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 1 complete
+[20141219 06:20:41.343] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 63 complete
+[20141219 06:20:41.364] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 2 complete
+[20141219 06:20:41.365] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 64 complete
+[20141219 06:20:41.391] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 65 complete
+[20141219 06:20:41.391] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 3 complete
+[20141219 06:20:41.423] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 4 complete
+[20141219 06:20:41.423] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 66 complete
+[20141219 06:20:41.451] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 5 complete
+[20141219 06:20:41.452] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 67 complete
+[20141219 06:20:41.479] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg'
+[20141219 06:20:41.480] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:41.481] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 68 complete
+[20141219 06:20:41.482] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 6 complete
+[20141219 06:20:41.515] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 7 complete
+[20141219 06:20:41.521] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 69 complete
+[20141219 06:20:41.538] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 8 complete
+[20141219 06:20:41.539] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 70 complete
+[20141219 06:20:41.568] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 71 complete
+[20141219 06:20:41.568] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 9 complete
+[20141219 06:20:41.602] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 72 complete
+[20141219 06:20:41.602] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 10 complete
+[20141219 06:20:41.629] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 11 complete
+[20141219 06:20:41.629] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 73 complete
+[20141219 06:20:41.654] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 12 complete
+[20141219 06:20:41.655] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 74 complete
+[20141219 06:20:41.684] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 75 complete
+[20141219 06:20:41.686] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 13 complete
+[20141219 06:20:41.710] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 14 complete
+[20141219 06:20:41.711] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 76 complete
+[20141219 06:20:41.745] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 15 complete
+[20141219 06:20:41.746] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 77 complete
+[20141219 06:20:41.773] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 0 complete
+[20141219 06:20:41.782] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 78 complete
+[20141219 06:20:41.782] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 16 complete
+[20141219 06:20:41.816] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 1 complete
+[20141219 06:20:41.829] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 79 complete
+[20141219 06:20:41.830] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 17 complete
+[20141219 06:20:41.854] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 2 complete
+[20141219 06:20:41.869] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 18 complete
+[20141219 06:20:41.871] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 80 complete
+[20141219 06:20:41.901] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 3 complete
+[20141219 06:20:41.916] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 19 complete
+[20141219 06:20:41.918] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 81 complete
+[20141219 06:20:41.948] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 4 complete
+[20141219 06:20:41.960] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 82 complete
+[20141219 06:20:41.960] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 20 complete
+[20141219 06:20:41.991] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 5 complete
+[20141219 06:20:42.006] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 21 complete
+[20141219 06:20:42.016] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 83 complete
+[20141219 06:20:42.034] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 6 complete
+[20141219 06:20:42.046] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 22 complete
+[20141219 06:20:42.047] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 84 complete
+[20141219 06:20:42.075] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 7 complete
+[20141219 06:20:42.089] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 85 complete
+[20141219 06:20:42.090] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 23 complete
+[20141219 06:20:42.121] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 8 complete
+[20141219 06:20:42.133] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 24 complete
+[20141219 06:20:42.134] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 86 complete
+[20141219 06:20:42.172] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 9 complete
+[20141219 06:20:42.193] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 25 complete
+[20141219 06:20:42.193] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 87 complete
+[20141219 06:20:42.213] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 10 complete
+[20141219 06:20:42.229] /home/deadformat/shares/Wallpaper/9-7-08-bare.png: Piece 88 complete
+[20141219 06:20:42.231] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 26 complete
+[20141219 06:20:42.248] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 11 complete
+[20141219 06:20:42.256] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 27 complete
+[20141219 06:20:42.276] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 12 complete
+[20141219 06:20:42.282] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 28 complete
+[20141219 06:20:42.301] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 13 complete
+[20141219 06:20:42.322] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:42.322] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:42.322] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 29 complete
+[20141219 06:20:42.340] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 14 complete
+[20141219 06:20:42.349] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 30 complete
+[20141219 06:20:42.372] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 15 complete
+[20141219 06:20:42.379] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 31 complete
+[20141219 06:20:42.401] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 16 complete
+[20141219 06:20:42.406] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 32 complete
+[20141219 06:20:42.428] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 17 complete
+[20141219 06:20:42.435] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 33 complete
+[20141219 06:20:42.462] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 18 complete
+[20141219 06:20:42.468] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 34 complete
+[20141219 06:20:42.491] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 19 complete
+[20141219 06:20:42.501] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 35 complete
+[20141219 06:20:42.513] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 20 complete
+[20141219 06:20:42.525] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 36 complete
+[20141219 06:20:42.543] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 21 complete
+[20141219 06:20:42.550] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 37 complete
+[20141219 06:20:42.576] Extension: ipv4:[174.22.47.215] for 'magnet (22e7eddab0a10c7a6ed598cfd100ffb640be4e04)'
+[20141219 06:20:42.576] Got metadata size 172, pieces 1
+[20141219 06:20:42.577] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 22 complete
+[20141219 06:20:42.584] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 38 complete
+[20141219 06:20:42.609] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 23 complete
+[20141219 06:20:42.623] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 39 complete
+[20141219 06:20:42.626] /home/deadformat/shares/Wallpaper/WWZ-1920.jpg: Piece 40 complete
+[20141219 06:20:42.634] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 24 complete
+[20141219 06:20:42.651] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 25 complete
+[20141219 06:20:42.672] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 26 complete
+[20141219 06:20:42.683] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 27 complete
+[20141219 06:20:42.696] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 28 complete
+[20141219 06:20:42.709] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 29 complete
+[20141219 06:20:42.723] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 30 complete
+[20141219 06:20:42.734] Extension: ipv4:[174.22.47.215] for 'magnet (50e3bd2e0699ed1290fc858b4a31940e834a0bb4)'
+[20141219 06:20:42.734] Got metadata size 152, pieces 1
+[20141219 06:20:42.734] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/block_23-1680x1050.jpg'
+[20141219 06:20:42.742] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:42.792] /home/deadformat/shares/Wallpaper/__black_fairy_wallpaper_II___by_StillesWasser.jpg: Piece 31 complete
+[20141219 06:20:42.800] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/bungle_treadsoftly_1024.jpg'
+[20141219 06:20:42.806] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:42.827] /home/deadformat/shares/Wallpaper/block_23-1680x1050.jpg: Piece 0 complete
+[20141219 06:20:42.842] /home/deadformat/shares/Wallpaper/block_23-1680x1050.jpg: Piece 1 complete
+[20141219 06:20:42.853] /home/deadformat/shares/Wallpaper/block_23-1680x1050.jpg: Piece 2 complete
+[20141219 06:20:42.862] /home/deadformat/shares/Wallpaper/block_23-1680x1050.jpg: Piece 3 complete
+[20141219 06:20:42.902] /home/deadformat/shares/Wallpaper/block_23-1680x1050.jpg: Piece 4 complete
+[20141219 06:20:42.902] /home/deadformat/shares/Wallpaper/block_23-1680x1050.jpg: Piece 5 complete
+[20141219 06:20:42.904] Extension: ipv4:[174.22.47.215] for 'magnet (f9fb88196fbcd32d01281b5eece400e7af9b1fff)'
+[20141219 06:20:42.904] Got metadata size 252, pieces 1
+[20141219 06:20:42.966] /home/deadformat/shares/Wallpaper/bungle_treadsoftly_1024.jpg: Piece 0 complete
+[20141219 06:20:43.012] /home/deadformat/shares/Wallpaper/bungle_treadsoftly_1024.jpg: Piece 1 complete
+[20141219 06:20:43.019] /home/deadformat/shares/Wallpaper/bungle_treadsoftly_1024.jpg: Piece 2 complete
+[20141219 06:20:43.032] /home/deadformat/shares/Wallpaper/bungle_treadsoftly_1024.jpg: Piece 3 complete
+[20141219 06:20:43.042] Extension: ipv4:[174.22.47.215] for 'magnet (6cea490627214a321ee30adad7417d00765f3482)'
+[20141219 06:20:43.042] Got metadata size 172, pieces 1
+[20141219 06:20:43.053] /home/deadformat/shares/Wallpaper/bungle_treadsoftly_1024.jpg: Piece 4 complete
+[20141219 06:20:43.053] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/castle_1600.jpg'
+[20141219 06:20:43.053] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:43.132] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/champagne-girl_Left_1600.jpg'
+[20141219 06:20:43.137] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:43.196] Extension: ipv4:[174.22.47.215] for 'magnet (895d97178599ceb486a806f7d991eaa896be73f1)'
+[20141219 06:20:43.196] Got metadata size 612, pieces 1
+[20141219 06:20:43.211] /home/deadformat/shares/Wallpaper/castle_1600.jpg: Piece 0 complete
+[20141219 06:20:43.223] /home/deadformat/shares/Wallpaper/castle_1600.jpg: Piece 1 complete
+[20141219 06:20:43.241] /home/deadformat/shares/Wallpaper/castle_1600.jpg: Piece 2 complete
+[20141219 06:20:43.252] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg'
+[20141219 06:20:43.257] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:43.262] /home/deadformat/shares/Wallpaper/castle_1600.jpg: Piece 3 complete
+[20141219 06:20:43.278] /home/deadformat/shares/Wallpaper/castle_1600.jpg: Piece 4 complete
+[20141219 06:20:43.292] /home/deadformat/shares/Wallpaper/castle_1600.jpg: Piece 5 complete
+[20141219 06:20:43.320] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:43.321] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:43.325] /home/deadformat/shares/Wallpaper/castle_1600.jpg: Piece 6 complete
+[20141219 06:20:43.325] /home/deadformat/shares/Wallpaper/champagne-girl_Left_1600.jpg: Piece 0 complete
+[20141219 06:20:43.369] /home/deadformat/shares/Wallpaper/castle_1600.jpg: Piece 7 complete
+[20141219 06:20:43.369] /home/deadformat/shares/Wallpaper/champagne-girl_Left_1600.jpg: Piece 1 complete
+[20141219 06:20:43.393] /home/deadformat/shares/Wallpaper/castle_1600.jpg: Piece 8 complete
+[20141219 06:20:43.393] /home/deadformat/shares/Wallpaper/champagne-girl_Left_1600.jpg: Piece 2 complete
+[20141219 06:20:43.411] /home/deadformat/shares/Wallpaper/castle_1600.jpg: Piece 9 complete
+[20141219 06:20:43.420] /home/deadformat/shares/Wallpaper/champagne-girl_Left_1600.jpg: Piece 3 complete
+[20141219 06:20:43.434] /home/deadformat/shares/Wallpaper/champagne-girl_Left_1600.jpg: Piece 4 complete
+[20141219 06:20:43.435] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:43.440] /home/deadformat/shares/Wallpaper/champagne-girl_Left_1600.jpg: Piece 5 complete
+[20141219 06:20:43.465] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 0 complete
+[20141219 06:20:43.475] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 1 complete
+[20141219 06:20:43.487] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 2 complete
+[20141219 06:20:43.508] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 3 complete
+[20141219 06:20:43.519] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 4 complete
+[20141219 06:20:43.531] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 5 complete
+[20141219 06:20:43.552] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 6 complete
+[20141219 06:20:43.568] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 7 complete
+[20141219 06:20:43.579] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 8 complete
+[20141219 06:20:43.599] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 9 complete
+[20141219 06:20:43.611] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 10 complete
+[20141219 06:20:43.625] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 11 complete
+[20141219 06:20:43.643] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 12 complete
+[20141219 06:20:43.655] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 13 complete
+[20141219 06:20:43.669] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 14 complete
+[20141219 06:20:43.691] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 15 complete
+[20141219 06:20:43.702] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 16 complete
+[20141219 06:20:43.714] Extension: ipv4:[174.22.47.215] for 'magnet (c648fe1e73c55362cc8e9168571b8e44e40e469a)'
+[20141219 06:20:43.714] Got metadata size 312, pieces 1
+[20141219 06:20:43.714] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 17 complete
+[20141219 06:20:43.714] Extension: ipv4:[174.22.47.215] for 'magnet (38c6f610ceb11dc5e1ae516b20bd15b2876f1bb5)'
+[20141219 06:20:43.714] Got metadata size 352, pieces 1
+[20141219 06:20:43.732] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 18 complete
+[20141219 06:20:43.744] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 19 complete
+[20141219 06:20:43.758] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 20 complete
+[20141219 06:20:43.778] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 21 complete
+[20141219 06:20:43.789] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 22 complete
+[20141219 06:20:43.801] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 23 complete
+[20141219 06:20:43.815] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 24 complete
+[20141219 06:20:43.827] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 25 complete
+[20141219 06:20:43.839] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 26 complete
+[20141219 06:20:43.845] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg'
+[20141219 06:20:43.870] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:43.870] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg'
+[20141219 06:20:43.895] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:43.895] /home/deadformat/shares/Wallpaper/cherish_the_core-1600x1200.jpg: Piece 27 complete
+[20141219 06:20:44.066] Extension: ipv4:[174.22.47.215] for 'magnet (c45c07a5cdff4b163d238543fb567be68b0cb3ec)'
+[20141219 06:20:44.066] Got metadata size 332, pieces 1
+[20141219 06:20:44.095] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 0 complete
+[20141219 06:20:44.106] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 1 complete
+[20141219 06:20:44.122] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg'
+[20141219 06:20:44.122] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:44.122] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 2 complete
+[20141219 06:20:44.207] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 3 complete
+[20141219 06:20:44.244] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 4 complete
+[20141219 06:20:44.244] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 0 complete
+[20141219 06:20:44.272] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 5 complete
+[20141219 06:20:44.273] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 1 complete
+[20141219 06:20:44.307] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 6 complete
+[20141219 06:20:44.307] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 2 complete
+[20141219 06:20:44.321] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:44.321] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:44.338] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 7 complete
+[20141219 06:20:44.338] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 3 complete
+[20141219 06:20:44.370] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 8 complete
+[20141219 06:20:44.370] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 4 complete
+[20141219 06:20:44.397] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 9 complete
+[20141219 06:20:44.397] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 5 complete
+[20141219 06:20:44.427] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 10 complete
+[20141219 06:20:44.428] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 6 complete
+[20141219 06:20:44.458] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 11 complete
+[20141219 06:20:44.458] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 7 complete
+[20141219 06:20:44.487] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 12 complete
+[20141219 06:20:44.488] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 8 complete
+[20141219 06:20:44.512] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:44.513] Extension: ipv4:[174.22.47.215] for 'magnet (42e6a3ca410f704215d1963c4769a6ec933a42e5)'
+[20141219 06:20:44.513] Got metadata size 532, pieces 1
+[20141219 06:20:44.514] Extension: ipv4:[174.22.47.215] for 'magnet (5e5f6fea1cee7dae8e23395d9757ce8cd009d135)'
+[20141219 06:20:44.514] Got metadata size 292, pieces 1
+[20141219 06:20:44.526] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 13 complete
+[20141219 06:20:44.526] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 9 complete
+[20141219 06:20:44.528] /home/deadformat/shares/Wallpaper/constrTETRIS_1600.jpg: Piece 14 complete
+[20141219 06:20:44.552] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 0 complete
+[20141219 06:20:44.556] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 10 complete
+[20141219 06:20:44.568] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 11 complete
+[20141219 06:20:44.577] /home/deadformat/shares/Wallpaper/final-fantasy-vi-10-1600x900.jpg: Piece 12 complete
+[20141219 06:20:44.598] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 1 complete
+[20141219 06:20:44.611] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 2 complete
+[20141219 06:20:44.633] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 3 complete
+[20141219 06:20:44.644] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 4 complete
+[20141219 06:20:44.657] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 5 complete
+[20141219 06:20:44.668] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 6 complete
+[20141219 06:20:44.691] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 7 complete
+[20141219 06:20:44.703] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 8 complete
+[20141219 06:20:44.718] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 9 complete
+[20141219 06:20:44.734] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 10 complete
+[20141219 06:20:44.746] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 11 complete
+[20141219 06:20:44.757] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 12 complete
+[20141219 06:20:44.763] Extension: ipv4:[174.22.47.215] for 'magnet (b157f4e93920941209312092e4631f1205134ea5)'
+[20141219 06:20:44.763] Got metadata size 672, pieces 1
+[20141219 06:20:44.763] Extension: ipv4:[174.22.47.215] for 'magnet (812438d6a1374d4566fe66f7dd1806a31c8f653a)'
+[20141219 06:20:44.763] Got metadata size 110, pieces 1
+[20141219 06:20:44.763] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg'
+[20141219 06:20:44.763] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg'
+[20141219 06:20:44.788] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:44.788] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:44.788] /home/deadformat/shares/Wallpaper/giorgetti-1280x1024.jpg: Piece 13 complete
+[20141219 06:20:44.981] Extension: ipv4:[174.22.47.215] for 'magnet (adddc923e90286867ccefe3b765abb23e141fad0)'
+[20141219 06:20:44.981] Got metadata size 352, pieces 1
+[20141219 06:20:44.981] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg'
+[20141219 06:20:44.985] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:44.985] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/soldier.jpg'
+[20141219 06:20:44.991] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:45.017] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 0 complete
+[20141219 06:20:45.026] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 1 complete
+[20141219 06:20:45.042] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/theempire_1680.jpg'
+[20141219 06:20:45.043] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:45.043] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 2 complete
+[20141219 06:20:45.104] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 3 complete
+[20141219 06:20:45.223] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 4 complete
+[20141219 06:20:45.223] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 0 complete
+[20141219 06:20:45.225] /home/deadformat/shares/Wallpaper/soldier.jpg: Piece 0 complete
+[20141219 06:20:45.225] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 0 complete
+[20141219 06:20:45.303] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 5 complete
+[20141219 06:20:45.310] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 1 complete
+[20141219 06:20:45.312] /home/deadformat/shares/Wallpaper/soldier.jpg: Piece 1 complete
+[20141219 06:20:45.312] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 1 complete
+[20141219 06:20:45.321] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:45.323] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:45.323] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:45.324] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:45.364] /home/deadformat/shares/Wallpaper/soldier.jpg: Piece 2 complete
+[20141219 06:20:45.369] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 6 complete
+[20141219 06:20:45.369] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 2 complete
+[20141219 06:20:45.372] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 2 complete
+[20141219 06:20:45.412] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 7 complete
+[20141219 06:20:45.412] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 3 complete
+[20141219 06:20:45.413] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 3 complete
+[20141219 06:20:45.460] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 8 complete
+[20141219 06:20:45.460] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 4 complete
+[20141219 06:20:45.461] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 4 complete
+[20141219 06:20:45.488] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:45.519] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 9 complete
+[20141219 06:20:45.520] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 5 complete
+[20141219 06:20:45.520] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 5 complete
+[20141219 06:20:45.543] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 0 complete
+[20141219 06:20:45.571] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 10 complete
+[20141219 06:20:45.571] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 6 complete
+[20141219 06:20:45.573] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 6 complete
+[20141219 06:20:45.610] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 1 complete
+[20141219 06:20:45.631] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 11 complete
+[20141219 06:20:45.631] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 7 complete
+[20141219 06:20:45.633] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 7 complete
+[20141219 06:20:45.666] Extension: ipv4:[174.22.47.215] for 'magnet (e5d3551ec4628b1c99991a0217cb902b6d3436b4)'
+[20141219 06:20:45.666] Got metadata size 252, pieces 1
+[20141219 06:20:45.670] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 2 complete
+[20141219 06:20:45.692] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 12 complete
+[20141219 06:20:45.692] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 8 complete
+[20141219 06:20:45.694] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 8 complete
+[20141219 06:20:45.738] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 3 complete
+[20141219 06:20:45.758] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 13 complete
+[20141219 06:20:45.760] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 9 complete
+[20141219 06:20:45.760] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 9 complete
+[20141219 06:20:45.797] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 4 complete
+[20141219 06:20:45.818] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 14 complete
+[20141219 06:20:45.818] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 10 complete
+[20141219 06:20:45.822] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 10 complete
+[20141219 06:20:45.843] /home/deadformat/shares/Wallpaper/puggy_1680_1050.jpg: Piece 11 complete
+[20141219 06:20:45.852] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 5 complete
+[20141219 06:20:45.866] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 15 complete
+[20141219 06:20:45.868] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 11 complete
+[20141219 06:20:45.895] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 6 complete
+[20141219 06:20:45.914] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 16 complete
+[20141219 06:20:45.914] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 12 complete
+[20141219 06:20:45.943] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 7 complete
+[20141219 06:20:45.958] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 17 complete
+[20141219 06:20:45.960] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 13 complete
+[20141219 06:20:45.983] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 8 complete
+[20141219 06:20:46.007] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 18 complete
+[20141219 06:20:46.007] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 14 complete
+[20141219 06:20:46.017] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/thesea_1024.jpg'
+[20141219 06:20:46.017] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:46.029] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 9 complete
+[20141219 06:20:46.046] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 19 complete
+[20141219 06:20:46.056] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 15 complete
+[20141219 06:20:46.071] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 10 complete
+[20141219 06:20:46.091] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 20 complete
+[20141219 06:20:46.092] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 16 complete
+[20141219 06:20:46.118] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 11 complete
+[20141219 06:20:46.144] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 21 complete
+[20141219 06:20:46.144] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 17 complete
+[20141219 06:20:46.167] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 12 complete
+[20141219 06:20:46.190] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 22 complete
+[20141219 06:20:46.190] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 18 complete
+[20141219 06:20:46.192] /home/deadformat/shares/Wallpaper/narshe_wallpaper__by_zano-d7eramd.jpg: Piece 23 complete
+[20141219 06:20:46.195] Extension: ipv4:[174.22.47.215] for 'magnet (a8cf6e7f81b3e115c76c25c20d176c05463990c7)'
+[20141219 06:20:46.195] Got metadata size 232, pieces 1
+[20141219 06:20:46.204] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 13 complete
+[20141219 06:20:46.228] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 19 complete
+[20141219 06:20:46.236] /home/deadformat/shares/Wallpaper/theempire_1680.jpg: Piece 14 complete
+[20141219 06:20:46.241] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 20 complete
+[20141219 06:20:46.254] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 21 complete
+[20141219 06:20:46.271] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 22 complete
+[20141219 06:20:46.282] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 23 complete
+[20141219 06:20:46.304] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 24 complete
+[20141219 06:20:46.316] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 25 complete
+[20141219 06:20:46.321] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:46.328] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 26 complete
+[20141219 06:20:46.343] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 27 complete
+[20141219 06:20:46.360] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 28 complete
+[20141219 06:20:46.372] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 29 complete
+[20141219 06:20:46.374] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:46.374] /home/deadformat/shares/Wallpaper/st.-petersburg-docks-large.jpg: Piece 30 complete
+[20141219 06:20:46.387] /home/deadformat/shares/Wallpaper/thesea_1024.jpg: Piece 0 complete
+[20141219 06:20:46.407] /home/deadformat/shares/Wallpaper/thesea_1024.jpg: Piece 1 complete
+[20141219 06:20:46.423] /home/deadformat/shares/Wallpaper/thesea_1024.jpg: Piece 2 complete
+[20141219 06:20:46.444] /home/deadformat/shares/Wallpaper/thesea_1024.jpg: Piece 3 complete
+[20141219 06:20:46.456] /home/deadformat/shares/Wallpaper/thesea_1024.jpg: Piece 4 complete
+[20141219 06:20:46.467] /home/deadformat/shares/Wallpaper/thesea_1024.jpg: Piece 5 complete
+[20141219 06:20:46.483] /home/deadformat/shares/Wallpaper/thesea_1024.jpg: Piece 6 complete
+[20141219 06:20:46.498] /home/deadformat/shares/Wallpaper/thesea_1024.jpg: Piece 7 complete
+[20141219 06:20:46.504] /home/deadformat/shares/Wallpaper/thesea_1024.jpg: Piece 8 complete
+[20141219 06:20:46.512] Extension: ipv4:[174.22.47.215] for 'magnet (53a61808a0bcb781f7e839d44d334aa4227cff23)'
+[20141219 06:20:46.512] Got metadata size 192, pieces 1
+[20141219 06:20:46.512] Extension: ipv4:[174.22.47.215] for 'magnet (78ab96d6faada43f3681d7eea6d800d285fb7e6d)'
+[20141219 06:20:46.512] Got metadata size 332, pieces 1
+[20141219 06:20:46.512] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/warfear_1280.jpg'
+[20141219 06:20:46.512] Extension: ipv4:[174.22.47.215] for 'magnet (d4c8c5678f5417f479d24dc621008194c808805b)'
+[20141219 06:20:46.512] Got metadata size 1013, pieces 1
+[20141219 06:20:46.512] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:46.537] /home/deadformat/shares/Wallpaper/thesea_1024.jpg: Piece 9 complete
+[20141219 06:20:46.707] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/wp_millet_1280.jpg'
+[20141219 06:20:46.707] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg'
+[20141219 06:20:46.711] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:46.711] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:46.711] Finished receiving metadata for '/home/deadformat/shares/Wallpaper/xprogplugin_1600.jpg'
+[20141219 06:20:46.723] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:46.745] /home/deadformat/shares/Wallpaper/warfear_1280.jpg: Piece 0 complete
+[20141219 06:20:46.753] /home/deadformat/shares/Wallpaper/warfear_1280.jpg: Piece 1 complete
+[20141219 06:20:46.767] /home/deadformat/shares/Wallpaper/warfear_1280.jpg: Piece 2 complete
+[20141219 06:20:46.777] /home/deadformat/shares/Wallpaper/warfear_1280.jpg: Piece 3 complete
+[20141219 06:20:46.800] /home/deadformat/shares/Wallpaper/warfear_1280.jpg: Piece 4 complete
+[20141219 06:20:46.813] /home/deadformat/shares/Wallpaper/warfear_1280.jpg: Piece 5 complete
+[20141219 06:20:46.832] /home/deadformat/shares/Wallpaper/warfear_1280.jpg: Piece 6 complete
+[20141219 06:20:46.847] /home/deadformat/shares/Wallpaper/warfear_1280.jpg: Piece 7 complete
+[20141219 06:20:46.856] /home/deadformat/shares/Wallpaper/warfear_1280.jpg: Piece 8 complete
+[20141219 06:20:46.888] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 0 complete
+[20141219 06:20:46.889] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 0 complete
+[20141219 06:20:46.914] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 1 complete
+[20141219 06:20:46.914] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 1 complete
+[20141219 06:20:46.944] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 2 complete
+[20141219 06:20:46.946] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 2 complete
+[20141219 06:20:46.974] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 3 complete
+[20141219 06:20:46.975] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 3 complete
+[20141219 06:20:47.006] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 4 complete
+[20141219 06:20:47.008] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 4 complete
+[20141219 06:20:47.030] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 5 complete
+[20141219 06:20:47.037] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 5 complete
+[20141219 06:20:47.064] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 6 complete
+[20141219 06:20:47.066] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 6 complete
+[20141219 06:20:47.098] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 7 complete
+[20141219 06:20:47.099] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 7 complete
+[20141219 06:20:47.124] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 8 complete
+[20141219 06:20:47.128] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 8 complete
+[20141219 06:20:47.165] /home/deadformat/shares/Wallpaper/xprogplugin_1600.jpg: Piece 0 complete
+[20141219 06:20:47.178] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 9 complete
+[20141219 06:20:47.178] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 9 complete
+[20141219 06:20:47.209] /home/deadformat/shares/Wallpaper/xprogplugin_1600.jpg: Piece 1 complete
+[20141219 06:20:47.213] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 10 complete
+[20141219 06:20:47.221] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 10 complete
+[20141219 06:20:47.260] /home/deadformat/shares/Wallpaper/xprogplugin_1600.jpg: Piece 2 complete
+[20141219 06:20:47.262] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 11 complete
+[20141219 06:20:47.264] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 11 complete
+[20141219 06:20:47.292] /home/deadformat/shares/Wallpaper/xprogplugin_1600.jpg: Piece 3 complete
+[20141219 06:20:47.304] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 12 complete
+[20141219 06:20:47.306] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 12 complete
+[20141219 06:20:47.322] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:47.322] /home/deadformat/shares/Wallpaper/wp_millet_1280.jpg: Piece 13 complete
+[20141219 06:20:47.323] 192.168.0.10:53980: did not pick any blocks. blocking peer temporarily
+[20141219 06:20:47.332] /home/deadformat/shares/Wallpaper/xprogplugin_1600.jpg: Piece 4 complete
+[20141219 06:20:47.344] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 13 complete
+[20141219 06:20:47.363] /home/deadformat/shares/Wallpaper/xprogplugin_1600.jpg: Piece 5 complete
+[20141219 06:20:47.366] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 14 complete
+[20141219 06:20:47.388] /home/deadformat/shares/Wallpaper/xprogplugin_1600.jpg: Piece 6 complete
+[20141219 06:20:47.392] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 15 complete
+[20141219 06:20:47.404] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 16 complete
+[20141219 06:20:47.421] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 17 complete
+[20141219 06:20:47.435] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 18 complete
+[20141219 06:20:47.453] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 19 complete
+[20141219 06:20:47.464] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 20 complete
+[20141219 06:20:47.484] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 21 complete
+[20141219 06:20:47.493] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 22 complete
+[20141219 06:20:47.507] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 23 complete
+[20141219 06:20:47.533] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 24 complete
+[20141219 06:20:47.544] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 25 complete
+[20141219 06:20:47.566] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 26 complete
+[20141219 06:20:47.576] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 27 complete
+[20141219 06:20:47.588] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 28 complete
+[20141219 06:20:47.607] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 29 complete
+[20141219 06:20:47.617] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 30 complete
+[20141219 06:20:47.627] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 31 complete
+[20141219 06:20:47.641] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 32 complete
+[20141219 06:20:47.664] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 33 complete
+[20141219 06:20:47.674] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 34 complete
+[20141219 06:20:47.694] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 35 complete
+[20141219 06:20:47.707] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 36 complete
+[20141219 06:20:47.720] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 37 complete
+[20141219 06:20:47.743] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 38 complete
+[20141219 06:20:47.754] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 39 complete
+[20141219 06:20:47.763] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 40 complete
+[20141219 06:20:47.778] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 41 complete
+[20141219 06:20:47.791] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 42 complete
+[20141219 06:20:47.801] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 43 complete
+[20141219 06:20:47.815] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 44 complete
+[20141219 06:20:47.830] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 45 complete
+[20141219 06:20:47.840] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 46 complete
+[20141219 06:20:47.896] /home/deadformat/shares/Wallpaper/zombiegirlknife-407729.jpeg: Piece 47 complete
+[20141219 06:20:48.418] Incoming connection from 192.168.0.10:57395
+[20141219 06:20:48.420] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:20:51.435] Incoming connection from 192.168.0.10:53980
+[20141219 06:20:58.204] Incoming connection from 192.168.0.10:57398
+[20141219 06:20:58.204] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:21:08.275] Incoming connection from 192.168.0.10:57400
+[20141219 06:21:08.275] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:24:27.194] Incoming connection from 192.168.0.10:57476
+[20141219 06:24:27.195] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:24:37.427] Incoming connection from 192.168.0.10:57479
+[20141219 06:24:37.428] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:24:47.449] Incoming connection from 192.168.0.10:57481
+[20141219 06:24:47.449] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:24:57.468] Incoming connection from 192.168.0.10:57500
+[20141219 06:24:57.469] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:29:28.284] Incoming connection from 192.168.0.10:57607
+[20141219 06:29:28.286] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:29:38.491] Incoming connection from 192.168.0.10:57616
+[20141219 06:29:38.491] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:29:48.506] Incoming connection from 192.168.0.10:57618
+[20141219 06:29:48.507] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:29:58.536] Incoming connection from 192.168.0.10:57638
+[20141219 06:29:58.537] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:30:51.615] Incoming connection from 192.168.0.10:53980
+[20141219 06:34:29.280] Incoming connection from 192.168.0.10:57802
+[20141219 06:34:29.281] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:34:39.447] Incoming connection from 192.168.0.10:57805
+[20141219 06:34:39.447] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:34:49.973] Incoming connection from 192.168.0.10:57808
+[20141219 06:34:49.973] SyncEncryptHandler: bad shareID (STATE_BEGIN)
+[20141219 06:34:54.507] UPnP: Device error "http://192.168.0.10:32469/DeviceDescription.xml": (-2) 
+[20141219 06:34:54.766] UPnP: Device error "http://192.168.0.10:2869/upnphost/udhisapi.dll?content=uuid:a6f2ecd8-f416-4482-b4fa-77ec21a3e887": (-2) 
+[20141219 06:34:55.044] UPnP: Device error "http://192.168.0.1:5556/dyndev/uuid:aaa00001-bfde-11d3-832c-105F06D9CF60": (-2) 
+[20141219 06:34:59.487] Incoming connection from 192.168.0.10:57824
+[20141219 06:34:59.487] SyncEncryptHandler: bad shareID (STATE_BEGIN)

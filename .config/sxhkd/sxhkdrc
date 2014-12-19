@@ -94,7 +94,7 @@ super + @button{1-3}
 # wm independent hotkeys
 #
 alt + Return
-    urxvt
+    urxvtc
 
 super + shift + w
     google-chrome-stable
@@ -103,14 +103,14 @@ super + shift + r
     gmrun
 
 super + shift + h
-    urxvt -name 'htop' -e htop
+    urxvtc -name 'htop' -e htop
 
 super + shift + f
-    urxvt -name 'ranger' -e ranger
+    urxvtc -name 'ranger' -e ranger
 
 
 super + shift + m
-    urxvt -name 'ncmpcpp' -e ncmpcpp
+    urxvtc -name 'ncmpcpp' -e ncmpcpp
 
 # alt + d
 #    dmenu_run -b -fn Tewi-7 -nb "#fafafa" -nf '#111111' -sb '#ff897d' -sf '#fafafa'

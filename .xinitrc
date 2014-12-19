@@ -9,7 +9,7 @@ xset +fp /usr/share/fonts/OTF
 xset +fp ~/.fonts
 xset fp rehash
 #xcompmgr -c
-#urxvtd -q -f -o &
+urxvtd -q -f -o &
 
 compton -cG & 
 
