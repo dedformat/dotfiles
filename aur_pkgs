@@ -1,3 +1,4 @@
+advcp
 alsi
 android-platform
 android-sdk
@@ -7,6 +8,9 @@ archey3-git
 bar-aint-recursive-git
 bdf-tewi-git
 bspwm-git
+btsync
+btsync-autoconfig
+cloog
 compton-conf-git
 compton-git
 dircolors-solarized-git
@@ -18,7 +22,9 @@ gtk2-theme-solarizedlight-git
 gucharmap-gtk2
 hsetroot
 irssi-256color
+isl
 j4-dmenu-desktop
+lastpass
 libgcrypt15
 libspotify
 live-usb-install
@@ -31,14 +37,20 @@ mopidy-spotify-tunigo
 ncmpcpp-git
 package-query
 powerline-fonts-git
+pycp
 pyspotify
+python2-backports.ssl_match_hostname
 python2-powerline-git
 python2-pyalsaaudio
 python2-pykka
 python2-tunigo
+qingy
+qingy-theme-arch
+qingy-themes
 rxvt-unicode-multi_display-256xresources
 slim-theme-air
 slim-theme-minimal-arch
+slurm
 steam-fonts
 stlarch_font
 stlarch_icons
