@@ -25,8 +25,15 @@ bindkey "^[[8~" end-of-line
 bindkey "^[[3~" delete-char
 
 # prompt
-PROMPT=" %{$fg_bold[yellow]%} » "
-RPROMPT="%{$fg[black]%}%M:%{$fg_bold[yellow]%}%~%{$reset_color%}   "
+autoload -U colors && colors
+#PROMPT=" %{$fg_bold[red]%} λ "
+#RPROMPT="%{$fg[red]%}%M:%{$fg_bold[yellow]%}%~%{$reset_color%}   "
+PROMPT="%{$fg[white]%(! $fg[red] )━$fg[gray]%(1j $fg[green] )─$fg[gray]%(?  $fg[red])─$reset_color%} "
+
+#TERNARY: usage - ternary <evaluate> <true return> <false return>
+ternary () {
+        [[ $1 -eq 0 ]] && printf $2 || printf $3
+}
 
 # powerline
 #powerline-daemon -q

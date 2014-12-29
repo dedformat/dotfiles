@@ -17,6 +17,7 @@ set laststatus=2
 syntax enable
 filetype indent plugin on
 set number
+:highlight LineNr ctermfg=red
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Text, tab and indent related

@@ -67,7 +67,7 @@ ORPHAN 38;5;9;48;5;0 # symlink to nonexistent file
 SETUID 38;5;15;48;5;1 # file that is setuid (u+s)
 SETGID 38;5;0;48;5;3 # file that is setgid (g+s)
 STICKY_OTHER_WRITABLE 38;5;0;48;5;2 # dir that is sticky and other-writable (+t,o+w)
-OTHER_WRITABLE 38;5;12;48;5;2 # dir that is other-writable (o+w) and not sticky
+OTHER_WRITABLE 38;5;1;48;5;2 # dir that is other-writable (o+w) and not sticky
 STICKY 38;5;15;48;5;4 # dir with the sticky bit set (+t) and not other-writable
 # This is for files with execute permission:
 EXEC 38;5;10
@@ -97,32 +97,32 @@ EXEC 38;5;10
 .rpm 38;5;9
 .jar 38;5;9
 # image formats (bright magenta)
-.jpg 38;5;13
-.jpeg 38;5;13
-.gif 38;5;13
-.bmp 38;5;13
-.pbm 38;5;13
-.pgm 38;5;13
-.ppm 38;5;13
-.tga 38;5;13
-.xbm 38;5;13
-.xpm 38;5;13
-.tif 38;5;13
-.tiff 38;5;13
-.png 38;5;13
-.apng 38;5;13
-.mov 38;5;13
-.mpg 38;5;13
-.mpeg 38;5;13
-.avi 38;5;13
-.fli 38;5;13
-.gl 38;5;13
-.dl 38;5;13
-.xcf 38;5;13
-.xwd 38;5;13
+.jpg 38;5;3
+.jpeg 38;5;3
+.gif 38;5;3
+.bmp 38;5;3
+.pbm 38;5;3
+.pgm 38;5;3
+.ppm 38;5;3
+.tga 38;5;3
+.xbm 38;5;3
+.xpm 38;5;3
+.tif 38;5;3
+.tiff 38;5;3
+.png 38;5;3
+.apng 38;5;3
+.mov 38;5;3
+.mpg 38;5;3
+.mpeg 38;5;3
+.avi 38;5;3
+.fli 38;5;3
+.gl 38;5;3
+.dl 38;5;3
+.xcf 38;5;3
+.xwd 38;5;3
 # audio formats (bright magenta)
-.flac 38;5;13
-.mp3 38;5;13
-.mpc 38;5;13
-.ogg 38;5;13
-.wav 38;5;13
+.flac 38;5;11
+.mp3 38;5;11
+.mpc 38;5;11
+.ogg 38;5;11
+.wav 38;5;11
