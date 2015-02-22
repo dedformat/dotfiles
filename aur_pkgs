@@ -5,6 +5,7 @@ android-sdk
 android-sdk-build-tools
 android-sdk-platform-tools
 archey3-git
+awesome-git
 bar-aint-recursive-git
 bdf-tewi-git
 bspwm-git
@@ -13,6 +14,7 @@ btsync-autoconfig
 cloog
 compton-conf-git
 compton-git
+cortex-git
 dircolors-solarized-git
 dmenu2
 gmrun-xdg
@@ -21,6 +23,7 @@ gtk2-theme-solarizeddark-git
 gtk2-theme-solarizedlight-git
 gucharmap-gtk2
 hsetroot
+imgur
 irssi-256color
 isl
 j4-dmenu-desktop
@@ -44,9 +47,6 @@ python2-powerline-git
 python2-pyalsaaudio
 python2-pykka
 python2-tunigo
-qingy
-qingy-theme-arch
-qingy-themes
 rxvt-unicode-multi_display-256xresources
 slim-theme-air
 slim-theme-minimal-arch
@@ -62,8 +62,10 @@ ttf-typicons
 urxvt-font-size-git
 urxvt-perls-git
 urxvtcd
+v86d
 vimperator
 virtualbox-ext-oracle
+vundle-git
 xtitle-git
 yaourt
 zen-gtk-themes
