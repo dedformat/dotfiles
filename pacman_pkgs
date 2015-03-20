@@ -60,8 +60,9 @@ device-mapper
 dhcpcd
 dialog
 diffutils
-dkms
+dmidecode
 dmxproto
+dnsmasq
 dnssec-anchors
 docbook-xml
 docbook-xsl
@@ -72,6 +73,7 @@ dunst
 dwb
 dzen2
 e2fsprogs
+ebtables
 efibootmgr
 efivar
 elfutils
@@ -187,6 +189,7 @@ inetutils
 iniparser
 inputproto
 intltool
+inxi
 iproute2
 iptables
 iputils
@@ -213,6 +216,7 @@ lcms
 lcms2
 ldb
 ldns
+ldoc
 less
 lib32-alsa-lib
 lib32-alsa-plugins
@@ -409,6 +413,7 @@ libtool
 libtorrent-rasterbar
 libtxc_dxtn
 libunistring
+libunwind
 libupnp
 libusb
 libuser
@@ -467,7 +472,9 @@ llvm-libs
 logrotate
 lsof
 lua
+lua-filesystem
 lua-lgi
+lua-penlight
 lua51
 lvm2
 lz4
@@ -583,6 +590,7 @@ python2-mako
 python2-markupsafe
 python2-munkres
 python2-musicbrainzngs
+python2-notify
 python2-pillow
 python2-ply
 python2-psutil
@@ -604,6 +612,8 @@ python2-yaml
 python2-zope-interface
 qemu
 qt4
+qt5-base
+qtchooser
 randrproto
 ranger
 rarian
@@ -688,7 +698,8 @@ virt-install
 virt-manager
 virtualbox
 virtualbox-guest-iso
-virtualbox-host-dkms
+virtualbox-guest-modules
+virtualbox-guest-utils
 virtualbox-host-modules
 vlc
 vte-common
