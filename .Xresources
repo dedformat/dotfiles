@@ -28,6 +28,7 @@
 ! white
 *color7: #707880
 *color15: #C5C8C6
+!#include "/home/deadformat/.colors/tomorrow"
 
 *font: xft:Inconsolata for Powerline:pixelsize=11,xft:Tewi:pixelsize=11,xft:Terminus:pixelsize=11,xft:lemon:pixelsize=11,xft:uushi:pixelsize=11
 
@@ -35,10 +36,32 @@
 URxvt*scrollBar:          False
 URxvt*depth:              32
 URxvt*background:         [85]#1D1F21
+!URxvt*background:         [85]#FAFAFA
 URxvt*intensityStyles:    True
+URxvt*dynamicColors:      On
+
+! SETTINGS
+URxvt*perl-lib: /usr/lib/urxvt/perl/ 
+! URxvt*scrollColor: #8FF528
+! URxvt*troughColor: #222222
+URxvt*secondaryScroll: True
+URxvt*saveLines: 1000
+URxvt*geometry: 82x18
+URxvt.cursorUnderline: False
+URxvt*cursorColor: #D3D3D3
+URxvt.cursorBlink: True
+URxvt*underlineColor: #202020
+urxvt*allow_bold: True
+! URxvt.borderColor:   #222222
+! URxvt.internalBorder:   1
+
+! CLICKABLE LINKS
+URxvt.perl-ext-common : default,matcher
+URxvt.url-launcher: firefox
+URxvt.matcher.button: 1
 
 ! Sane defaults for dzen2
-dzen2.font:       xft:Share Tech:pixelsize=10
-dzen2.foreground: #22EE11
-dzen2.background: black
+!dzen2.font:       xft:Share Tech:pixelsize=10
+!dzen2.foreground: #22EE11
+!dzen2.background: black
 

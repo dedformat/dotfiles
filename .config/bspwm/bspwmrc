@@ -1,6 +1,6 @@
 #! /bin/sh
 
-bspc monitor -d www term work music mail system
+bspc monitor -d www term work music misc system
 
 bspc config border_width        2
 bspc config window_gap          5
@@ -15,4 +15,4 @@ bspc rule -a ranger desktop=^6
 bspc rule -a ncmpcpp desktop=^4
 
 sxhkd &
-~/.config/bspwm/panel
+${HOME}/.config/bspwm/panel

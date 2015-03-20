@@ -1,0 +1,65 @@
+! TABS COLOURS
+! URxvt.color0  : #979797
+! URxvt.color1  : #000000
+
+! TERMINAL COLOURS
+URxvt*foreground: #FFFFFF
+URxvt*background: #151515
+!black
+URxvt*color0: #191919
+URxvt*color8: #191919
+!red
+URxvt*color1: #D7D7D7
+URxvt*color9: #D7D7D7
+!green
+URxvt*color2: #AADB0F
+URxvt*color10: #AADB0F
+!yellow
+URxvt*color3: #F7F7F7
+URxvt*color11: #F7F7F7
+!blue
+URxvt*color4: #D4D4D4
+URxvt*color12: #D4D4D4
+!magenta
+URxvt*color5: #91BA0D
+URxvt*color13: #91BA0D
+!cyan
+URxvt*color6: #D3D3D3
+URxvt*color14: #D3D3D3
+!white
+URxvt*color7: #FFFFFF
+URxvt*color15: #FFFFFF
+
+! FONTS
+!urxvt*font: xft:PragmataPro:size=8.4:antialias=true
+!urxvt*boldFont: xft:PragmataPro-B:size=8.4:antialias=true
+URxvt*font: xft:Inconsolata for Powerline:pixelsize=11,xft:Tewi:pixelsize=11,xft:Terminus:pixelsize=11,xft:lemon:pixelsize=11,xft:uushi:pixelsize=11
+
+! SETTINGS
+URxvt*scrollBar: False
+URxvt*perl-lib: /usr/lib/urxvt/perl/ 
+! URxvt*scrollColor: #8FF528
+! URxvt*troughColor: #222222
+URxvt*secondaryScroll: True
+URxvt*saveLines: 1000
+URxvt*geometry: 82x18
+URxvt.cursorUnderline: False
+URxvt*cursorColor: #D3D3D3
+URxvt.cursorBlink: True
+URxvt*underlineColor: #202020
+urxvt*allow_bold: True
+! URxvt*depth: 32
+! URxvt*transparent: True
+URxvt.borderColor:   #222222
+URxvt.internalBorder:   1
+
+! CLICKABLE LINKS
+URxvt.perl-ext-common : default,matcher
+URxvt.url-launcher: firefox
+URxvt.matcher.button: 1
+
+! TABS SETTINGS
+! URxvt.tabbed.tabbar-fg: 1
+! URxvt.tabbed.tabbar-bg: 0
+! URxvt.tabbed.tab-fg:    1
+! URxvt.tabbed.tab-bg:    0

@@ -27,8 +27,8 @@ bindkey "^[[3~" delete-char
 # prompt
 autoload -U colors && colors
 #PROMPT=" %{$fg_bold[red]%} λ "
-#RPROMPT="%{$fg[red]%}%M:%{$fg_bold[yellow]%}%~%{$reset_color%}   "
 PROMPT="%{$fg[white]%(! $fg[red] )━$fg[gray]%(1j $fg[green] )─$fg[gray]%(?  $fg[red])─$reset_color%} "
+#RPROMPT="%{$fg[white]%}%M:%{$fg_bold[red]%}%~%{$reset_color%}      "
 
 #TERNARY: usage - ternary <evaluate> <true return> <false return>
 ternary () {
@@ -50,11 +50,17 @@ alias grep='grep --color'
 alias egrep='egrep --color'
 alias ping='ping -c 5'
 alias dmesg='dmesg -HL'
+# Pacman
 alias pacman='sudo pacman'
+alias install='sudo pacman -S'
+alias remove='sudo pacman -Rns'
+alias search='sudo pacman -Ss'
 alias archey='archey3'
 alias sf='screenfetch'
 alias alsi='alsi -a -u'
 #alias cp='acp -g'
+
+alias inxi='inxi -F'
 
 # New commands
 #cd and ls in one
@@ -71,5 +77,5 @@ cl() {
 	fi
 }
 
-# eval $(dircolors .dircolors)
+eval $(dircolors .dircolors)
 

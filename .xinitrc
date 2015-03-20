@@ -2,12 +2,13 @@ exec > .xsession-errors 2>&1
 
 xsetroot -cursor_name left_ptr
 #hsetroot -solid "#FFFFFF"
-xrdb -merge .Xresources
+xrdb -merge ~/.Xresources
 #setxkbmap hr
 xset +fp /usr/share/fonts/local
 xset +fp /usr/share/fonts/OTF
 xset +fp ~/.fonts
 xset fp rehash
+xset m 1/1 4
 #xcompmgr -c
 urxvtd -q -f -o &
 

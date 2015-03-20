@@ -1,7 +1,13 @@
 help
 mkdir test
 
-open_with 
 h
-delete
 search Music
+find fluke
+open_with vlc
+search Opeth
+deletey
+delete
+open_with 
+rename
+rename Opeth

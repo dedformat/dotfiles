@@ -6,6 +6,10 @@
 alt + shift + e
     bspc quit && pkill panel
 
+# Suspend
+alt + ctrl + shift + x
+    systemctl suspend
+
 # Close current window
 alt + shift + q
     bspc window -c
@@ -88,6 +92,13 @@ super + !button{1-3}
 super + @button{1-3}
     bspc pointer -u
 
+# windows resize
+super + shift + {h,j,k,l}
+    bspc window -e {left -10,down +10,up -10,right +10}
+
+super + shift + ctrl + {h,j,k,l} 
+    bspc window -e {right -10, up +10, down -10, left +10}
+
 # super + shift + {Left,Right,Up,Down}
 #    bspc window -e {left -10,down +10,up -10,right +10} || {right -10,up +10,down -10,left +10}
 #
@@ -102,11 +113,11 @@ super + shift + w
 super + shift + r
     gmrun
 
-super + shift + h
+super + shift + s
     urxvtc -name 'htop' -e htop
 
 super + shift + f
-    urxvtc -name 'ranger' -e ranger
+    urxvtc -depth 0 -name 'ranger' -e ranger
 
 
 super + shift + m

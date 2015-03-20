@@ -1,8 +1,6 @@
 #!/bin/sh
 
-source ~/.config/bspwm/profile
-source ~/.config/bspwm/panel_colors
-
+source ~/.config/bspwm/panel.cfg
 
 if [ $(pgrep -cx panel) -gt 1 ] ; then
 	printf "%s\n" "The panel is already running." >&2
@@ -16,18 +14,77 @@ mkfifo "$PANEL_FIFO"
 
 bspc config top_padding $PANEL_HEIGHT
 bspc control --subscribe > "$PANEL_FIFO" &
-echo 'T' $ORANGE $(whoami)@$(hostname) > "$PANEL_FIFO" &
+
+# Fix issue with stereo audio devices
+# usage: get_vol $DEVNAME
+get_vol() {
+  dev=$1
+  if ! amixer get Master | egrep Left &>/dev/null; then
+    x=$(amixer get Master | egrep -o "[0-9]+%")
+  else
+    l=$(amixer get Master | grep Left | egrep -o "[0-9]+%" | sed s/\%//)
+    r=$(amixer get Master | grep Right | egrep -o "[0-9]+%" | sed s/\%//)
+    x=$(($(($l + $r)) / 2))
+  fi
+  printf "%s\n" ${x}\%
+}
+
+# Get Battery Stats
+# usage: get_bat $UNUSED $USED
+#get_bat () {
+#  unused=$1
+#  used=$2
+#  if [ -d /sys/class/power_supply/BAT0 ]; then
+#    percent=$(acpi | egrep -o [0-9]+%)
+#    percent=${percent:0:$(expr length $percent - 1)}
+#  else
+#    percent="100"
+#  fi
+#  bat=$(($percent / 10))
+#  stars=${unused}
+#  x=1
+
+#  while [ $x -lt $bat ]; do
+#    stars=${stars}${unused}
+#    x=$(($x + 1))
+#  done
+
+#  while [ $x -lt 10 ]; do
+#    stars=${stars}${used}
+#    x=$(($x + 1))
+#  done
+
+#  printf "%s\n" ${stars}
+#}
+
+# Return color based on WiFi signal strength
+# usage: wifi_strength $DEVICE $WIFI_GOOD $WIFI_FAIR $WIFI_POOR
+wifi_strength () {
+  dev="$1"
+  signal=$(iw dev $WIFI_DEV link | grep signal | egrep -o '[0-9]+')
+        
+  if [ $signal -lt 68 ]; then
+    color=$2
+  elif [ $signal -lt 70 ]; then
+    color=$3
+  else
+    color=$4
+  fi
+  printf "%s\n" "%{F${color}}"
+} 
+
 
 # Loop to check time, battery and volume statuses
 while true; do
-  AP=$(essid -w wlp0s29u1u8)
-  VOL=$(amixer get Master | egrep -o "[0-9]+%")
-	DATE=$(date +'S%B %d %a %l:%M')
-	echo 'I'$LIGHTGREY$AP$FG' ⮞ '$LIGHTGREY$VOL% $FG''$LIGHTGREY $FG> "$PANEL_FIFO"
-	echo "$DATE "  > "$PANEL_FIFO" &
-sleep 0.5s
+	VOL=$(get_vol Master)
+#	BAT=$(get_bat $BATTERY_UNUSED $BATTERY_USED)
+	DATE=$(date +"%l:%M:%S")
+  # WiFi signal strength and Archlinux logo
+  echo "T $(wifi_strength $WIFI_DEV $WIFI_GOOD $WIFI_FAIR $WIFI_POOR) $(essid -w $WIFI_DEV)" > "$PANEL_FIFO" &
+	echo "I%{F${FOREGROUND}} ⮞ %{F#FF${BOLD_WHITE}}${VOL}% %{F${FOREGROUND}}${BAT}% %{F#FF${BOLD_WHITE}}${DATE}" > "$PANEL_FIFO" &
+  sleep 0.5s
 done &
 
-cat "$PANEL_FIFO" | ~/.config/bspwm/panel_bar | bar-aint-recursive -g ${BARWIDTH}x${BARHEIGHT}+${EDGEWIDTH} -f "$PANEL_FONT_FAMILY" -F "$COLOR_FOREGROUND" -B "$COLOR_BACKGROUND" &
+cat "$PANEL_FIFO" | ~/.config/bspwm/panel_bar | bar-aint-recursive -g ${BARWIDTH}x${BARHEIGHT}+${EDGEWIDTH} -f "$PANEL_FONT_FAMILY" -F "$FOREGROUND" -B "$BACKGROUND" -u "$UNDERLINE_WIDTH" &
 
 wait

@@ -1,9 +1,9 @@
 # DO NOT EDIT! This file will be overwritten by LXAppearance.
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
-gtk-theme-name="Zen-nokto"
-gtk-icon-theme-name="gnome"
-gtk-font-name="Cantarell 11"
+gtk-theme-name="Zen-griza"
+gtk-icon-theme-name="GNOME"
+gtk-font-name="Inconsolata for Powerline Medium 11"
 gtk-cursor-theme-name="Adwaita"
 gtk-cursor-theme-size=0
 gtk-toolbar-style=GTK_TOOLBAR_BOTH
@@ -14,6 +14,6 @@ gtk-enable-event-sounds=1
 gtk-enable-input-feedback-sounds=1
 gtk-xft-antialias=1
 gtk-xft-hinting=1
-gtk-xft-hintstyle="hintslight"
+gtk-xft-hintstyle="hintfull"
 gtk-xft-rgba="rgb"
 include "/home/deadformat/.gtkrc-2.0.mine"

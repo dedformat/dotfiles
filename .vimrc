@@ -6,8 +6,8 @@ else
 endif
 
 let g:hybrid_use_Xresources = 1
-colorscheme hybrid
-
+colorscheme Tomorrow-Night
+" colorscheme minhxr
 set rtp+=/usr/lib/python2.7/site-packages/powerline/bindings/vim/
 set laststatus=2
 
