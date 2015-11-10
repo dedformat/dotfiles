@@ -27,6 +27,7 @@ get_vol() {
     x=$(($(($l + $r)) / 2))
   fi
   printf "%s\n" ${x}\%
+  #amixer get Master | egrep -o "[0-9]+%"
 }
 
 # Get Battery Stats
@@ -77,14 +78,14 @@ wifi_strength () {
 # Loop to check time, battery and volume statuses
 while true; do
 	VOL=$(get_vol Master)
-#	BAT=$(get_bat $BATTERY_UNUSED $BATTERY_USED)
-	DATE=$(date +"%l:%M:%S")
-  # WiFi signal strength and Archlinux logo
-  echo "T $(wifi_strength $WIFI_DEV $WIFI_GOOD $WIFI_FAIR $WIFI_POOR) $(essid -w $WIFI_DEV)" > "$PANEL_FIFO" &
-	echo "I%{F${FOREGROUND}} ⮞ %{F#FF${BOLD_WHITE}}${VOL}% %{F${FOREGROUND}}${BAT}% %{F#FF${BOLD_WHITE}}${DATE}" > "$PANEL_FIFO" &
+##BAT=$(get_bat $BATTERY_UNUSED $BATTERY_USED)
+	DATE=$(date +'%a %b %d %I:%M%P')
+  #WiFi signal strength and Archlinux logo
+  echo "T $(wifi_strength $WIFI_DEV $WIFI_GOOD $WIFI_FAIR $WIFI_POOR) $(essid -w wlp0s20u4)" > "$PANEL_FIFO" &
+	echo "I%{F${FOREGROUND}} ⮞ %{F#FF${BOLD_WHITE}}${VOL} %{F${FOREGROUND}} %{F#FF${BOLD_WHITE}}${DATE}" > "$PANEL_FIFO" &
   sleep 0.5s
 done &
 
-cat "$PANEL_FIFO" | ~/.config/bspwm/panel_bar | bar-aint-recursive -g ${BARWIDTH}x${BARHEIGHT}+${EDGEWIDTH} -f "$PANEL_FONT_FAMILY" -F "$FOREGROUND" -B "$BACKGROUND" -u "$UNDERLINE_WIDTH" &
+cat "$PANEL_FIFO" | ~/.config/bspwm/panel_bar | lemonbar -g ${BARWIDTH}x${BARHEIGHT}+${EDGEWIDTH} -f "$barfont" -f "$baricons" -F "$FOREGROUND" -B "$BACKGROUND" -u "$UNDERLINE_WIDTH" &
 
 wait

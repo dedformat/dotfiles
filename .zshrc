@@ -1,20 +1,100 @@
-# The following lines were added by compinstall
+# Dylan's zhrc
+export DE=bspwm
+export TERM=rxvt-unicode-256color
 
-zstyle ':completion:*' completer _complete _ignored
-zstyle ':completion:*' max-errors 2
-zstyle :compinstall filename '/home/deadformat/.zshrc'
+# Sets editor to neovim
+export EDITOR='vim'
 
-autoload -Uz compinit
+# Sets ccache location to ssd
+export CCACHE_DIR=~/.ccache
+
+# Disable Ranger default config
+export RANGER_LOAD_DEFAULT_RC=FALSE
+
+# Aliases
+source ~/.zsh_aliases
+
+# Global Variables {{{
+
+# Crayon Dark {{{
+
+export black="2d2b33"
+export darkgray="75747a"
+export red="c86c75"
+export green="d1c8b8"
+export yellow="e7b9ac"
+export blue="707894"
+export magenta="e47b66"
+export orange="e47b66"
+export pink="EBA3A3"
+export cyan="b4bcc9"
+export white="ffffff"
+
+# }}}
+
+# Lemonbar {{{
+#export barfont="-benis-lemon-medium-r-normal--10-110-75-75-m-50-iso8859-1"
+#export baricons="-wuncon-siji-medium-r-normal--10-100-75-75-c-80-iso10646-1"
+
+#export barheight=23
+
+# }}}
+
+# bspwm {{{
+
+export ws1=''
+export ws2=''
+export ws3=''
+export ws4=''
+
+# }}}
+
+# }}}
+
+# FZF {{{
+export FZF_DEFAULT_COMMAND='ag -l -g "" --hidden'
+
+export FZF_DEFAULT_OPTS='
+  --extended
+  --color bg:0,bg+:0
+  --multi
+'
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+# }}}
+
+# Paths {{{
+if [ -d "$HOME/bin" ] ; then
+  PATH="$HOME/bin:$PATH"
+fi
+
+PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
+
+# }}}
+
+# Enable completion and prompt
+autoload -U compinit promptinit
 compinit
-# End of lines added by compinstall
-# Lines configured by zsh-newuser-install
-HISTFILE=~/.histfile
-HISTSIZE=5000
+promptinit
+
+# Better tab completion
+zstyle ':completion:*' menu select
+
+# Complete Aliases
+setopt completealiases
+
+# Enable colors in prompt
+autoload -U colors && colors
+
+PROMPT="%{$fg_bold[white]%} %n %{$fg_no_bold[white]%}%~ %{$fg_no_bold[yellow]%}> "
+
+RPROMPT="%{$fg_bold[cyan]%}%t %{$reset_color%}"
+
+# History File
+HISTSIZE=1000
 SAVEHIST=1000
-setopt appendhistory notify
-bindkey -e
-# End of lines configured by zsh-newuser-install
-export EDITOR="vim"
+HISTFILE=~/.zsh_history
+
 # keybinds
 export WORDCHARS=''
 
@@ -24,58 +104,20 @@ bindkey "^[[7~" beginning-of-line
 bindkey "^[[8~" end-of-line
 bindkey "^[[3~" delete-char
 
-# prompt
-autoload -U colors && colors
-#PROMPT=" %{$fg_bold[red]%} λ "
-PROMPT="%{$fg[white]%(! $fg[red] )━$fg[gray]%(1j $fg[green] )─$fg[gray]%(?  $fg[red])─$reset_color%} "
-#RPROMPT="%{$fg[white]%}%M:%{$fg_bold[red]%}%~%{$reset_color%}      "
+# Url magic
+autoload -U url-quote-magic
+zle -N self-insert url-quote-magic
 
-#TERNARY: usage - ternary <evaluate> <true return> <false return>
-ternary () {
-        [[ $1 -eq 0 ]] && printf $2 || printf $3
-}
+# Assume a command is cd if it's a directory
+setopt autocd
+setopt sharehistory
 
-# powerline
-#powerline-daemon -q
+#source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+#source ~/builds/zsh-history-substring-search/zsh-history-substring-search.zsh
 
-# Powerline integration
-#. /usr/share/zsh/site-contrib/powerline.zsh
-
-# Everyday usefulness
-alias diff='colordiff -u'
-alias less='less -S -#5 -q -R'
-alias ls='ls --color=auto -F'
-alias vi=vim
-alias grep='grep --color'
-alias egrep='egrep --color'
-alias ping='ping -c 5'
-alias dmesg='dmesg -HL'
-# Pacman
-alias pacman='sudo pacman'
-alias install='sudo pacman -S'
-alias remove='sudo pacman -Rns'
-alias search='sudo pacman -Ss'
-alias archey='archey3'
-alias sf='screenfetch'
-alias alsi='alsi -a -u'
-#alias cp='acp -g'
-
-alias inxi='inxi -F'
-
-# New commands
-#cd and ls in one
-cl() {
-	dir=$1
-	if [[ -z "$dir" ]]; then
-		dir=$HOME
-	fi
-	if [[ -d "$dir" ]]; then
-		cd "$dir"
-		ls
-	else
-		echo "bash: cl: '$dir': Directory not found"
-	fi
-}
+# bind UP and DOWN arrow keys
+#zmodload zsh/terminfo
+#bindkey "$terminfo[kcuu1]" history-substring-search-up
+#bindkey "$terminfo[kcud1]" history-substring-search-down
 
 eval $(dircolors .dircolors)
-

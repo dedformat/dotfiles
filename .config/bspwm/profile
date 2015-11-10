@@ -1,8 +1,10 @@
-PANEL_FIFO=/tmp/bspwm-bar
+PANEL_FIFO=/tmp/panel-fifo
 BARHEIGHT=15
-PANEL_FONT_FAMILY="-*-lemon-*-*-*-*-10-*-*-*-*-*-*-*"
+#PANEL_FONT_FAMILY="-*-lemon-*-*-*-*-10-*-*-*-*-*-*-*"
+FONT_FONT="font:xft:Oxygen-Sans-Bold:pixelsize=10"
+ICON_FONT="-*-stlarch-*-*-*-*-10-*-*-*-*-*-*-*"
 EDGEWIDTH=5
 SCREENHEIGHT=$(xrandr -q | grep Screen | awk '{print $10}' | sed s/,//)
 SCREENWIDTH=$(xrandr -q | grep Screen | awk '{print $8}')
 BARWIDTH=$(($SCREENWIDTH - $(($EDGEWIDTH * 2))))
-export PANEL_FIFO PANEL_FONT_FAMILY EDGEWIDTH SCREENHEIGHT SCREENWIDTH BARWIDTH
+export PANEL_FIFO FONT_FONT ICON_FONT EDGEWIDTH SCREENHEIGHT SCREENWIDTH BARWIDTH

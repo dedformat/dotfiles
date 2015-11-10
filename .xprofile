@@ -1,0 +1,30 @@
+#!/bin/sh
+
+# Dump X errors into a (semi)readable file
+exec > .xsession-errors 2>&1
+
+xrdb -load ~/.Xresources
+
+# Font Paths
+xset +fp /usr/share/fonts/envypn
+xset +fp /usr/share/fonts/misc
+xset +fp ~/.fonts
+xset fp rehash
+
+# Keyboard LED
+xset led 3
+
+# Load some stuff
+xsetroot -cursor_name left_ptr
+dunst &
+nitrogen --restore &
+sxhkd &
+
+# Changes the keyboard  repeat rate
+#xset r rate 400 25
+
+# Disables Mouse Accel
+#xset m 0/0 0
+
+# Start MPD(if not already running)
+[ ! -s ~/.config/mpd/pid ] && mpd ~/.config/mpd/mpd.conf &

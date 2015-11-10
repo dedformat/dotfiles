@@ -1,0 +1,24 @@
+# Everyday usefulness
+alias diff='colordiff -u'
+alias less='less -S -#5 -q -R'
+alias ls='ls --color=auto -F'
+alias vi=vim
+alias grep='grep --color'
+alias egrep='egrep --color'
+alias ping='ping -c 5'
+alias dmesg='dmesg -HL'
+# Pacman
+alias pacman='sudo pacman'
+alias install='sudo pacman -S'
+alias remove='sudo pacman -Rns'
+alias search='sudo pacman -Ss'
+alias archey='archey3'
+alias sf='screenfetch'
+alias alsi='alsi -a -u'
+#alias cp='acp -g'
+
+alias inxi='inxi -F'
+
+# Aliases to start/kill bar
+alias killbar="pkill ~/.config/lemonbar/clock.sh & pkill ~/.config/lemonbar/workspace.sh & pkill ~/.config/lemonbar/music.sh & pkill lemonbar & pkill orangebar"
+alias startbar="~/.config/lemonbar/clock.sh & sleep .5s && ~/.config/lemonbar/workspace.sh & ~/.config/lemonbar/music.sh"
